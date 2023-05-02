@@ -60,19 +60,20 @@
             <section class="ttm-row welcome-section clearfix">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-6 col-md-12">
-                            <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
+                        <div class="col-md-12">
+                             <!-- section title -->
+                             <div class="section-title">
                                     <div class="title-header">
-                                        <h2 class="title">Prefabricated Site Office</h2>
+                                        <h2 class="h2-bold">Maximizing Efficiency on the Job Site with Prefabricated Site Offices</h2>
                                     </div>
                                 </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="res-991-pt-0">
+                                <p class="service-para">A prefabricated site office is a type of modular building that is designed and manufactured off-site in a factory setting, and then transported to a construction site where it is assembled and installed. These offices are made up of pre-built modules or sections that are constructed using standardized materials and construction methods. prefabricated site offices offer a versatile and cost-effective solution for temporary or permanent office and storage space needs in a variety of settings.</p>
+                                <p class="service-para">Mekark Prefabricated site offices are a popular choice, offering  a number of benefits, such as reduced construction time, cost-effectiveness, and flexibility in design. Our Prefabricated Construction Site office has an extensive range of customizable prefabricated structure systems that offer the ideal result for construction systems that require durable structures that aren't only quick to erect but can also be easily disassembled and dislocated. Our experienced team combines skills and knowledge to design, manufacture, and install structures according to your needs and specifications. </p>
                                
                             </div>
                         </div>
@@ -81,6 +82,34 @@
                             <div class="ttm_single_image-wrapper">
                                 <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/prefab-site/prefabsite-office-scroll.jpg" alt="single_02">
                             </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="service-para">It can also convert configurations to meet new design conditions. In addition, prefabricated technology and feather light accouterments allow for significantly reduced installation times, providing a faster and more efficient way of erecting construction site offices.</p>
+                            <h2 class="h2-bold">Benefits of Prefab Office Structures </h2>
+                            <p>There are numerous benefits to using prefab office structures, including.</p>
+                            <ul>
+                                <li>Cost-effective a prefab office structure is in general more cost-effective because the pieces are earlier construct using a recurring track in a factory setting</li>
+                                <li>High-quality Prefab construction occurs in an off-site, indoor, climate-controlled factory, ensuring high-quality products. In addition, modular office structures are generally constructed using sword framing for long-term continuity.</li>
+                                <li>Sustainable Prefab office structures can be make use of again and repurposed many times, or the pieces can be deconstructed and recycled.</li>
+                                <li>
+                                Convenient a prefab office structure can be constructed high-speed since there's less to erect from scratch, making it a nearby option with quick turn-around times.
+                                </li>
+                                <li>Adaptability and flexibility they can be altered or uninstalled to fit the customer's space needs. As temporary and semi-permanent, the prefab office structure be able to be by way of no difficulty expanded, shrunk, or relocated according to the organization's space need.</li>
+                                <li>Easy installation Panels can be easily attached and assembled on-site. The installation is done hastily and helps create office spaces for an organization that is already running and needs some extra space quickly. </li>
+                                <li>Quicker deliveries our product process engage standardized panel and binder post systems, which helps in mass production. Panels are manufactured quickly, and the structure can be prefabricated off-site while the design site is prepared. Therefore, systems can be delivered faster and on time.</li>
+                            </ul>
+                            <h2 class="h2-bold">Why to choose Mekak prefabrication site office structures?</h2>
+                            <ul>
+                                <li>Mekak Factory is one the complete turnkey solutions for prefabricated site office offer with low price and high quality materials.</li>
+                                <li>With over 10+ years of industry specific expertise, Our Experience Team are provide Delivery fast; strictly control quality; Strong packing.</li>
+                                <li>The prefab site offices are insulated, resultant in higher energy savings and added comfort in hard setting due to insulation.</li>
+                                <li>Mekark prefabricated site office is Dry construction, quick and easy to raise. All weather-proof construction</li>
+                                <li>Mekark Customer service can connect with you every detail will be confirmed before production.</li>
+                                <li>Mekak team will follow up the entire order and check the products piece by piece to ensure the quality.</li>
+                                <li>Our sales team will keep our clients posted during our transaction until get the well feedback of the goods.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>

@@ -57,22 +57,23 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                    <div class="title-header">
+                                        <h2 class="h2-bold">Customizing Prefabricated Labour Hutments for Your Workforce </h2>
+                                    </div>
+                                </div><!-- section title end -->
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">Labour Hutment</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                                <p class="service-para">Prefabricated labour hutments are modular buildings that are specifically designed to provide temporary housing for workers on construction sites or in other industrial settings. These hutments are constructed off-site in a factory setting and transported to the work site for installation. The prefabricated modules or sections are made using standardized materials and construction methods and can be easily assembled on-site.</p>
+                                <p class="service-para">Mekark Prefabricated labour hutments are popular in the construction industry We are provided many advantages over traditional on-site housing options. It is cost-effective, energy-efficient, and can be quickly installed and dismantled as needed.  We work hard to present complete turnkey results, together with everything demanded, from the final, move-in-ready accommodations to the electrical and sanitary fixtures, furnishings, and bunk beds. We've make available affordable housing for several workers over the past 15 years. Under the systems area, there is a list of some of our unique systems on this page.</p>
                                
                             </div>
                         </div>
@@ -81,6 +82,33 @@
                             <div class="ttm_single_image-wrapper">
                                 <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/labour-hument/prefabsite-labourhutment.jpg" alt="single_02">
                             </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h2 class="h2-bold">Why Prefab Modular Labour Hutments Are the Future of On-Site Housing?</h2>
+                            <ul>
+                                <li>Prefab modular labour hutments are generally less expensive than traditional on-site           housing options because they are constructed off-site in a factory setting, reducing labor and material costs.</li>
+                                <li>Prefab modular labour hutments can be easily transported to and installed on-site, making them a convenient and flexible housing option for workers in remote or temporary locations.</li>
+                                <li>Prefab modular labour hutments can be customized to meet the specific needs of the workers and the site, including the number of occupants and the duration of stay.</li>
+                                <li>Prefab modular labour hutments can be designed with energy-efficient features such as insulation and energy-efficient windows, reducing energy costs and improving the comfort of the workers.</li>
+                                <li>Prefab modular labour hutments can be built using eco-friendly materials and energy-efficient construction methods, reducing the environmental impact of on-site housing.</li>
+                                <li>Prefab modular labour hutments can be designed with safety features such as fire alarms and smoke detectors, ensuring the safety of the workers.</li>
+                            </ul>
+                            <h2 class="h2-bold">Why Choose Mekark for Prefab Labour Hutments ?</h2>
+                            <ul>
+                                <li>Mekark Prefab modular labour hutments are provide temporary housing for workers on construction sites or in other industrial settings.</li>
+                                <li>Mekark Prefabricated labor hutments are durable on a budget. </li>
+                                <li>Mekark Prefabricated labor hutments are lightweight yet strong, Quick to assemble and disassemble. </li>
+                                <li>Mekark Prefabricated Team can be designed according to customers' needs. </li>
+                                <li>Best pricing may be found on prefabricated labor huts made by Mekark, whether for student casing, labor hutments, or flats for workers in India.</li>
+                            </ul>
+                            <h2>Our Mekark Prefabricated labor hutments services are provided</h2>
+                                <ul>
+                                    <li>PUF / EPS insulated sandwich panels of 50 / 60mm with PPGI sheet on both sides.</li>
+                                    <li>PUF / EPS insulated sandwich panels of 30 / 40 mm or PPGI roofing sheet.</li>
+                                    <li>Insulated Doors, windows and Electrical fittings, sanitary fittings, beds</li>
+                                </ul>
                         </div>
                     </div>
                 </div>

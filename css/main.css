@@ -294,9 +294,11 @@ a, img{
 
 
 .service-para{   /*TODO*/
-    font-weight: 500;
     line-height: 32px;
     font-size: 18px;
+}
+ul > li{
+    margin: 5px 0px;
 }
 
 /* ===============================================
