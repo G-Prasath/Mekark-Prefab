@@ -59,19 +59,21 @@
             <section class="ttm-row welcome-section clearfix">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-6 col-md-12">
-                            <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
+                        <div class="col-md-12">
+                             <!-- section title -->
+                             <div class="section-title">
                                     <div class="title-header">
-                                        <h2 class="title">Liftable Cabin</h2>
+                                        <h2 class="h2-bold">Maximizing Workspace Efficiency with Liftable Cabinsn</h2>
                                     </div>
                                 </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="res-991-pt-0">
+                               
+                                <p class="service-para">Liftable cabins, also known as elevating cabins or cabins that can be raised, are a type of temporary or permanent structure designed to provide a safe and efficient workspace for workers at height. Liftable cabins are used in a variety of industries and applications, including construction, maintenance.</p>
+                                <p class="service-para">Mekark Prefab is just one of the leading liftable cabin manufacturer and supplier in Chennai, offer a versatile and efficient solution for working at height in a wide range of industries and applications. Our Mekark Team provide a safer and more stable workspace, and can be customized to meet specific job requirements. Mekark Liftable cabins are used in emergency response situations, such as search and rescue operations or firefighting. We provide a secure and stable platform for workers to perform their duties in hazardous or hard-to-reach locations.</p>
                                
                             </div>
                         </div>
@@ -80,6 +82,18 @@
                             <div class="ttm_single_image-wrapper">
                                 <img width="570" height="471" class="img-fluid" src="images/products/standred-modular/liftable/liftablecabin-scrool.jpg" alt="single_02">
                             </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h2 class="h2-bold">Why to Choose Our Mekark Liftable Cabins?</h2>
+                            <ul>
+                                <li>Mekark provide a safer working environment for workers at heights and eliminate the need for scaffolding, ladders, or other temporary structures that can be unstable and unsafe.</li>
+                                <li>Mekark Team can increase productivity by providing an efficient and safe work environment that is easily accessible to workers. This can help reduce downtime and increase work efficiency.</li>
+                                <li>Mekark Liftable cabins can be moved to different locations on a job site or lifted to different levels of a building as needed, providing greater flexibility and versatility than fixed structures.</li>
+                                <li>Mekark Liftable cabins take up less space than traditional scaffolding or other temporary structures. They can be used in areas where space is limited and provide a safe, efficient workspace.</li>
+                                <li>Mekark can be customized to meet specific job requirements. Our Team specialized equipment, such as cranes or lifts, or designed to meet specific safety or environmental standards. Liftable cabins can be a cost-effective alternative to traditional scaffolding or other temporary structures.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>

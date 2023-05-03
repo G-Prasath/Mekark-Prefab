@@ -59,19 +59,21 @@
             <section class="ttm-row welcome-section clearfix">
                 <div class="container">
                     <div class="row">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Efficient and Eco-Friendly Sustainable Prefab Porta Cabins</h2>
+                                </div>
+                            </div><!-- section title end -->
+                        </div>
+                    </div>
+                    <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">Porta Cabin</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                                
+                                <p class="service-para">A Porta Cabin, also known as a portable cabin or modular cabin, is a prefabricated modular structure that is designed to be transported and installed quickly and easily at a different location. Porta Cabins are commonly used for a wide range of applications such as site offices, portable security cabin, storage rooms, and more. Porta Cabins can be customized to meet the specific needs of each project, and they can be easily relocated and reassembled as needed, making them a versatile and cost-effective solution for temporary or permanent buildings.</p>
+                                <p class="service-para">Mekark is the trusted porta Cabin manufacturer and supplier in India, wide range of excellent amenities. Our highly customizable and can be designed to meet the specific needs. OUr team designed to be portable making them an ideal solution for temporary or mobile buildings.</p>
                                
                             </div>
                         </div>
@@ -80,6 +82,18 @@
                             <div class="ttm_single_image-wrapper">
                                 <img width="570" height="471" class="img-fluid" src="images/products/standred-modular/porta-cabin/portacabn.jpg" alt="single_02">
                             </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="service-para">Mekark Factory Unit made with the quality materials to provide a safe, weather-resistant, and energy-efficient and accommodation anywhere you need it. our prefab experts will analyze the site infrastructure to ensure best services and quality materials. We provide durable and cost-effective solutions that can be easily transported and assembled, making them ideal for temporary or permanent buildings.</p>
+                            <h2 class="h2-bold">Why to Choose us?</h2>
+                            <ul>
+                                <li>Flexibile Deisgn, Lightweight and Easy to Install.</li>
+                                <li>Mekark are made from high-quality materials and are designed to withstand harsh weather conditions and heavy use.</li>
+                                <li>Mekark Porta Cabins can be customized to meet specific requirements and can be easily relocated or repositioned as needed.</li>
+                                <li>Mekark can be designed in a variety of sizes according to requirements.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>

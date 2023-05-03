@@ -59,19 +59,22 @@
             <section class="ttm-row welcome-section clearfix">
                 <div class="container">
                     <div class="row">
+                        <div class="col-md-12">
+                             <!-- section title -->
+                             <div class="section-title">
+                                    <div class="title-header">
+                                        <h2 class="h2-bold">Fast and Affordable - Innovations in Mekark Prefab Mi Homes</h2>
+                                    </div>
+                                </div>
+                                <!-- section title end -->
+                        </div>
+                    </div>
+                    <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">Mi Homes</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                                <p class="service-para">Mekark Prefab Mi Homes surrounded by insulated EPS (Expanded Polystyrene) panels are modular homes that are constructed using prefabricated panels made of EPS foam insulation sandwiched between two layers of steel or aluminum. The panels are pre-engineered and cut to size in a factory, and then transported to the building site for assembly.</p>
+                                <p class="service-para">These prefabricated homes offer several advantages over traditional construction methods. They are quick to assemble, energy-efficient, and environmentally friendly. The EPS foam insulation provides excellent thermal insulation, reducing energy costs and ensuring a comfortable living environment. Additionally, the modular design allows for easy customization and expansion, making it an ideal solution for a wide range of residential and commercial applications.</p>
+                                <p class="service-para">Mekark Prefab Mi Homes are designed to meet high standards of quality and durability, with a focus on sustainability and affordability.</p>
                                
                             </div>
                         </div>
@@ -80,6 +83,12 @@
                             <div class="ttm_single_image-wrapper">
                                 <img width="570" height="471" class="img-fluid" src="images/products/standred-modular/mi-homes/mihomes.jpg" alt="single_02">
                             </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="service-para">The use of prefabricated panels and modular construction methods helps to reduce waste and minimize the environmental impact of the building process. With their innovative design and high-quality construction, Mekark Prefab Mi Homes offer a modern and efficient solution for anyone looking for a fast, affordable, and eco-friendly way to build a new home or commercial building.</p>
+                            <p class="service-para">Prefab Mi Homes are built using pre-engineered panels that are assembled on-site, making the construction process much faster than traditional methods. This can result in significant cost savings and reduced construction time. Prefab Mi Homes offer a wide range of customization options, including different panel designs, floor plans, and finishes. This allows homeowners to create a unique and personalized home that meets their specific needs and preferences. Prefab Mi Homes offer a faster, higher-quality, and more customizable solution to traditional home construction, with the added benefits of energy efficiency and environmental sustainability.</p>
                         </div>
                     </div>
                 </div>
