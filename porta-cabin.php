@@ -115,7 +115,7 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/porta-cabin/Prefabricated-multi-story-building.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/porta-cabin/Office-Cabins.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Prefabricated Office Cabins</p>
@@ -123,7 +123,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/porta-cabin/Modular-site-offices-or-Mining-sites.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/porta-cabin/Office-cabin-Interiors.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Office cabin Interiors</p>
@@ -131,7 +131,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/porta-cabin/Construction.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/porta-cabin/Multistorey-Cabins.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Multistorey Cabins</p>
@@ -139,7 +139,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/porta-cabin/Education.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/porta-cabin/Temporary-Office.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Temporary Site Office</p>
@@ -147,7 +147,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/porta-cabin/Prefab-sales-office.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/porta-cabin/Prefab-Accommodation-Building.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Prefab Accommodation Building</p>

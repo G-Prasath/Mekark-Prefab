@@ -61,7 +61,7 @@
                       <img src="images/projects/sandwich-panels/sandwich-puf-panel.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">PUF Panel</h5>
-                        <p class="card-text">Mekark Prefabricated Structures specializing in PUF and EPS insulated panels with a light hand sword frame (LGSF) frame. We are a complete-service, integrated engineering, and construction services in India.</p>
+                        <p class="card-text">Mekark is the leading manufacturers and suppliers of PUF Sandwich Panel in India. We provide a wide range of high quality PUF panels for warehouses, factories, site offices and many other places.</p>
                         <a href="puf-panel" class="btn btn-primary">Read More</a>
                       </div>
                     </div>
@@ -71,7 +71,7 @@
                       <img src="images/projects/sandwich-panels/eps-panel.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">EPS Panel</h5>
-                        <p class="card-text">Mekark Prefab site office is modular prefab with PUF Insulated Panels / EPS Insulated Panels / Light Gauge steel framing (LGSF) solution. Our site office is constructed using premium quality substances and ultra-modern technology.</p>
+                        <p class="card-text">Mekark is the best supplier and manufacturer of Extruded Polystyrene (EPS) Panel sandwich panel and insulated roof panels in India. We offer a wide range of EPS sandwich panels using latest technology.</p>
                         <a href="eps-panel" class="btn btn-primary">Read More</a>
                       </div>
                     </div>
@@ -81,7 +81,7 @@
                       <img src="images/projects/sandwich-panels/rockwoolpanel.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Rockwool Panel</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. Mekark Prefab Structure is one of the manufacturing and installation services like staff and worker accommodation. Our professional Team work is Efficient and Cost-Effective Building Solutions for Labor Hutment.</p>
+                        <p class="card-text">Mekark is the is a reliable and experienced Glass-wool sandwich panels manufacturer and supplier in india. Our range of sizes and thicknesses to suit different purposes in Industrial and Commercial Application.</p>
                         <a href="rockwool-panel" class="btn btn-primary">Read More</a>
                       </div>
                     </div>

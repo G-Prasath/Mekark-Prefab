@@ -59,14 +59,18 @@
             <section class="my-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-6 col-md-12">
-                            <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
+                        <div class="col-md-12">
+                             <!-- section title -->
+                             <div class="section-title">
                                     <div class="title-header">
                                         <h2 class="h2-bold">Mekark Prefab Homes - Efficient Solution for Modern Living</h2>
                                     </div>
                                 </div><!-- section title end -->
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="res-991-pt-0">
                                 <p class="service-para">Modular prefab homes is also known as prefabricated homes or simply prefab homes, are homes that are built in sections or modules in a factory setting and then transported to the home site for final assembly. The modules are designed to fit together seamlessly to create a complete structure.</p>
                                 <p class="service-para">Mekark Prefab is the leading manufacturer and supplier of modular prefab homes in commercial industry. Additionally modular prefab homes can be more energy-efficient and environmentally friendly than traditional site-built homes, as they often incorporate sustainable materials and technologies such as solar panels, insulation, and energy-efficient appliances. We offer the most efficient modern alternative to traditional home construction, and are becoming increasingly popular as more people look for affordable, customizable, and sustainable housing solutions.</p>
                             </div>

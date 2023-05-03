@@ -56,22 +56,27 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                             <!-- section title -->
+                             <div class="section-title">
+                                    <div class="title-header">
+                                        <h2 class="h2-bold">Smart Efficient Solution - Mekark Prefabrcated K-Houses</h2>
+                                    </div>
+                                </div><!-- section title end -->
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">K-House</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                               
+                                <p class="service-para">Prefabricated K-House is a type of modular housing that is designed and constructed off-site in a factory and then transported to the building site in pre-fabricated sections. The "K" in the name refers to the modular units' shape, which is formed by combining several rectangular modules into a single, letter "K" shaped unit.</p>
+                                <p class="service-para">The prefabrication process of K-Houses involves the use of standardized modules that are manufactured in a controlled factory environment. These modules typically include the walls, roof, and floor, as well as windows, doors, and other necessary components. Once the modules are completed, they are transported to the building site and assembled using cranes and other heavy equipment.
+                                </p>
+                                <p class="service-para">K-Houses is also a more sustainable building option. The prefabrication process reduces waste and energy consumption during construction, and the use of energy-efficient materials.</p>
+
                                
                             </div>
                         </div>
@@ -82,9 +87,78 @@
                             </div>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="service-para">Systems can reduce energy consumption throughout the life of the building. Prefabricated K-Houses is a modern, efficient, and sustainable building option that is ideal for a range of residential and commercial applications.</p>
+                            <p class="service-para">Mekark K-Houses is a manufacturer and suppliers in India. Our team aim is on sustainability, energy efficiency, and smart home automation. Mekark prefab smart housing solutions are designed to be eco-friendly, using materials that reduce energy consumption and carbon emissions. We also use smart home technology to control lighting, heating and other energy-consuming appliances to optimize energy usage and reduce waste.</p>
+                            <p class="service-para">Mekark K-homes also include features such as remote access and monitoring, allowing homeowners to control their home's security system and check on their home from anywhere in the world. </p>
+                            <ul>
+                                <li>Our Mekark smart housing solutions offer a comprehensive package of sustainability, energy efficiency and using latest technology that makes for a modern, comfortable, and eco-friendly home.</li>
+                                <li>K-Houses are quickly Installation and made from light-weight quality materials offer convenience in re-locate another places.</li>
+                                <li>K-Houses offer a number of benefits over traditional construction methods. Because the modules are manufactured in a factory, the construction process is faster and more efficient, with less waste and fewer on-site disruptions. The use of standardized modules also allows for greater precision and accuracy in the construction process, resulting in a higher-quality finished product.</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </section>
             <!--About welcome-section end-->
+
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+              <article>
+                    <div class="cart-img">
+                        <img src="images/icons/k-house/Engineer-Accommodation.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Engineer Accommodation</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/k-house/Canteen.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Canteen</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/k-house/School.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>School & Training centers</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/k-house/Refugee-camps.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Refugee camps</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/k-house/Site-office.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Site office</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
 
 
             <!--Gallery-section-->
@@ -94,7 +168,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">K-House Projects</h2>
+                                <h2 class="h2-bold">K-House Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

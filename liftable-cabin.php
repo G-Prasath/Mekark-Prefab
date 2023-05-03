@@ -56,16 +56,16 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                             <!-- section title -->
-                             <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="h2-bold">Maximizing Workspace Efficiency with Liftable Cabinsn</h2>
-                                    </div>
-                                </div><!-- section title end -->
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Maximizing Workspace Efficiency with Liftable Cabinsn</h2>
+                                </div>
+                            </div><!-- section title end -->
                         </div>
                     </div>
                     <div class="row">
@@ -100,6 +100,62 @@
             </section>
             <!--About welcome-section end-->
 
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+              <article>
+                    <div class="cart-img">
+                        <img src="images/icons/liftable-cabin/Family-accommodation.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Family accommodation</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/liftable-cabin/Fully-equipped-kitchen.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Fully equipped kitchen</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/liftable-cabin/dining.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Mess [dining]</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/liftable-cabin/Laboratory.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Laboratory</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/liftable-cabin/Recreation-room.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Recreation room</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
 
             <!--Gallery-section-->
             <div class="container">

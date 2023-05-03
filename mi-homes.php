@@ -95,6 +95,55 @@
             </section>
             <!--About welcome-section end-->
 
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+              <article>
+                    <div class="cart-img">
+                        <img src="images/icons/mi-homes/Corporate-Offices.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Corporate Offices</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/mi-homes/Small-to-Medium-size-clinics.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Small to Medium size clinics</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/mi-homes/School-buildings.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>School buildings</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/mi-homes/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Community Halls</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
+
 
             <!--Gallery-section-->
             <div class="container">

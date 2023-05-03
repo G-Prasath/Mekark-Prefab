@@ -59,14 +59,18 @@
             <section class="my-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
+                        <div class="col-md-12">
+                             <!-- section title -->
+                             <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Choose Mekark's Prefab School Buildings - Smart Solutions for Education </h2>
+                                </div>
+                            </div><!-- section title end -->
+                        </div>
+                    </div>
+                    <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="h2-bold">Choose Mekark's Prefab School Buildings - Smart Solutions for Education </h2>
-                                    </div>
-                                </div><!-- section title end -->
                                 <p class="service-para">Prefab school buildings can be designed to meet specific requirements, such as the number of classrooms, size of the auditorium, and other amenities. A prefab school building is a type of modular building that is constructed off-site in a factory or manufacturing facility, and then transported to the school site for final assembly. The building is typically made up of prefabricated modules or panels that are designed to fit together seamlessly and create a complete structure.</p>
                                 <p class="service-para">Mekark is a leading manufacturer of prefab school buildings with PUF/EPS insulated panels. Our structures are sustainable, energy-efficient, and customizable. Our prefab school buildings work is speed of construction, less time and costs, use of more efficient quality materials. We also offer a modern and efficient alternative to traditional school construction, and are becoming increasingly popular as more schools look for affordable and sustainable solutions to expand or upgrade their facilities.</p>
                                
@@ -96,7 +100,7 @@
                 </div>
             </section>
             <!--About welcome-section end-->
-            
+
             <!-- ----- Applications --------  -->
             <div class="container pb-5">
                 <div class="row">
@@ -112,7 +116,7 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-School/Prefabricated-multi-story-building.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Prefab-School/Modular-prefab-classrooms.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Modular prefab classrooms</p>
@@ -120,7 +124,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-School/Modular-site-offices-or-Mining-sites.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Prefab-School/Teaching-blocks-for-easy-relocation.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Teaching blocks for easy relocation</p>
@@ -128,7 +132,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-School/Construction.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Prefab-School/Workshops-and-laboratories.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Workshops and laboratories</p>
@@ -136,7 +140,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-School/Education.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Prefab-School/Outdoor-recreational-building.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Outdoor recreational buildings</p>
@@ -144,7 +148,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-School/Prefab-sales-office.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Prefab-School/Prefabricated-stationery-shops.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Prefabricated stationery shops</p>

@@ -163,7 +163,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Site-Office/Prefab-sales-office.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Site-Office/event-and-festiva.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Events and festivals</p>

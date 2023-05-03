@@ -60,14 +60,18 @@
             <section class="my-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Prefab Sample Flat Structures - Fast, Efficient, and Customizable</h2>
+                                </div>
+                            </div><!-- section title end -->
+                        </div>
+                    </div>
+                    <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="h2-bold">Prefab Sample Flat Structures - Fast, Efficient, and Customizable</h2>
-                                    </div>
-                                </div><!-- section title end -->
                                 <p class="service-para">Prefab sample flat structures are small, modular buildings that are pre-manufactured in a factory and then transported to a site for assembly. These structures are commonly used as sample flats, which are model apartments or homes that are used to showcase the design and features of a larger housing project.</p>
                                 <p>Mekark Prefab is a leading manufacturer and supplier of prefab sample flats, using lightweight, high-strength materials such as steel and aluminum, and are often designed to be energy-efficient and environmentally friendly. Our sample flat structures constructed can be customized to fit specific design requirements, and can be easily transported and assembled on-site, reducing construction time and costs. Prefab sample flat structures provide a cost-effective and efficient way for housing developers to showcase their projects and provide potential buyers with a tangible example of the design and features of their homes.</p>
                                
