@@ -1728,6 +1728,34 @@ ul.social-icons{
     font-size: 26px;
 }
 
+/* ---- Application ---------  */
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 10px;
+    align-items: stretch;
+  }
+  article:hover .cart-img{
+    margin-top: -5px;
+    transition: 0.3s all ease-in-out;
+  }
+.cart-img{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    transition: 0.2s all ease-in-out;
+} 
+  
+  .grid .text {
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+    transition: 0.2s all ease-in-out;
+  }
+
+  
+
 
 
 

@@ -96,6 +96,63 @@
                 </div>
             </section>
             <!--About welcome-section end-->
+            
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-School/Prefabricated-multi-story-building.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Modular prefab classrooms</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-School/Modular-site-offices-or-Mining-sites.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Teaching blocks for easy relocation</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-School/Construction.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Workshops and laboratories</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-School/Education.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Outdoor recreational buildings</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-School/Prefab-sales-office.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefabricated stationery shops</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
 
 
             <!--Gallery-section-->

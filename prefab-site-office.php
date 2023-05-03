@@ -116,6 +116,63 @@
             </section>
             <!--About welcome-section end-->
 
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Site-Office/Prefabricated-multi-story-building.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefabricated multi-story buildings</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Site-Office/Modular-site-offices-or-Mining-sites.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Modular site offices</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Site-Office/Construction.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Construction sites </p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Site-Office/Education.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Educations</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Site-Office/Prefab-sales-office.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Events and festivals</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
+
 
             <!--Gallery-section-->
             <div class="container">

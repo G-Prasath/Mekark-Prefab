@@ -103,8 +103,98 @@
             <!--About welcome-section end-->
 
 
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/accomodation.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefab Labour accomodation</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/modular-site-offices.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Modular site offices</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/Prefab-site-equipment-housing.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefab site equipment housing</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/Prefab-sales-office.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefab sales office</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/Construction-site-office-cabins.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Construction site office cabins</p>
+                    </div>
+                </article>
+
+                <!-- <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/summa.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Temporary office cabins for events</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/summa.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Marketing offices</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/summa.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefabricated construction site canteens</p>
+                    </div>
+                </article> -->
+              </main>
+              
+                
+            
+              
+            </div>
+            <!-- ----- End Applications --------  -->
+
+
+
+
+
             <!--Gallery-section-->
-            <div class="container">
+            <div class="container pt-4">
                 <div class="row">
                     <div class="col-md-12">
                         <!-- section title -->
