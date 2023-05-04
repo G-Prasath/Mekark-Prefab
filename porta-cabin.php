@@ -56,7 +56,7 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -73,7 +73,7 @@
                             <div class="res-991-pt-0">
                                 
                                 <p class="service-para">A Porta Cabin, also known as a portable cabin or modular cabin, is a prefabricated modular structure that is designed to be transported and installed quickly and easily at a different location. Porta Cabins are commonly used for a wide range of applications such as site offices, portable security cabin, storage rooms, and more. Porta Cabins can be customized to meet the specific needs of each project, and they can be easily relocated and reassembled as needed, making them a versatile and cost-effective solution for temporary or permanent buildings.</p>
-                                <p class="service-para">Mekark is the trusted porta Cabin manufacturer and supplier in India, wide range of excellent amenities. Our highly customizable and can be designed to meet the specific needs. OUr team designed to be portable making them an ideal solution for temporary or mobile buildings.</p>
+                                <p class="service-para">Mekark is the trusted porta Cabin manufacturer and supplier in India, wide range of excellent amenities. Our highly customizable and can be designed to meet the specific needs. OUr team designed to be portable making them an ideal solution for temporary or mobile buildings.Mekark Factory Unit made with the quality materials to provide a safe, weather-resistant, and energy-efficient and accommodation anywhere you need it.</p>
                                
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">Mekark Factory Unit made with the quality materials to provide a safe, weather-resistant, and energy-efficient and accommodation anywhere you need it. our prefab experts will analyze the site infrastructure to ensure best services and quality materials. We provide durable and cost-effective solutions that can be easily transported and assembled, making them ideal for temporary or permanent buildings.</p>
+                            <p class="service-para">our prefab experts will analyze the site infrastructure to ensure best services and quality materials. We provide durable and cost-effective solutions that can be easily transported and assembled, making them ideal for temporary or permanent buildings.</p>
                             <h2 class="h2-bold">Why to Choose us?</h2>
                             <ul>
                                 <li>Flexibile Deisgn, Lightweight and Easy to Install.</li>
@@ -164,7 +164,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Porta Cabin Projects</h2>
+                                <h2 class="h2-bold pb-3">Porta Cabin Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

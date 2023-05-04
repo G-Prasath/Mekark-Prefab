@@ -158,13 +158,13 @@
             <!-- ----- End Applications --------  -->
 
             <!--Gallery-section-->
-            <div class="container">
+            <div class="container pt-3">
                 <div class="row">
                     <div class="col-md-12">
                         <!-- section title -->
-                        <div class="section-title">
+                        <div class="section-title pb-5">
                             <div class="text-center">
-                                <h2 class="title">Liftable Cabin Projects</h2>
+                                <h2 class="h2-bold">Liftable Cabin Services</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

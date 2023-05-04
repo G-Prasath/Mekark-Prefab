@@ -200,7 +200,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Prefabricated Site Infrastructure Projects</h2>
+                                <h2 class="h2-blod pb-3">Prefabricated Site Infrastructure Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

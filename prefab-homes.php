@@ -108,7 +108,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Prefab Homes Projects</h2>
+                                <h2 class="h2-bold pb-3">Prefab Homes Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

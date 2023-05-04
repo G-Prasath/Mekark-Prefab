@@ -54,10 +54,21 @@
         <div class="site-main">
 
         <div class="container my-5">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- section title -->
+                    <div class="section-title">
+                        <div class="text-center">
+                            <h2 class="h2-bold pb-5">Standard Modular Soluation Services</h2>
+                        </div>
+                    </div>
+                    <!-- section title end -->
+                </div>
+            </div>
             <div class="row mb-5">
                 <div class="col-md-4">
                     <div class="card">
-                      <img src="images/projects/satandred-modular/" class="card-img-top" alt="...">
+                      <img src="images/projects/satandred-modular/porta-cabin.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Porta Cabin</h5>
                         <p class="card-text">Mekark Prefabricated Structures specializing in PUF and EPS insulated panels with a light hand sword frame (LGSF) frame. We are a complete-service, integrated engineering, and construction services in India.</p>
@@ -67,7 +78,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                      <img src="images/projects/satandred-modular/" class="card-img-top" alt="...">
+                      <img src="images/projects/satandred-modular/liftable-cabin.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Liftable Cabin</h5>
                         <p class="card-text">Mekark Prefab site office is modular prefab with PUF Insulated Panels / EPS Insulated Panels / Light Gauge steel framing (LGSF) solution. Our site office is constructed using premium quality substances and ultra-modern technology.</p>
@@ -77,7 +88,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                      <img src="images/projects/satandred-modular/" class="card-img-top" alt="...">
+                      <img src="images/projects/satandred-modular/Prefab-mi-homes.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Mi-Homes</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content. Mekark Prefab Structure is one of the manufacturing and installation services like staff and worker accommodation. Our professional Team work is Efficient and Cost-Effective Building Solutions for Labor Hutment.</p>
@@ -89,7 +100,7 @@
             <div class="row mb-5">
                 <div class="col-md-4">
                     <div class="card">
-                      <img src="images/projects/satandred-modular/" class="card-img-top" alt="...">
+                      <img src="images/projects/satandred-modular/k-house.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">K-House</h5>
                         <p class="card-text">Mekark Control Room Design and Installation give your staff a controlled work environment conforming to workplace health and safety norms and conditions. Modular control pulpits with PUF (polyurethane foam) insulated panels have a wide range of applications in various industries.</p>

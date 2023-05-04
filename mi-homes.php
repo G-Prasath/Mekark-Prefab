@@ -56,7 +56,7 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -150,9 +150,9 @@
                 <div class="row">
                     <div class="col-md-12">
                         <!-- section title -->
-                        <div class="section-title">
+                        <div class="section-title pb-5">
                             <div class="text-center">
-                                <h2 class="title">Mi Homes Projects</h2>
+                                <h2 class="h2-bold">Mi-Homes Services</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

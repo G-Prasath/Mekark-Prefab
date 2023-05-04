@@ -53,7 +53,7 @@
         <!--site-main start-->
         <div class="site-main">
 
-        <div class="container my-5">
+        <div class="container pt-5">
             <div class="row">
                 <div class="col-md-12">
                     <h2 class="h2-bold">Light Gauge Steel Framing (LGSF) - Perfect Choice for Commercial Construction</h2>
@@ -69,10 +69,24 @@
                     </ul>
                 </div>
             </div>
-            <div class="row mb-5">
+        </div>
+
+        <div class="container mb-5">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- section title -->
+                    <div class="section-title">
+                        <div class="text-center">
+                            <h2 class="h2-bold">LGSF Services</h2>
+                        </div>
+                    </div>
+                    <!-- section title end -->
+                </div>
+            </div>
+            <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                      <img src="images/projects/LGSF/" class="card-img-top" alt="...">
+                      <img src="images/projects/LGSF/prefab-school.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Prefab School</h5>
                         <p class="card-text">Mekark Prefab School building manufacturer provide a wide range of portable school buildings with PUF insulated panels/EPS insulated panels.</p>
@@ -82,7 +96,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                      <img src="images/projects/LGSF/" class="card-img-top" alt="...">
+                      <img src="images/projects/LGSF/prefab-homes.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Prefab Homes</h5>
                         <p class="card-text">Mekark Prefab Homes offer a modern and efficient alternative to traditional home construction, and are becoming increasingly popular as more people look for affordable and sustainable housing solutions.</p>
@@ -92,7 +106,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                      <img src="images/projects/LGSF/" class="card-img-top" alt="...">
+                      <img src="images/projects/LGSF/sample-flat.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Sample Flat</h5>
                         <p class="card-text">Mekark Prefab Sample Flat solutions with ground-breaking building system, described as LGSF. Efficient, sustainable, and cost-effective Prefab Sample Flats designed to your project's potential.</p>

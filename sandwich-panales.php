@@ -55,6 +55,16 @@
         <div class="site-main">
 
         <div class="container my-5">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- section title -->
+                    <div class="section-title pb-5">
+                        <div class="text-center">
+                            <h2 class="h2-bold">Liftable Cabin Services</h2>
+                        </div>
+                    </div><!-- section title end -->
+                </div>
+            </div>
             <div class="row mb-5">
                 <div class="col-md-4">
                     <div class="card">

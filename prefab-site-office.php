@@ -57,7 +57,7 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -181,7 +181,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Prefabricated Site Office Projects</h2>
+                                <h2 class="h2-bold pb-3">Prefabricated Site Office Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

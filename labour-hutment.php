@@ -103,7 +103,7 @@
                                 <li>Mekark Prefabricated Team can be designed according to customers' needs. </li>
                                 <li>Best pricing may be found on prefabricated labor huts made by Mekark, whether for student casing, labor hutments, or flats for workers in India.</li>
                             </ul>
-                            <h2>Our Mekark Prefabricated labor hutments services are provided</h2>
+                            <h2 class="h2-bold">Our Mekark Prefabricated labor hutments services are provided</h2>
                                 <ul>
                                     <li>PUF / EPS insulated sandwich panels of 50 / 60mm with PPGI sheet on both sides.</li>
                                     <li>PUF / EPS insulated sandwich panels of 30 / 40 mm or PPGI roofing sheet.</li>
@@ -123,7 +123,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Labour Hutment Projects</h2>
+                                <h2 class="h2-bold pb-3">Labour Hutment Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
