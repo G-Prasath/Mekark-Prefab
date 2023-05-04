@@ -92,6 +92,18 @@
                                                                 <li><a href="poultry-shed.php">Poultry Shed</a></li> 
                                                             </ul>
                                                         </li>
+                                                        <!-- -------- PRE ENGINEERED BUILDING ------->
+                                                        <li class="mega-menu-item">
+                                                            <a href="#" class="mega-menu-link">Pre Engineered Building</a>
+                                                            <ul class="mega-submenu">
+                                                                <li><a href="warehouse.php">Warehouse</a></li>
+                                                                <li><a href="industrial-shed.php">Industrial Shed</a></li>
+                                                                <li><a href="factory-buildings.php">Factory Buildings</a></li>
+                                                                <li><a href="mssb.php">Multi Storey Steel Building</a></li>
+                                                                <li><a href="industrial-enclosures.php">Industrial Enclosures</a></li>
+                                                                <li><a href="cold-storage.php">Cold Storage</a></li>                                                                
+                                                            </ul>
+                                                        </li>
                                                         <!-- -------- SANDWICH PANELS ------------>
                                                         <li class="mega-menu-item">
                                                             <a href="sandwich-panales.php" class="mega-menu-link">Sandwich Panels</a>
