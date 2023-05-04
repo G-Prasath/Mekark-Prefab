@@ -56,22 +56,24 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                             <!-- section title -->
+                             <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Safety and Efficient Building Solution</h2>
+                                </div>
+                            </div><!-- section title end -->
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">Glasswool Panel</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                               
+                                <p class="service-para">Glass wool panel is an insulation material made from fine fibers of glass, often combined with a binder and formed into panels or rolls. It is used to reduce heat transfer and improve energy efficiency in buildings. Glass wool insulation has excellent thermal and acoustic insulation properties, making it an effective solution for reducing energy costs and enhancing sound quality in commercial and residential spaces. This Panel is commonly used in walls, roofs, floors, and HVAC ducts. It is a reliable and cost-effective solution for improving energy efficiency and reducing noise pollution in various construction applications. Glass wool panel provides excellent protection against moisture and mold growth.</p>
+                                <p class="service-para">Mekark is one of the trusted manufacturers and suppliers of high quality Glasswool Panels in India, having separate manufacturing unit. Our glasswool panels are made from fine fibers of glass that provide excellent thermal and acoustic insulation properties.</p>
                                
                             </div>
                         </div>
@@ -82,10 +84,81 @@
                             </div>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="service-para">We use advanced manufacturing techniques to create glasswool panels that are lightweight, easy to install, and highly durable. Our glasswool panels are available in a range of thicknesses and sizes to suit various construction applications, from walls and roofs to floors and HVAC ducts.</p>
+                            <p class="service-para">At Mekark Company, we pride ourselves on providing our customers with exceptional quality products and outstanding customer service. We are committed to delivering glasswool panels that meet the highest standards of quality and performance, ensuring that our customers receive the best value for their investment.</p>
+                            <p class="service-para">Whether you are a builder, contractor, or homeowner, Mekark Company can provide you with the high-quality glasswool panels you need to improve energy efficiency, reduce noise pollution, and enhance comfort in any building project. Contact us today to get a quote about our products estimate.</p>
+                            <h2 class="h2-bold">Glass wool insulation offers several benefits, including:</h2>
+                            <ul>
+                                <li>Glass wool insulation reduces heat transfer, helping to maintain a comfortable temperature inside a building and reducing energy consumption and costs.</li>
+                                <li>Glass wool insulation also provides effective sound absorption, reducing noise pollution and improving the acoustic performance of a space.</li>
+                                <li>Glass wool insulation is non-combustible and can help prevent the spread of fire in a building, enhancing safety and security.</li>
+                                <li>Glass wool insulation is highly durable, resistant to moisture, and does not settle over time, ensuring long-lasting performance and efficiency.</li>
+                                <li>Glass wool insulation is made from natural and recycled materials, making it an environmentally friendly option for insulation needs.</li>
+                                <li>Glass wool insulation is a versatile and effective solution for enhancing energy efficiency, sound quality, fire protection, durability, and eco-friendliness in commercial and residential buildings.</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </section>
             <!--About welcome-section end-->
 
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/glasswool/Automotive-industry.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Automotive industry</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/glasswool/Marine-industry.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Marine industry</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/glasswool/HVAC-industry.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>HVAC industry</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/glasswool/agricultural.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Agricultural</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/glasswool/horticultural-icon.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Horticultural</p>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
 
             <!--Gallery-section-->
             <div class="container">
@@ -94,7 +167,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Glasswool Panel Projects</h2>
+                                <h2 class="h2-bold">Glasswool Panel Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

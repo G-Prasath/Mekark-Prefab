@@ -57,22 +57,24 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                             <!-- section title -->
+                             <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Enhancing Sound Quality and Aesthetics in Commercial</h2>
+                                </div>
+                            </div><!-- section title end -->
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">Rockwool Panel</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                               
+                                <p class="service-para">Rockwool acoustic wall is also known as Mineral woollen is a type of insulation material made from natural or synthetic minerals such as basalt, glass, or slag. The minerals are melted and then spun or blown into fibers, creating a wool-like texture. Rockwool acoustic wall panels are sound-absorbing panels made of high-density stone wool insulation material. Panels are designed to improve the sound quality in commercial and residential spaces by reducing echo, noise, and reverberation. It is non-combustible and provides excellent fire protection, making it an ideal choice for building applications where fire safety is a concern.</p>
+                                <p class="service-para">Mekark is an ideal solution for Rockwool acoustic wall manufacturing and suppliers in India, offers a reliable and cost-effective insulation solution for various construction applications, providing excellent thermal and acoustic insulation, fire protection, and eco-friendliness. We specialise in Rockwool Acoustic Wall Panels manufacturer and suppliers with affordable prices in India. Our experianced team offer a wide range of surface design and finishes the different color for walls and roofs.</p>
                                
                             </div>
                         </div>
@@ -83,10 +85,78 @@
                             </div>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="service-para">Mekark Rockwool acoustic wall panels are made of natural and recycled materials, making them an environmentally friendly option for any building project. We provide excellent thermal insulation, reducing heat transfer and improving energy efficiency. Our team can be installed horizontally and vertically as you need.</p>
+                            <h2 class="h2-bold">Rockwool acoustic wall panels offer several benefits, including:</h2>
+                            <ul>
+                                <li>Rockwool acoustic wall panels are designed to absorb sound waves, reducing echo, noise, and reverberation in a room, thus enhancing sound quality.</li>
+                                <li>Rockwool acoustic wall panels are available in various shapes, sizes, and colors, making them a customizable and aesthetically pleasing solution for any space.</li>
+                                <li>Rockwool acoustic wall panels are non-combustible and provide excellent fire protection, enhancing the safety and security of a space.</li>
+                                <li>Rockwool acoustic wall panels offer an effective and versatile solution to improve sound quality, aesthetics, thermal insulation, fire protection, and eco-friendliness in any commercial or residential space.</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </section>
             <!--About welcome-section end-->
 
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/rockwool/Power-project-buildings.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Power project buildings</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/rockwool/Drivers-and-ovens-insulation.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Drivers and ovens insulation</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/rockwool/Compressor-rooms.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Compressor rooms</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/rockwool/Fire-safety-applications.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Fire safety applications</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/rockwool/Turbine-Generator-Buildings.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Turbine-Generator Buildings</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
 
             <!--Gallery-section-->
             <div class="container">
@@ -95,7 +165,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Rockwool Panel Projects</h2>
+                                <h2 class="h2-bold">Rockwool Panel Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

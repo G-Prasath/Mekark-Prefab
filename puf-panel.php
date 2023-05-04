@@ -57,22 +57,24 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                             <!-- section title -->
+                             <div class="section-title">
+                                    <div class="title-header">
+                                        <h2 class="h2-bold">A Deep Dive into PUF Panel Technology in Future Construction</h2>
+                                    </div>
+                                </div><!-- section title end -->
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">PUF Panel</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                                <p class="service-para">PUF panel stands for "Polyurethane Foam Panel". It is a type of sandwich panel consisting of a core material made of rigid polyurethane foam (PUF) that is sandwiched between two sheets of metal or other materials like plywood, cement board, fiber cement board or high-density polyethylene (HDPE) sheets.</p>
+                                <p class="service-para">PUF panels are widely used in the construction industry as they offer excellent thermal insulation, sound insulation, and fire resistance properties. The polyurethane foam core of PUF panels is typically produced by mixing two chemicals - isocyanate and polyol. The resulting foam is then allowed to cure and is cut into the desired shapes and sizes for use in sandwich panels.</p>
+                                <p class="service-para">PUF insulated panels are known for their lightweight nature and high strength-to-weight ratio, which makes them ideal for use in building structures, where their lightweight nature reduces the overall weight of the building, resulting in cost savings. Additionally, they are also environmentally friendly, as they provide energy-efficient insulation that can reduce the building's carbon footprint.</p>
                                
                             </div>
                         </div>
@@ -83,9 +85,79 @@
                             </div>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="service-para">Mekark is a specialist for manufacturer and supplier of PUF Panel in India with over a 15 years of experience delivering high quality factory insulated sandwich panels in construction industry. We provide ideal solution for a variety of applications such as clean room, pharmaceuticals, food processing, wall cladding, cold storage in industrial and commercial buildings. Mekark Company is a reputable manufacturer and supplier of PUF panels for various construction applications. With a focus on quality, reliability, and customer satisfaction, offer a wide range of PUF panels that are durable, lightweight, and energy-efficient. Our experienced team is dedicated to providing excellent customer service and ensuring timely delivery of their products.</p>
+                            <h2 class="h2-bold">Benefits from Mekark PUF Panel</h2>
+                            <ul>
+                                <li>Mekark offer an excellent insulation solution for both commercial and residential buildings, providing significant energy savings, reducing noise pollution, and enhancing overall building efficiency.</li>
+                                <li>Mekark PUF panels team working in various industries such as cold storage, pharmaceuticals, food processing, and construction.</li>
+                                <li>Mekark PUF panels are made with high-quality materials, ensuring they are long-lasting and can withstand harsh environmental conditions.</li>
+                                <li>Mekark Company offers high-quality PUF panels that provide energy efficiency, durability, and cost-effectiveness, making them an excellent choice for various construction projects.</li>
+                                <li>Mekark Company offers customized PUF panels to meet specific project requirements.</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </section>
             <!--About welcome-section end-->
+
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/puf-panal/Food-processing-industry.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Food processing industry</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/puf-panal/Cold-storage.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Cold storages</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/puf-panal/Fruit-&-vegetable-storage.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Fruit & vegetable storage</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/puf-panal/Milk-&-dairy-industry.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Milk & dairy industry</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/puf-panal/Seafood-industry.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Seafood industry</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
 
 
             <!--Gallery-section-->
@@ -95,7 +167,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">PUF Panel Projects</h2>
+                                <h2 class="h2-bold pb-2">PUF Panel Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

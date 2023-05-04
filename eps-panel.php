@@ -57,22 +57,24 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">EPS Insulated Panels is Cost-Effective Solution for Your Project</h2>
+                                </div>
+                            </div><!-- section title end -->
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">EPS Panel</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                                
+                                <p class="service-para">EPS insulated panels are construction panels made of two metal sheets with a core of Expanded Polystyrene (EPS) insulation material. The EPS core provides excellent thermal insulation, reducing heat transfer, and improving energy efficiency. EPS insulated panels are widely used in various construction applications, such as roofing, walling, and cladding, due to their excellent insulation properties, high durability, and ease of installation</p>
+                                <p class="service-para">Mekark is an excellent insulation solution for both commercial and residential buildings. We are providing significant energy savings, reducing noise pollution and enhancing overall building efficiency.  It takes place in a computerized plant that creates pre-painted galvanized steel sheets (PPGS), pre painted galvalume steel sheets and stainless steel sheet fascias. Sandwiched between two fascias, expanded polystyrene foam (EPS) has a density of 16 + 2 Kg/ M3. Mekark EPS insulated panels manufacturer and suppliers provide energy-efficient insulation solutions for various construction applications, such as roofing, walling, and cladding. Our high-quality panels are lightweight, durable, and customizable, ensuring a reliable and eco-friendly option for any building project.</p>
                                
                             </div>
                         </div>
@@ -83,10 +85,81 @@
                             </div>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="service-para">Mekark is an excellent insulation solution for both commercial and residential buildings. We are providing significant energy savings, reducing noise pollution and enhancing overall building efficiency.  It takes place in a computerized plant that creates pre-painted galvanized steel sheets (PPGS), pre painted galvalume steel sheets and stainless steel sheet fascias. Sandwiched between two fascias, expanded polystyrene foam (EPS) has a density of 16 + 2 Kg/ M3. Mekark EPS insulated panels manufacturer and suppliers provide energy-efficient insulation solutions for various construction applications, such as roofing, walling, and cladding. Our high-quality panels are lightweight, durable, and customizable, ensuring a reliable and eco-friendly option for any building project.</p>
+                            <h2 class="h2-bold">EPS insulated panels offer several benefits that make them a popular choice for construction applications:</h2>
+                            <ul>
+                                <li>EPS insulated panels provide excellent thermal insulation, reducing heat transfer and improving energy efficiency.</li>
+                                <li>EPS insulated panels are lightweight, making them easy to transport and install.</li>
+                                <li>EPS insulated panels are made with high-quality materials, ensuring they are long-lasting and can withstand harsh environmental conditions.</li>
+                                <li>EPS insulated panels can be customized to meet specific project requirements, such as size, thickness, and color.</li>
+                                <li>EPS insulated panels are fire-resistant, offering enhanced safety and protection.</li>
+                                <li>EPS insulated panels offer excellent noise reduction, making them ideal for buildings located in noisy areas.</li>
+                                <li>EPS insulated panels are environmentally friendly, as they provide energy-efficient insulation that can reduce the building's carbon footprint.</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </section>
             <!--About welcome-section end-->
 
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/eps-panal/Wall-Cladding.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Wall Cladding</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/eps-panal/Walk-On-Ceilings.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Walk-On Ceilings</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/eps-panal/Information-Kiosks.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Information Kiosks</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/eps-panal/Health-Centers.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Health Centers</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/eps-panal/Community-Shelters.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Community Shelters</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
 
             <!--Gallery-section-->
             <div class="container">
@@ -95,7 +168,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">EPS Panel Projects</h2>
+                                <h2 class="h2-bold">EPS Panel Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
