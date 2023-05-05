@@ -40,7 +40,6 @@
                                                 <a title="Go to Delmont." href="index.php" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                             </span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span>Prefabricated Structures</span>
                                         </div>
                                     </div>

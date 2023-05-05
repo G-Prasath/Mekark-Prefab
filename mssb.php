@@ -63,7 +63,7 @@
                              <!-- section title -->
                              <div class="section-title">
                                 <div class="title-header">
-                                    <h2 class="h2-bold">Safety and Efficient Building Solution</h2>
+                                    <h2 class="h2-bold">Innovative Design Solutions for Prefabricated Multi Storey Buildings</h2>
                                 </div>
                             </div><!-- section title end -->
                         </div>
@@ -72,8 +72,8 @@
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
                                
-                                <p class="service-para">Glass wool panel is an insulation material made from fine fibers of glass, often combined with a binder and formed into panels or rolls. It is used to reduce heat transfer and improve energy efficiency in buildings. Glass wool insulation has excellent thermal and acoustic insulation properties, making it an effective solution for reducing energy costs and enhancing sound quality in commercial and residential spaces. This Panel is commonly used in walls, roofs, floors, and HVAC ducts. It is a reliable and cost-effective solution for improving energy efficiency and reducing noise pollution in various construction applications. Glass wool panel provides excellent protection against moisture and mold growth.</p>
-                                <p class="service-para">Mekark is one of the trusted manufacturers and suppliers of high quality Glasswool Panels in India, having separate manufacturing unit. Our glasswool panels are made from fine fibers of glass that provide excellent thermal and acoustic insulation properties.</p>
+                                <p class="service-para">Prefabricated Multi Storey Buildings are structure that are manufactured off-site and then transported to their final location for assembly. These buildings consist of pre-made modular components that are designed to fit together seamlessly, like building blocks. The prefabrication process includes designing, engineering, manufacturing, and assembling the building components in a controlled environment, away from the construction site.</p>
+                                <p class="service-para">Prefabricated Multi Storey Buildings are becoming increasingly popular because of their ability to be customized to meet specific needs and the fact that they can be assembled in a relatively short amount of time compared to traditional construction methods. These types of buildings are often used as a quick and efficient solution for a variety of construction needs, including residential apartments, student housing, hotels, offices, and even hospitals. Mekark is the premium prefabricated Multi Storey Buildings include faster construction times, lower labor costs, reduced waste, and increased precision in the manufacturing process.</p>
                                
                             </div>
                         </div>
@@ -86,17 +86,17 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">We use advanced manufacturing techniques to create glasswool panels that are lightweight, easy to install, and highly durable. Our glasswool panels are available in a range of thicknesses and sizes to suit various construction applications, from walls and roofs to floors and HVAC ducts.</p>
-                            <p class="service-para">At Mekark Company, we pride ourselves on providing our customers with exceptional quality products and outstanding customer service. We are committed to delivering glasswool panels that meet the highest standards of quality and performance, ensuring that our customers receive the best value for their investment.</p>
-                            <p class="service-para">Whether you are a builder, contractor, or homeowner, Mekark Company can provide you with the high-quality glasswool panels you need to improve energy efficiency, reduce noise pollution, and enhance comfort in any building project. Contact us today to get a quote about our products estimate.</p>
-                            <h2 class="h2-bold">Glass wool insulation offers several benefits, including:</h2>
+                            <p class="service-para">Prefabricated Multi Storey Buildings are a modern, efficient, and cost-effective solution for a range of construction needs, offering many benefits over traditional construction methods.</p>
+                            <p class="service-para">Mekark Multi-story buildings constructed with PUF/EPS protected panels and light gauge steel framing (LGSF) structures are becoming increasingly popular in the construction industry due to their numerous advantages over traditional construction methods.</p>
+                            <h2 class="h2-bold">Benefits from Mekark Mekark Company's Multi-storey Building</h2>
+                            <p class="service-para">Mekark Company's Multi-storey building can provide various benefits, including:</p>
                             <ul>
-                                <li>Glass wool insulation reduces heat transfer, helping to maintain a comfortable temperature inside a building and reducing energy consumption and costs.</li>
-                                <li>Glass wool insulation also provides effective sound absorption, reducing noise pollution and improving the acoustic performance of a space.</li>
-                                <li>Glass wool insulation is non-combustible and can help prevent the spread of fire in a building, enhancing safety and security.</li>
-                                <li>Glass wool insulation is highly durable, resistant to moisture, and does not settle over time, ensuring long-lasting performance and efficiency.</li>
-                                <li>Glass wool insulation is made from natural and recycled materials, making it an environmentally friendly option for insulation needs.</li>
-                                <li>Glass wool insulation is a versatile and effective solution for enhancing energy efficiency, sound quality, fire protection, durability, and eco-friendliness in commercial and residential buildings.</li>
+                                <li>Mekark Multi-storey buildings allow for efficient use of available land by providing a larger floor area in a smaller footprint. This can be beneficial for businesses that require a lot of space, such as offices, retail stores, or warehouses.</li>
+                                <li>Multi-storey buildings can be more cost-effective than single-storey buildings because they use less land and require fewer foundations and roof structures per unit of floor area.</li>
+                                <li>Mekark structure can provide a higher rental income or sales revenue due to the increased usable floor space. This can be particularly advantageous in areas where land values are high.</li>
+                                <li>Our Professional Team can be designed with energy-efficient features, such as insulation, ventilation, and lighting systems, which can reduce energy consumption and operating costs.</li>
+                                <li>Mekark Multi-storey buildings can be visually appealing and can enhance the appearance of an area. This can be particularly important for commercial areas where the appearance of a building can influence consumer behavior.</li>
+                                <li>Mekark Company's multi-storey building can provide numerous benefits, including space optimization, cost-effectiveness, increased revenue, improved accessibility, energy efficiency and aesthetic appeal.</li>
                             </ul>
                         </div>
                     </div>
@@ -122,7 +122,7 @@
                         <img src="images/icons/multi-storey-steel-building/Automotive-industry.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Automotive industry</p>
+                      <p>Construction sites</p>
                     </div>
                 </article>
                 <article>
@@ -130,7 +130,7 @@
                         <img src="images/icons/multi-storey-steel-building/Marine-industry.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Marine industry</p>
+                      <p>Emergency accommodation</p>
                     </div>
                 </article>
                 <article>
@@ -138,7 +138,7 @@
                         <img src="images/icons/multi-storey-steel-building/HVAC-industry.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>HVAC industry</p>
+                      <p>Educational buildings</p>
                     </div>
                 </article>
                 <article>
@@ -146,7 +146,7 @@
                         <img src="images/icons/multi-storey-steel-building/agricultural.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Agricultural</p>
+                      <p>Healthcare</p>
                     </div>
                 </article>
                 <article>
@@ -154,7 +154,7 @@
                         <img src="images/icons/multi-storey-steel-building/horticultural-icon.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Horticultural</p>
+                      <p>Storage buildings</p>
                 </article>
               </main>
             </div>

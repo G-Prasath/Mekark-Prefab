@@ -94,7 +94,7 @@
                                                         </li>
                                                         <!-- -------- PRE ENGINEERED BUILDING ------->
                                                         <li class="mega-menu-item">
-                                                            <a href="#" class="mega-menu-link">Pre Engineered Building</a>
+                                                            <a href="peb.php" class="mega-menu-link">Pre Engineered Building</a>
                                                             <ul class="mega-submenu">
                                                                 <li><a href="warehouse.php">Warehouse</a></li>
                                                                 <li><a href="industrial-shed.php">Industrial Shed</a></li>
