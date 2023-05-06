@@ -57,22 +57,25 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="pt-5 welcome-section clearfix">
                 <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Power Efficient and Custom Designed Ripening chambers</h2>
+                                </div>
+                            </div><!-- section title end -->
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">Ripening Chambers</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                                
+                                <p class="service-para">Ripening chambers are specialized storage facilities used for the controlled ripening of fruits and vegetables. It's designed to create an optimal environment for the ripening process by controlling the temperature, humidity, and ethylene levels inside the chamber.</p>
+                                <p class="service-para">Ripening chambers are commonly used by fruit and vegetable growers, distributors, and retailers to extend the shelf life of their products and ensure that they reach consumers in the best possible condition. With the ability to customize the ripening process for different types of produce, ripening chambers offer a cost-effective solution for improving the quality and consistency of fresh fruits and vegetables.</p>
+                                <p class="service-para">The fruit ripening process is a natural process that occurs after the fruit is harvested. During this process, the fruit undergoes a series of changes that result in its maturation and readiness for consumption. The ripening process involves a complex series of biochemical and physiological changes, including the breakdown of starches into sugars, the softening of fruit tissue, the development of aroma and flavor compounds, and the changes in color.</p>
                                
                             </div>
                         </div>
@@ -83,10 +86,84 @@
                             </div>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="service-para">The ripening process is often triggered by the release of the hormone ethylene, which can be naturally produced by the fruit or artificially applied to speed up the process. Ripening can also be influenced by environmental factors such as temperature and humidity. Ripening chambers provide a controlled environment that can mimic the natural ripening process and help maintain the quality and freshness of the fruit during the storage and transportation phases.</p>
+                        </div>
+                    </div>
                 </div>
             </section>
             <!--About welcome-section end-->
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2 class="h2-bold">Why to Choose our Mekark Ripening Chambers Manufacturer</h2>
+                        <ul>
+                            <li>
+                            Mekark is a leading manufacturer of ripening chambers, offering a range of solutions to meet the specific needs of fruit and vegetable growers, distributors and retailers. Our ripening chambers are designed with state-of-the-art technology and high-quality materials to ensure optimal ripening conditions for different types of produce. We provide customized solutions to our clients, including pre-cooling, humidification, ventilation, and temperature control systems, to ensure the highest levels of efficiency and productivity. With our expertise in the field and commitment to customer satisfaction. We are a trusted partner for ripening chamber solutions in the agricultural industry.
+                            </li>
+                        </ul>
 
+                    </div>
+                </div>
+            </div>
+
+ <!-- ----- Applications --------  -->
+ <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/ripeniing-chanber/Prefabricated-multi-story-building.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Temperature Controlled Cold Storage</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/ripeniing-chanber/Modular-site-offices-or-Mining-sites.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Pack Houses</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/ripeniing-chanber/Construction.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Controlled Atmospheric Cold Storage</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/ripeniing-chanber/Education.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Frozen Cold Storage</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/ripeniing-chanber/event-and-festiva.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Modified Atmoshpheric Cold Storage</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
 
             <!--Gallery-section-->
             <div class="container">
@@ -95,7 +172,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Ripening Chambers Projects</h2>
+                                <h2 class="h2-bold">Ripening Chambers Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

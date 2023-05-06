@@ -56,23 +56,28 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">An Effective Farming Shed for your Business</h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">Poultry Shed</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
-                               
+                                
+                                <p class="service-para">Farming shed is a structure that is designed and built to provide shelter and protection to animals, crops and equipment used in farming operations. It is an essential component of a successful farming operation as it provides a safe and secure environment for livestock, machinery and other important assets. The farming shed should be constructed using high-quality materials that are able to withstand harsh weather conditions and heavy use.</p>
+                                <p class="service-para"><b>Hatcheries:</b> These are facilities that specialize in breeding and hatching chicks from fertilized eggs.</p>
+                                <p class="service-para"><b>Broiler farms:</b> These farms are dedicated to raising chickens for meat production. They typically raise birds for about 6 to 8 weeks, after which they are processed for meat.</p>
+                                <p class="service-para"><b>Layer farms:</b> These farms specialize in raising chickens for egg production. They house hens that are specifically bred to lay eggs and typically keep them for about 12 to 18 months before they are replaced.</p>
+                                                              
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
@@ -82,9 +87,87 @@
                             </div>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                        <p class="service-para"><b>Breeder farms:</b> These farms are responsible for producing fertilized eggs that are used in hatcheries to produce chicks.</p>
+                                <p class="service-para"><b>Feed mills:</b> These facilities produce and supply the feed that is used to feed poultry on farms.</p>
+                                <p class="service-para"><b>Processing plants:</b> These facilities are responsible for processing and packaging chicken meat for distribution to retailers and consumers.</p>
+                                <p class="service-para"><b>Poultry equipment suppliers:</b> These companies specialize in designing, manufacturing and supplying equipment and machinery that is used in poultry production, such as feeders, drinkers, ventilation systems and incubators.</p>
+                                <p class="service-para"><b>Transport and logistics companies:</b> These companies are involved in the transportation of live poultry, eggs and meat products from farms to processing plants, distribution centers and retailers.</p>
+                                <p class="service-para"><b>Poultry veterinarians:</b> These professionals specialize in the diagnosis and treatment of diseases and other health issues that affect poultry.</p>
+                        </div>
+                    </div>
                 </div>
             </section>
             <!--About welcome-section end-->
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2 class="h2-bold">Why Choose Mekark is best choice for Poultry shed Manufacturer?</h2>
+                        <ul>
+                            <li>If you are looking for a high-quality, customizable and cost-effective solution for farming operations. Mekark is the best choice of Poultry shed manufacturer in India. Mekark offers a range of customization options for poultry sheds, including materials, dimensions, ventilation and lighting. This allows customers to create a shed that is tailored to their specific needs and requirements.</li>
+                            <li>Mekark uses the latest production technology to ensure that its structures are of the highest quality. Our company employs a computer-aided design.</li>
+                            <li>Prefabricated structures, including poultry sheds, are a cost-effective alternative to traditional construction methods. Mekark's prefabricated structures are manufactured in a controlled factory environment, which helps to minimize waste and reduce construction time and costs.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+              <article>
+                    <div class="cart-img">
+                        <img src="images/icons/mi-homes/Corporate-Offices.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Poultry veterinarians</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/mi-homes/Small-to-Medium-size-clinics.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Transport and logistics companies</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/mi-homes/School-buildings.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Poultry equipment suppliers</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/mi-homes/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Processing plants</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/mi-homes/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Feed mills</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
 
 
             <!--Gallery-section-->
@@ -94,7 +177,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Poultry Shed Projects</h2>
+                                <h2 class="h2-bold">Poultry Shed Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

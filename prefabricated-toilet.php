@@ -57,22 +57,24 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Innovative Technology for Public Accommodation</h2>
+                                </div>
+                            </div><!-- section title end -->
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">Prefabricated Toilet</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                                
+                                <p class="service-para">A prefabricated toilet is a type of toilet that is constructed off-site in a factory or workshop and then transported to the installation site in a ready-to-install form. The term "prefabricated" means that the toilet is made up of pre-manufactured components that are assembled together to create a complete unit. Prefabricated toilets are commonly used in situations where the construction of a permanent toilet is not feasible, such as in remote areas, construction sites, or events. It is used in situations where a temporary solution is needed, such as during renovations or disaster relief efforts.</p>
+                                <p class="service-para">Prefabricated toilets are available in different types and sizes, ranging from simple portable toilets to more complex modular units that can be connected to a sewer or septic system. It can be made of various materials, including steel, concrete, fiberglass, or plastic, and can be customized to meet specific requirements. Prefabricated toilets provide a more flexible solution, as It can be easily moved or relocated as needed.</p>
                                
                             </div>
                         </div>
@@ -83,11 +85,72 @@
                             </div>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="service-para">Mekark has more than 15 years of Prefabricated toilets manufacturing experience, We provide a range of options to meet your specific needs, from basic portable toilets to more complex modular units. Mekark specializes in the design, manufacture, and supply of prefabricated portable toilets, among other products. The company offers a range of different prefabricated toilet models, including portable toilets, modular restrooms, and custom-built units. In addition to manufacturing and supplying prefabricated portable toilets, Mekark also offers installation, maintenance, and repair services. Our team of experienced professionals can help you choose the right toilet model for your needs, as well as provide ongoing support to ensure that your toilets are always in good working order.</p>
+                            <p class="service-para">Mekark prides itself on providing innovative and high-quality solutions for public sanitation. The company's prefabricated portable toilets are designed to be comfortable, safe, and easy to use, making them an ideal choice for a wide range of settings, including events, construction sites, and disaster relief efforts.</p>
+                        </div>
+                    </div>
                 </div>
             </section>
             <!--About welcome-section end-->
 
-
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+              <article>
+                    <div class="cart-img">
+                        <img src="images/icons/prefab-toillet/Corporate-Offices.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Portable toilet cabins for construction sites</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/prefab-toillet/Small-to-Medium-size-clinics.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Re-locatable bathrooms for even purposes</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/prefab-toillet/School-buildings.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefabricated toilet structures for rural and remote areas</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/prefab-toillet/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Movable toilets for public convenience at places</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/prefab-toillet/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefab temporary toilets for camping areas</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
             <!--Gallery-section-->
             <div class="container">
                 <div class="row">
@@ -95,7 +158,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Prefabricated Toilet Projects</h2>
+                                <h2 class="h2-bold">Prefabricated Toilet Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

@@ -24,7 +24,7 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row glasswool-bg">
+          <div class="ttm-page-title-row multi-storey-steel-building">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
@@ -80,7 +80,7 @@
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/sandwich-panal/glasswool/sandwich-glasswool-panel.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/peb/multi-storey-steel-building/multistoreysteelbuilding-scrollbar.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
@@ -119,7 +119,7 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/multi-storey-steel-building/Automotive-industry.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/multi-storey-steel-building/Construction-sites.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Construction sites</p>
@@ -127,7 +127,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/multi-storey-steel-building/Marine-industry.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/multi-storey-steel-building/Emergency-accommodation.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Emergency accommodation</p>
@@ -135,7 +135,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/multi-storey-steel-building/HVAC-industry.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/multi-storey-steel-building/Educational-buildings.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Educational buildings</p>
@@ -143,7 +143,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/multi-storey-steel-building/agricultural.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/multi-storey-steel-building/Healthcare.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Healthcare</p>
@@ -151,7 +151,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/multi-storey-steel-building/horticultural-icon.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/multi-storey-steel-building/Storage-buildings.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Storage buildings</p>

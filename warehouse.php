@@ -24,7 +24,7 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row glasswool-bg">
+          <div class="ttm-page-title-row warehouse-cover">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
@@ -80,7 +80,7 @@
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/sandwich-panal/glasswool/sandwich-glasswool-panel.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/peb/warehouse/warehouse-scrollbarimage.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/warehouse/Automotive-industry.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/warehouse/wholeseller.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Wholesalers</p>
@@ -125,7 +125,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/warehouse/Marine-industry.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/warehouse/Pharmaceutical-industries.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Pharmaceutical industries</p>
@@ -133,7 +133,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/warehouse/HVAC-industry.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/warehouse/Effective-raw-material-storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Effective raw material storage</p>
@@ -141,7 +141,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/warehouse/agricultural.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/warehouse/Industrial-ware-storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Industrial ware storage</p>
@@ -149,7 +149,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/warehouse/horticultural-icon.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/warehouse/Bulk-storage-of-goods.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Bulk storage of goods</p>

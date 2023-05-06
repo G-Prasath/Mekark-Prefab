@@ -57,22 +57,25 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Effective Acoustic Enclosure for Your Industrial</h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">Acoustic Enclosure</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                                
+                                <p class="service-para">An acoustic enclosure is a specialized structure designed to reduce the noise level of machinery and equipment within an industrial or commercial sector. The enclosure is typically made of materials that have sound-absorbing properties, such as fiberglass, foam or other acoustic materials.</p>
+                                <p class="service-para">Acoustic enclosures are often used in settings where there are strict noise regulations or in environments where excessive noise can cause health problems or interfere with communication. Acoustic enclosures are an effective solution for noise reduction in industrial and commercial settings, helping to create a safer and more comfortable working environment for employees and reducing the impact of noise pollution on nearby communities.</p>
                                
                             </div>
                         </div>
@@ -83,11 +86,68 @@
                             </div>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h2 class="h2-bold">Why to Choose Mekark Prefab Manufacturer?</h2>
+                            <ul>
+                                <li>Mekark is a leading manufacturer of soundproof cabins, providing customized solutions for a variety of industrial and commercial applications. Our soundproof cabins are designed to provide a quiet working environment for workers, protect nearby communities from noise pollution and ensure compliance with local noise regulations.</li>
+                                <li>Mekark's soundproof cabins are made of high-quality materials that provide effective sound insulation, such as acoustic foam, fiberglass, and metal panels. Our expert team designed to accommodate a wide range of equipment and machinery and can be configured with additional features such as ventilation systems, lighting, and access doors.</li>
+                                <li>With a strong focus on quality, innovation and customer satisfaction, Mekark has earned a reputation as a trusted and reliable supplier of soundproof cabins. Their team of experts works closely with clients to understand their unique needs and deliver solutions that meet or exceed their expectations.</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </section>
             <!--About welcome-section end-->
 
-
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+              <article>
+                    <div class="cart-img">
+                        <img src="images/icons/acoustic-enclosure/Corporate-Offices.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Power plant Generation</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/acoustic-enclosure/Small-to-Medium-size-clinics.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>oil and gas industry</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/acoustic-enclosure/School-buildings.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>HVAC systems</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/acoustic-enclosure/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Transportation</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
             <!--Gallery-section-->
             <div class="container">
                 <div class="row">
@@ -95,7 +155,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Acoustic Enclosure Projects</h2>
+                                <h2 class="h2-bold">Acoustic Enclosure Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

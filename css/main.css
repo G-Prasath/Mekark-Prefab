@@ -2095,6 +2095,28 @@ ul.footer-nav-menu li:last-child:after{
     background: url(../images/products/standred-modular/porta-cabin/portacabin.jpg);
 }
 
+/* ------------------- Sandtred modular ------------  */
+.warehouse-cover{
+    background: url(../images/products/peb/warehouse/warehouse-coverimage.jpg);
+}
+.cold-storage{
+    background: url(../images/products/peb/cold-storage/coldstorage-coverpage.jpg);
+}
+.factory-buildings{
+    background: url(../images/products/peb/factory-buildings/factorybuilding-coverpage.jpg);
+}
+.industrial-enclosures{
+    background: url(../images/products/peb/industrial-enclosures/industrialencosure-coverpage.jpg);
+}
+.industrial-shed{
+    background: url(../images/products/peb/industrial-shed/industrial-coverpage.jpg);
+}
+.multi-storey-steel-building{
+    background: url(../images/products/peb/multi-storey-steel-building/multistoreysteelbuilding-coverpage.jpg);
+}
+
+
+
 .ttm-page-title-row-inner { 
     width: 100%;
     padding: 175px 0 125px;

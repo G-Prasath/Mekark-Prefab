@@ -57,22 +57,25 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Protect Your Business with Perfect Security Cabin</h2>
+                                </div>
+                            </div><!-- section title end -->
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">Security Cabin</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                               
+                                <p class="service-para">A security cabin is a small structure that is typically used for security purposes, such as monitoring access to a building, controlling entry and exit points, and ensuring the safety of people and property. Security cabins are usually located at the entrance of a facility or building, and they are manned by security personnel who monitor and control access to the premises.</p>
+                                <p class="service-para">Security cabins can be made of different materials, such as steel, concrete, or wood, and they can be designed to meet specific security requirements. They may feature bullet-resistant glass, locking systems, and other security measures to protect against theft, vandalism, or unauthorized entry. Security cabins are commonly used in a variety of settings, including office complexes, manufacturing facilities, residential areas, airports, and other public places.</p>
+                                <p class="service-para">Mekark is a well-known manufacturer and supplier of various types of industrial and commercial structures, including security cabins. They offer customized solutions to meet the specific needs of clients, ensuring maximum security and functionality. With their expertise in designing and manufacturing quality structures, Mekark is a top choice for those looking for a reliable and trustworthy security cabin manufacturer.</p>
                                
                             </div>
                         </div>
@@ -87,6 +90,62 @@
             </section>
             <!--About welcome-section end-->
 
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Site-Office/Prefabricated-multi-story-building.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Factory buildings</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Site-Office/Modular-site-offices-or-Mining-sites.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Warehouses</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Site-Office/Construction.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Commercial complexes</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Site-Office/Education.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Offices</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Site-Office/event-and-festiva.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Educational institutions</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
 
             <!--Gallery-section-->
             <div class="container">
@@ -95,7 +154,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Security Cabin Projects</h2>
+                                <h2 class="h2-bold">Security Cabin Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

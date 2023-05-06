@@ -57,22 +57,25 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Modern Engneering Solution for Prefab control pulpits</h2>
+                                </div>
+                            </div><!-- section title end -->
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">Control Room</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="service-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque quis earum doloribus natus dicta sint id modi. Sequi adipisci quaerat facere tenetur odio quibusdam incidunt ullam esse nesciunt nisi!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium delectus cumque laboriosam sapiente nulla pariatur possimus praesentium? Enim ullam voluptas vel, fugiat repellat suscipit perspiciatis? Totam nemo quae veniam facilis?
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices</p>
+                                
+                                <p class="service-para">Prefabricated control pulpits are pre-built structures used for monitoring and controlling various processes and equipment in industrial sectors. These pulpits are typically made of high-quality materials, such as steel or aluminum and are designed to be durable and long-lasting. It come equipped with features such as lighting, ventilation, and control panels for equipment operation.</p>
+                                <p class="service-para">Prefabricated control pulpits are used in a variety of industries, including manufacturing, transportation, energy, and more. Prefabricated control pulpits are a cost-effective solution for industrial control applications, as it is quick and easy to install and can be customized to meet specific requirements.</p>
+                                <p class="service-para">Mekark is a manufacturer and supplier of high-quality prefabricated control pulpits. Our pulpits are designed to be durable, long-lasting, and easy to install, making them ideal for a wide range of industrial applications.</p>
                                
                             </div>
                         </div>
@@ -83,11 +86,79 @@
                             </div>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="service-para">We use only the highest-quality materials in our pulpits, ensuring that they can withstand harsh environmental conditions and provide reliable performance for years to come. Our control pulpits are fully customizable, allowing us to tailor them to meet the specific needs of our clients. We offer a range of different sizes, styles and features to choose from, making it easy to find the perfect solution for your industrial control needs. With our expertise and commitment to quality, you can trust Mekark to provide the best prefabricated control pulpits for your business.</p>
+                            <h2 class="h2-bold">Why to Choose Mekark Prefabricated control pulpits?</h2>
+
+                            <ul>
+                                <li>Mekark provide only the highest-quality materials in our pulpits, ensuring that they are durable and long-lasting. Our control pulpits are fully customizable, allowing us to tailor them to meet the specific needs of our clients. Mekark have extensive experience in the design, manufacture, and installation of prefabricated control pulpits, ensuring that we can provide the best solution for your business.</li>
+
+                                <li>Mekark teams are committed to delivering our products on time, every time, so you can rely on us to meet your deadlines. We offer competitive pricing for our products, ensuring that you get the best value for your investment. Our team of experts is always available to answer any questions you may have and to provide you with the support you need. With Mekark, you can expect high-quality, customizable, and cost-effective solutions for your prefabricated control pulpits needs.</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </section>
             <!--About welcome-section end-->
 
-
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+              <article>
+                    <div class="cart-img">
+                        <img src="images/icons/control-room/Corporate-Offices.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Control pulpits</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/control-room/Small-to-Medium-size-clinics.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>CRM Pulpits</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/control-room/School-buildings.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>handling locations</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/control-room/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Entry mill pulpits</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/control-room/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Exit mill pulpits</p>
+                    </div>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
+            
             <!--Gallery-section-->
             <div class="container">
                 <div class="row">
@@ -95,7 +166,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Control Room Projects</h2>
+                                <h2 class="h2-bold">Control Room Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -189,7 +260,8 @@
             <!-- conatact-section end -->
 
 
-        </div><!--site-main end-->
+        </div>
+        <!--site-main end-->
 
 
     <!--footer start-->

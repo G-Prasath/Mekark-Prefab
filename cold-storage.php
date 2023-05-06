@@ -24,7 +24,7 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row glasswool-bg">
+          <div class="ttm-page-title-row cold-storage">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
@@ -80,7 +80,7 @@
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/sandwich-panal/glasswool/sandwich-glasswool-panel.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/peb/cold-storage/coldstorage-scrollbar.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/cold-storage/Automotive-industry.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/cold-storage/Cold-store-for-food-processing-industry.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Cold store for food processing industry</p>
@@ -125,7 +125,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/cold-storage/Marine-industry.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/cold-storage/Cold-storage-facility-building.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Cold storage facility building</p>
@@ -133,7 +133,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/cold-storage/HVAC-industry.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/cold-storage/Cold-storage-panels-for-ripening-chambers.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Cold storage panels for ripening chambers</p>
@@ -141,7 +141,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/cold-storage/agricultural.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/cold-storage/Commercial-cold-rooms.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Commercial cold rooms</p>
@@ -149,7 +149,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/cold-storage/horticultural-icon.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/cold-storage/Vegetable-cold-storage-rooms.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Vegetable cold storage rooms</p>
