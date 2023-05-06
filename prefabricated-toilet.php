@@ -110,7 +110,7 @@
               <main class="grid">
               <article>
                     <div class="cart-img">
-                        <img src="images/icons/prefab-toillet/Corporate-Offices.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/prefab-toilet/Portable-toilet-cabins-for-construction-sites.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Portable toilet cabins for construction sites</p>
@@ -118,7 +118,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/prefab-toillet/Small-to-Medium-size-clinics.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/prefab-toilet/Re-locatable-bathrooms-for-even-purposes.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Re-locatable bathrooms for even purposes</p>
@@ -126,7 +126,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/prefab-toillet/School-buildings.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/prefab-toilet/Prefabricated-toilet-structures-for-rural-and-remote-areas.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Prefabricated toilet structures for rural and remote areas</p>
@@ -134,7 +134,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/prefab-toillet/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/prefab-toilet/Movable-toilets-for-public-convenience-at-places.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Movable toilets for public convenience at places</p>
@@ -142,7 +142,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/prefab-toillet/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/prefab-toilet/camping-areas.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Prefab temporary toilets for camping areas</p>

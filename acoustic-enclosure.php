@@ -115,7 +115,7 @@
               <main class="grid">
               <article>
                     <div class="cart-img">
-                        <img src="images/icons/acoustic-enclosure/Corporate-Offices.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/acoustic-enclosure/Power-plant-Generation.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Power plant Generation</p>
@@ -123,7 +123,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/acoustic-enclosure/Small-to-Medium-size-clinics.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/acoustic-enclosure/oil-and-gas-industry.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>oil and gas industry</p>
@@ -131,7 +131,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/acoustic-enclosure/School-buildings.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/acoustic-enclosure/HVAC-systems.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>HVAC systems</p>
@@ -139,7 +139,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/acoustic-enclosure/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/acoustic-enclosure/Transportation.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Transportation</p>

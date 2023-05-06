@@ -125,7 +125,7 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/railway-shelter/Prefabricated-multi-story-building.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/railway-shelter/Railway-Shelter.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Railway Shelter</p>
@@ -133,7 +133,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/railway-shelter/Modular-site-offices-or-Mining-sites.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/railway-shelter/BTS-Shelter.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>BTS Shelter</p>
@@ -141,7 +141,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/railway-shelter/Construction.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/railway-shelter/Telecom-Shelter.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Telecom Shelter</p>
@@ -149,7 +149,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/railway-shelter/Education.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/railway-shelter/Signaling-Huts.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Signaling Huts</p>
@@ -157,7 +157,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/railway-shelter/event-and-festiva.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/railway-shelter/Temporary-shelters.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Temporary shelters

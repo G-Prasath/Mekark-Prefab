@@ -116,7 +116,7 @@
               <main class="grid">
               <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/Corporate-Offices.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/clean-room/Clinical-gadgets.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Clinical gadgets</p>
@@ -124,7 +124,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/Small-to-Medium-size-clinics.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/clean-room/electronics.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>electronics</p>
@@ -132,7 +132,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/School-buildings.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/clean-room/cars.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>cars</p>
@@ -140,7 +140,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/clean-room/food.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>food</p>
@@ -148,7 +148,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/clean-room/nutratectural.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Nutraceutical</p>

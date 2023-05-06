@@ -123,7 +123,7 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/ripeniing-chanber/Prefabricated-multi-story-building.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/ripping-chamber/Temperature Controlled Cold Storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Temperature Controlled Cold Storage</p>
@@ -131,7 +131,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/ripeniing-chanber/Modular-site-offices-or-Mining-sites.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/ripping-chamber/Pack-Houses.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Pack Houses</p>
@@ -139,7 +139,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/ripeniing-chanber/Construction.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/ripping-chamber/Controlled-Atmospheric-Cold-Storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Controlled Atmospheric Cold Storage</p>
@@ -147,7 +147,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/ripeniing-chanber/Education.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/ripping-chamber/Frozen-Cold-Storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Frozen Cold Storage</p>
@@ -155,7 +155,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/ripeniing-chanber/event-and-festiva.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/ripping-chamber/cold-storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Modified Atmoshpheric Cold Storage</p>

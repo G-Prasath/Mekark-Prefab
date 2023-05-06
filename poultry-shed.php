@@ -127,7 +127,7 @@
               <main class="grid">
               <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/Corporate-Offices.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/poultry-shed/Poultry-veterinarians.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Poultry veterinarians</p>
@@ -135,7 +135,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/Small-to-Medium-size-clinics.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/poultry-shed/Transport-and-logistics-companies.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Transport and logistics companies</p>
@@ -143,7 +143,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/School-buildings.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/poultry-shed/Poultry-equipment-suppliers.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Poultry equipment suppliers</p>
@@ -151,7 +151,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/poultry-shed/Processing-plants.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Processing plants</p>
@@ -159,7 +159,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/poultry-shed/Feed-mills.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Feed mills</p>

@@ -105,7 +105,7 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Site-Office/Prefabricated-multi-story-building.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/security-cabin/Factory-buildings.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Factory buildings</p>
@@ -113,7 +113,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Site-Office/Modular-site-offices-or-Mining-sites.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/security-cabin/Warehouses.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Warehouses</p>
@@ -121,7 +121,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Site-Office/Construction.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/security-cabin/Commercial-complexes.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Commercial complexes</p>
@@ -129,7 +129,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Site-Office/Education.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/security-cabin/Offices.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Offices</p>
@@ -137,7 +137,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Site-Office/event-and-festiva.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/security-cabin/educational.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Educational institutions</p>

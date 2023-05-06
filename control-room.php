@@ -117,7 +117,7 @@
               <main class="grid">
               <article>
                     <div class="cart-img">
-                        <img src="images/icons/control-room/Corporate-Offices.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/control-room/Control-pulpits.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Control pulpits</p>
@@ -125,7 +125,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/control-room/Small-to-Medium-size-clinics.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/control-room/CRM-Pulpits.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>CRM Pulpits</p>
@@ -133,7 +133,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/control-room/School-buildings.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/control-room/handling-locations.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>handling locations</p>
@@ -141,7 +141,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/control-room/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/control-room/Entry-mill-pulpits.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Entry mill pulpits</p>
@@ -149,7 +149,7 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/control-room/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/control-room/Exit-mill-pulpits.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Exit mill pulpits</p>
