@@ -53,347 +53,293 @@
 
         <!--site-main start-->
         <div class="site-main">
-
-
-        
-
-            <!--welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+        <section class="py-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-6 col-md-8">
-                            <!-- ttm_single_image-wrapper -->
-                            <div class="ttm_single_image-wrapper">
-                                <img width="570" height="484" class="img-fluid" src="images/about/aboutus-scrool.png" alt="single_02">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Who we are ?</h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->
+                            <p class="service-para">Mekark prefab, founded in 2008, is a complete innovative solution for pre-engineered Buildings and prefab building manufacturer based in Chennai, India, With over 15+ years of industry We have 2500 completed projects and 100% growth buiness for your Residential, Commercial and Industrial Sectors.</p>                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <!-- <div class="col-md-3"></div> -->
+                        <div class="col-md-9">
+                            <table class="table table-striped table-dark">
+                              <tbody>
+                                <tr>
+                                  <td>Founded On</td>
+                                  <td>2008</td>
+                                </tr>
+                                <tr>
+                                  <td>Our CEO</td>
+                                  <td>Janvel</td>
+                                </tr>
+                                <tr>
+                                  <td>Our Team Size</td>
+                                  <td>100+</td>
+                                </tr>
+                                <tr>
+                                  <td>Our Clients</td>
+                                  <td>Pothys, Larsen & Toubro Infotech, CavinKare</td>
+                                </tr>
+                                <tr>
+                                  <td>Our Services</td>
+                                  <td>Prefabricated Structures, Pre Engineered Building, Sandwich Panels, LGSF, Standard Modular Soluation</td>
+                                </tr>
+                                <tr>
+                                  <td>Our Contact Number</td>
+                                  <td>+91 97909 24754</td>
+                                </tr>
+                                <tr>
+                                  <td>Our Website</td>
+                                  <td>https://www.mekark.com</td>
+                                </tr>
+                                <tr>
+                                  <td>Contact Mail ID</td>
+                                  <td>admin@mekark.com</td>
+                                </tr>
+                                <tr>
+                                  <td>Our Register Office</td>
+                                  <td>15,62nd street, Ashok Nagar, Chennai-600083</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                        </div>
+                        <div class="col-md-3"></div>
+                    </div>
+                    <div class="row pt-4">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">What We Do ?</h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->  
+                            <p class="service-para">Mekark Structure Pvt Ltd is an ISO 9001:2008 Certified manufacturer of high quality pre-engineered Buildings (PEB) and Prefabricated Building based in Chennai, India. We are a manufacturing and supplier company specializing in</p>                          
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                        <p><b>PREFABRICATED STRUCTURES</b></p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none; margin:0px;">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Prefabricated Site Infrastucture</a></li>
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Prefab Site Office</a></li>
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Labor Hutment</a></li>
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Railway Shelters</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Control Room</a></li>
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Ripening Chambers</a></li>
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Acoustic Enclosure</a></li>
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Security Cabin</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                        <ul style="list-style-type:none">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Prefabricated Toilet</a></li>
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Clean Room</a></li>
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Poultry Shed</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                        <p><b>PRE ENGINEERED BUILDING</b></p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none; margin:0px">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Warehouse</a></li>
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Industrial Shed</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Factory Building</a></li>
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Multi Storey Building</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Industrial Enclosures</a></li>
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Cold Storage</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                        <p><b>SANDWICH PANELS</b></p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none; margin:0px">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>PUF Panel</a></li>
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>EPS Panel</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Rockwool Panel</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Glasswool Panel</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                        <p><b>LGSF</b></p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none; margin:0px">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Prefab School</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Prefab Homes</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Sample Flat</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="container"> 
+                    <div class="row">
+                        <div class="col-md-12">
+                        <p><b>STANDARD MODULAR SOLUTION</b></p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none; margin:0px">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Porta Cabin</a></li>
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Liftable Cabin</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Mi Homes</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none">
+                                <li><a href="#"><i class="ti-control-forward pr-2"></i>K-House</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="container pt-5">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Mekark Prefab Manufacturing Core Values ?</h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->  
+                            <p class="service-para">Our main aim is to become a world's best high quality prefab buildings and pre-engineering structure company based on clients requirements, Innovative solutions, cost effective, delivering on time and providing reliable support. Some of our core values are:</p>                          
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none">
+                                <li><i class="fa fa-check pr-2"></i>Quality</li>
+                                <li><i class="fa fa-check pr-2"></i>Honest</li>
+                                <li><i class="fa fa-check pr-2"></i>Innovation</li>
+                                <li><i class="fa fa-check pr-2"></i>Unity</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none">
+                                <li><i class="fa fa-check pr-2"></i>Accountability</li>
+                                <li><i class="fa fa-check pr-2"></i>Committed</li>
+                                <li><i class="fa fa-check pr-2"></i>Integrity</li>
+                                <li><i class="fa fa-check pr-2"></i>Trust</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul style="list-style-type:none">
+                                <li><i class="fa fa-check pr-2"></i>Customer Focus</li>
+                                <li><i class="fa fa-check pr-2"></i>Sustainability</li>
+                                <li><i class="fa fa-check pr-2"></i>Growth</li>
+                                <li><i class="fa fa-check pr-2"></i>Long-term profitability</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="container pt-3">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Our Mekark Prefab working process?</h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->  
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="process-card">
+                                <img src="images/icons/about-icons/plan.png" alt="" />
+                                <p>Plan</p>
                             </div>
                         </div>
-                        <div class="col-lg-6 col-md-12">
-                            <div class="pl-30 res-991-pl-0 res-991-mt-40">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="title">Partner In Inspiring And Better Living Areas</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <div class="pb-10 res-991-pb-30">
-                                    <p class="fontweight-Medium">We have a proven track record of finding exactly the right designers for  our clients & offer unparalleled access to some of the interior designers  in today’s time constitutionally!</p>
-                                </div>
-                                <div class="d-flex pl-5 mt-20 mb-30 ttm-bgcolor-skincolor position-relative z-index-2">
-                                    <div class="d-inline pl-25 pr-25 pt-15 pb-15 w-100 ttm-bgcolor-grey ttm-textcolor-darkgrey">
-                                        <p class="mb-0 font-size-17">“A great design aesthetic often blooms from strong roots of inspiration. When it comes to, this translates quite literally and truly. Almost umbilical connect with Nature combined”</p>
-                                    </div>
-                                </div>
-                                <div class="d-sm-flex align-items-center mt-60 res-767-mt-0">
-                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-round ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-darkgrey mr-30 res-767-mt-20" href="about-us.html" tabindex="0">Read More</a>
-                                    <div class="res-767-mt-20">
-                                        <img width="186" height="53" class="img-fluid" src="images/author-sign.png" alt="sign">
-                                    </div>
-                                </div>
+                        <div class="col-md-3">
+                            <div class="process-card">
+                                <img src="images/icons/about-icons/design.png" alt="" />
+                                <p>Design</p>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="process-card">
+                                <img src="images/icons/about-icons/build.png" alt="" />
+                                <p>Build</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="process-card">
+                                <img src="images/icons/about-icons/install.png" alt="" />
+                                <p>Install</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <!--welcome-section end-->
-
-            <!-- -------- vision mission Quality ----------- -->
-            <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <!-- featured-icon-box -->
-                    <div class="featured-icon-box icon-align-before-content icon-ver_align-top style6">
-                        <div class="featured-icon icon-with-bg-shape">
-                            <div class="ttm-icon ttm-icon_element-fill ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                <i class="flaticon flaticon-stairs"></i>
-                            </div>
-                        </div>
-                        <div class="featured-content">
-                            <div class="featured-title">
-                                <h3>Vision</h3>
-                            </div>
-                            <div class="featured-desc">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur modi sunt cum possimus commodi et! Laudantium commodi cupiditate nam delectus, vel perspiciatis, obcaecati molestiae tempore, minus perferendis necessitatibus similique corrupti?. </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <!-- featured-icon-box -->
-                    <div class="featured-icon-box icon-align-before-content icon-ver_align-top style6">
-                        <div class="featured-icon icon-with-bg-shape">
-                            <div class="ttm-icon ttm-icon_element-fill ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                <i class="flaticon flaticon-windows"></i>
-                            </div>
-                        </div>
-                        <div class="featured-content">
-                            <div class="featured-title">
-                                <h3>Mission</h3>
-                            </div>
-                            <div class="featured-desc">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum quas magni voluptas, culpa asperiores, sequi dolor consequuntur nisi reiciendis quaerat temporibus esse incidunt pariatur facilis neque placeat beatae veniam odit. </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <!-- featured-icon-box -->
-                    <div class="featured-icon-box icon-align-before-content icon-ver_align-top style6">
-                        <div class="featured-icon icon-with-bg-shape">
-                            <div class="ttm-icon ttm-icon_element-fill ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                <i class="flaticon flaticon-interior-design"></i>
-                            </div>
-                        </div>
-                        <div class="featured-content">
-                            <div class="featured-title">
-                                <h3>Quality</h3>
-                            </div>
-                            <div class="featured-desc">
-                                <p>Commercial heating are responsible for the heater repair and maintenance Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero eaque earum explicabo nemo, ipsum sequi necessitatibus beatae tempore ad ducimus odio id a, provident tenetur officiis quaerat? Debitis, recusandae aperiam!.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            </div>
-            <!-- --------- Vision Mission Quality ------------->
-
-            <!--fun-fact-section-->
-            <section class="pt-60 faq-section pb-90 clearfix">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="res-991-pb-40 pr-10 res-991-pr-0">
-                                <!-- section title -->
-                                <div class="section-title mb-10">
-                                    <div class="title-header">
-                                        <h2 class="title">We Shape Good Lives</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <p class="fontweight-Medium">Believes that such powerful design aesthetic can only stem from the right work ethic- one</p>
-                                <div class="row">
-                                    <div class="col-md-3 col-sm-6">
-                                        <!-- ttm-fid -->
-                                        <div class="ttm-fid inside ttm-fid-view-circle-progress ttm-fid-with-border">
-                                            <div class="ttm-fid-contents">
-                                                <div class="ttm-circle-box"
-
-                                                    data-digit          = "75"
-                                                    data-fill           = "#da9c67"
-                                                    data-before         = ""
-                                                    data-before-type    = "sup"
-                                                    data-after          = "%"
-                                                    data-after-type     = "span"
-                                                    data-size           = "100"
-                                                    data-emptyfill      = "#232323"
-                                                    data-thickness      = "7"
-                                                    data-linecap        = "round"
-                                                    data-gradient       = ""
-                                                    >
-                                                    <div class="ttm-circle-content">
-                                                        <div class="ttm-circle"></div>
-                                                        <div class="ttm-circle-boxcontent"><div class="ttm-fid-number"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <h3 class="ttm-fid-title"><span>Interior Designer</span></h3>
-                                            </div>
-                                        </div><!-- ttm-fid end -->
-                                    </div>
-                                    <div class="col-md-3 col-sm-6">
-                                        <!-- ttm-fid-->
-                                        <div class="ttm-fid inside ttm-fid-view-circle-progress ttm-fid-with-border">
-                                            <div class="ttm-fid-contents">
-                                                <div class="ttm-circle-box"
-
-                                                    data-digit          = "80"
-                                                    data-fill           = "#da9c67"
-                                                    data-before         = ""
-                                                    data-before-type    = "sup"
-                                                    data-after          = "%"
-                                                    data-after-type     = "span"
-                                                    data-size           = "100"
-                                                    data-emptyfill      = "#232323"
-                                                    data-thickness      = "7"
-                                                    data-gradient       = ""
-                                                    >
-                                                    <div class="ttm-circle-content">
-                                                        <div class="ttm-circle"></div>
-                                                        <div class="ttm-circle-boxcontent"><div class="ttm-fid-number"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <h3 class="ttm-fid-title"><span>Architecture</span></h3>
-                                           </div>
-                                       </div>
-                                        <!-- ttm-fid end -->
-                                    </div>
-                                    <div class="col-md-3 col-sm-6">
-                                        <!-- ttm-fid-->
-                                        <div class="ttm-fid inside ttm-fid-view-circle-progress ttm-fid-with-border">
-                                            <div class="ttm-fid-contents">
-                                                <div class="ttm-circle-box"
-
-                                                    data-digit          = "95"
-                                                    data-fill           = "#da9c67"
-                                                    data-before         = ""
-                                                    data-before-type    = "sup"
-                                                    data-after          = "%"
-                                                    data-after-type     = "span"
-                                                    data-size           = "100"
-                                                    data-emptyfill      = "#232323"
-                                                    data-thickness      = "7"
-                                                    data-gradient       = ""
-                                                    >
-                                                    <div class="ttm-circle-content">
-                                                        <div class="ttm-circle"></div>
-                                                        <div class="ttm-circle-boxcontent">
-                                                            <div class="ttm-fid-number"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <h3 class="ttm-fid-title"><span>Best UIX Design</span></h3>
-                                           </div>
-                                       </div>
-                                        <!-- ttm-fid end-->
-                                    </div>
-                                    <div class="col-md-3 col-sm-6">
-                                        <!-- ttm-fid-->
-                                        <div class="ttm-fid inside ttm-fid-view-circle-progress ttm-fid-with-border">
-                                            <div class="ttm-fid-contents">
-                                                <div class="ttm-circle-box"
-
-                                                    data-digit          = "95"
-                                                    data-fill           = "#da9c67"
-                                                    data-before         = ""
-                                                    data-before-type    = "sup"
-                                                    data-after          = "%"
-                                                    data-after-type     = "span"
-                                                    data-size           = "100"
-                                                    data-emptyfill      = "#232323"
-                                                    data-thickness      = "7"
-                                                    data-gradient       = ""
-                                                    >
-                                                    <div class="ttm-circle-content">
-                                                        <div class="ttm-circle"></div>
-                                                        <div class="ttm-circle-boxcontent">
-                                                            <div class="ttm-fid-number"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <h3 class="ttm-fid-title"><span>Best UIX Design</span></h3>
-                                           </div>
-                                       </div>
-                                        <!-- ttm-fid end-->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- row end -->
-                </div>
-            </section>
-            <!--fun-fact-section end-->
-
-            <!-- ------ Start Adavantages -------->
-            <div class="site-main">
-
-            <!--grid-section-->
-            <section class="grid-section clearfix">
-                <div class="container">
-                    <div class="row">
-                        <!-- section title -->
-                        <div class="section-title mb-10">
-                                    <div class="title-header">
-                                        <h2 class="title">Add Advantages</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                    </div>
-                    <!-- row -->
-                    <div class="row text-center">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <!-- featured-imagebox-team -->
-                            <div class="featured-imagebox featured-imagebox-team style1">
-                                <div class="add-img">
-                                    <img src="images/benifites/Loyalty.png" class="img-fluid" alt="">
-                                </div>
-                                <p>Customer Loyalty & Transparency</p>
-                            </div>
-                            <!-- featured-imagebox-team end-->
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <!-- featured-imagebox-team -->
-                            <div class="featured-imagebox featured-imagebox-team style1">
-                                <div class="add-img">
-                                    <img src="images/benifites/Business.png" class="img-fluid" alt="">
-                                </div>
-                                <p>Global Business Strategy</p>
-                            </div>
-                            <!-- featured-imagebox-team end-->
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <!-- featured-imagebox-team -->
-                            <div class="featured-imagebox featured-imagebox-team style1">
-                                <div class="add-img">
-                                    <img src="images/benifites/Hassle.png" class="img-fluid" alt="">
-                                </div>
-                                <p>Hassle Free Execution</p>
-                            </div>
-                            <!-- featured-imagebox-team end-->
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <!-- featured-imagebox-team -->
-                            <div class="featured-imagebox featured-imagebox-team style1">
-                                <div class="add-img">
-                                    <img src="images/benifites/ProjectDelivery.png" class="img-fluid" alt="">
-                                </div>
-                                <p>On Time Project Delivery</p>
-                            </div>
-                            <!-- featured-imagebox-team end-->
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <!-- featured-imagebox-team -->
-                            <div class="featured-imagebox featured-imagebox-team style1">
-                                <div class="add-img">
-                                    <img src="images/benifites/Promising.png" class="img-fluid" alt="">
-                                </div>
-                                <p>Promising Expertise</p>
-                            </div>
-                            <!-- featured-imagebox-team end-->
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <!-- featured-imagebox-team -->
-                            <div class="featured-imagebox featured-imagebox-team style1">
-                                <div class="add-img">
-                                    <img src="images/benifites/Problem-solving.png" class="img-fluid" alt="">
-                                </div>
-                                <p>Excellence in Problem Solving</p>
-                            </div>
-                            <!-- featured-imagebox-team end-->
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <!-- featured-imagebox-team -->
-                            <div class="featured-imagebox featured-imagebox-team style1">
-                                <div class="add-img">
-                                    <img src="images/benifites/Team.png" class="img-fluid" alt="">
-                                </div>
-                                <p>Passionately Committed Team</p>
-                            </div>
-                            <!-- featured-imagebox-team end-->
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <!-- featured-imagebox-team -->
-                            <div class="featured-imagebox featured-imagebox-team style1">
-                                <div class="add-img">
-                                    <img src="images/benifites/Perfection.png" class="img-fluid" alt="">
-                                </div>
-                                <p>Perfection Reassured</p>
-                            </div>
-                            <!-- featured-imagebox-team end-->
-                        </div>
-                    </div>
-                </div>
-            </section> <!--grid-section end-->
-
-
         </div><!--site-main end-->
 
 

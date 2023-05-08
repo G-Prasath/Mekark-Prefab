@@ -2150,6 +2150,26 @@ ul.footer-nav-menu li:last-child:after{
     Inner-Pages
 ------------------------*/
 
+/* ---------- Abouut Page --------------  */
+.fa-check{
+    font-weight: bold;
+    color: greenyellow;
+    font-size: 20px;
+}
+.process-card{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.process-card > p{
+    margin-bottom: 0px;
+}
+.process-card > img{
+    margin-bottom: 10px;
+}
+
 /* single_team
 /*------------------------------------------------------------------------------*/ 
 .ttm-team-member-single-content h3, .ttm-team-member-content-about h3 { 
