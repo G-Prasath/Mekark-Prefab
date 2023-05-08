@@ -3,13 +3,11 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href=" https://www.mekark.com/ripening-chambers-manufacturer"/>
+<title> Fruits Ripening Chambers Manufacturer | Mekark </title> 
+<meta name="description" content=" Mekark is a leading manufacturer and supplier of Fruits Ripening Chambers, offering Pre-cooling rooms, Ethylene generators and Controlled atmosphere ripening chambers."/>
+<meta name="keywords" content=" Fruits Ripening Chambers Manufacturer, Fruits Ripening Chambers Supplier, Fruits Ripening Chambers "/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
 
@@ -24,13 +22,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row prefab-school">
+          <div class="ttm-page-title-row reping">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Prefab School</h1>
+                                    <h1 class="title">Ripening Chambers</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -41,7 +39,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Prefab School</span>
+                                            <span>Ripening Chambers</span>
                                         </div>
                                     </div>
                                 </div>
@@ -56,14 +54,14 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="my-5 welcome-section clearfix">
+            <section class="pt-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                             <!-- section title -->
-                             <div class="section-title">
+                            <!-- section title -->
+                            <div class="section-title">
                                 <div class="title-header">
-                                    <h2 class="h2-bold">Choose Mekark's Prefab School Buildings - Smart Solutions for Education </h2>
+                                    <h2 class="h2-bold">Power Efficient and Custom Designed Ripening chambers</h2>
                                 </div>
                             </div><!-- section title end -->
                         </div>
@@ -71,38 +69,44 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <p class="service-para">Prefab school buildings can be designed to meet specific requirements, such as the number of classrooms, size of the auditorium, and other amenities. A prefab school building is a type of modular building that is constructed off-site in a factory or manufacturing facility, and then transported to the school site for final assembly. The building is typically made up of prefabricated modules or panels that are designed to fit together seamlessly and create a complete structure.</p>
-                                <p class="service-para">Mekark is a leading manufacturer of prefab school buildings with PUF/EPS insulated panels. Our structures are sustainable, energy-efficient, and customizable. Our prefab school buildings work is speed of construction, less time and costs, use of more efficient quality materials. We also offer a modern and efficient alternative to traditional school construction, and are becoming increasingly popular as more schools look for affordable and sustainable solutions to expand or upgrade their facilities.</p>
+                                
+                                <p class="service-para">Ripening chambers are specialized storage facilities used for the controlled ripening of fruits and vegetables. It's designed to create an optimal environment for the ripening process by controlling the temperature, humidity, and ethylene levels inside the chamber.</p>
+                                <p class="service-para">Ripening chambers are commonly used by fruit and vegetable growers, distributors, and retailers to extend the shelf life of their products and ensure that they reach consumers in the best possible condition. With the ability to customize the ripening process for different types of produce, ripening chambers offer a cost-effective solution for improving the quality and consistency of fresh fruits and vegetables.</p>
+                                <p class="service-para">The fruit ripening process is a natural process that occurs after the fruit is harvested. During this process, the fruit undergoes a series of changes that result in its maturation and readiness for consumption. The ripening process involves a complex series of biochemical and physiological changes, including the breakdown of starches into sugars, the softening of fruit tissue, the development of aroma and flavor compounds, and the changes in color.</p>
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/LGSF/prefab-school/lgsfprefab-school-scrool.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/riping/prefab-ripeningchambers.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <h2 class="h2-bold">Benefits from Mekark Prefab School Buildings Manufacturer process include:</h2>
-                            <ul>
-                                <li>Mekark Prefab school buildings can be constructed in a shorter period of time than traditional buildings particularly advantageous for schools that need to accommodate students quickly.</li>
-                                <li>It can be designed to meet the specific needs and requirements of the school, including the number of classrooms, size of the auditorium, and other amenities.</li>
-                                <li>Prefab school buildings can be more cost-effective than traditional buildings, as they are constructed in a controlled factory environment, which can result in less waste and more efficient use of materials.</li>
-                                <li>Prefab school buildings can be designed to incorporate sustainable features and technologies, such as energy-efficient heating and cooling systems, solar panels and green roofs.</li>
-                                <li>Our Prefab school buildings are often made from durable materials that can withstand harsh weather conditions and resist pests and other forms of damage.</li>
-                                <li>Prefab school buildings can be easily disassembled and moved to a new location, making them a flexible and portable solution for schools with changing needs.</li>
-                                <li>Our Manufacturer and Supplier Team offer a cost-effective, sustainable, and efficient solution for schools looking to expand or upgrade their facilities.</li>
-                            </ul>
+                            <p class="service-para">The ripening process is often triggered by the release of the hormone ethylene, which can be naturally produced by the fruit or artificially applied to speed up the process. Ripening can also be influenced by environmental factors such as temperature and humidity. Ripening chambers provide a controlled environment that can mimic the natural ripening process and help maintain the quality and freshness of the fruit during the storage and transportation phases.</p>
                         </div>
                     </div>
                 </div>
             </section>
             <!--About welcome-section end-->
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2 class="h2-bold">Why to Choose our Mekark Ripening Chambers Manufacturer</h2>
+                        <ul>
+                            <li>
+                            Mekark is a leading manufacturer of ripening chambers, offering a range of solutions to meet the specific needs of fruit and vegetable growers, distributors and retailers. Our ripening chambers are designed with state-of-the-art technology and high-quality materials to ensure optimal ripening conditions for different types of produce. We provide customized solutions to our clients, including pre-cooling, humidification, ventilation, and temperature control systems, to ensure the highest levels of efficiency and productivity. With our expertise in the field and commitment to customer satisfaction. We are a trusted partner for ripening chamber solutions in the agricultural industry.
+                            </li>
+                        </ul>
 
-            <!-- ----- Applications --------  -->
-            <div class="container pb-5">
+                    </div>
+                </div>
+            </div>
+
+ <!-- ----- Applications --------  -->
+ <div class="container pb-5">
                 <div class="row">
                     <div class="col-md-12">
                         <!-- section title -->
@@ -116,48 +120,47 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-School/Modular-prefab-classrooms.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/ripping-chamber/Temperature Controlled Cold Storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Modular prefab classrooms</p>
+                      <p>Temperature Controlled Cold Storage</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-School/Teaching-blocks-for-easy-relocation.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/ripping-chamber/Pack-Houses.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Teaching blocks for easy relocation</p>
+                      <p>Pack Houses</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-School/Workshops-and-laboratories.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/ripping-chamber/Controlled-Atmospheric-Cold-Storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Workshops and laboratories</p>
+                      <p>Controlled Atmospheric Cold Storage</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-School/Outdoor-recreational-building.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/ripping-chamber/Frozen-Cold-Storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Outdoor recreational buildings</p>
+                      <p>Frozen Cold Storage</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-School/Prefabricated-stationery-shops.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/ripping-chamber/cold-storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Prefabricated stationery shops</p>
+                      <p>Modified Atmoshpheric Cold Storage</p>
                     </div>
                 </article>
               </main>
             </div>
             <!-- ----- End Applications --------  -->
-
 
             <!--Gallery-section-->
             <div class="container">
@@ -166,7 +169,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold pb-3">Prefab School Projects</h2>
+                                <h2 class="h2-bold">Ripening Chambers Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -174,7 +177,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/LGSF/prefab-school/gallery" . "/*.jpg");
+                        $images = glob("images/products/prefab-struct/riping/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">

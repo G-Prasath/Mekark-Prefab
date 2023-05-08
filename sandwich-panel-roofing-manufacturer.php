@@ -3,13 +3,11 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href="https://www.mekark.com/sandwich-panel-roofing-manufacturer" />
+<title> Sandwich Panel Roofing Manufacturer India | Mekark</title> 
+<meta name="description" content=" Mekark prefab sandwich Panels manufacturer provide premium solution for sandwich panel roof and wall."/>
+<meta name="keywords" content=" Sandwich Panel Roofing Manufacturers, Sandwich Panel Roofing Wall, Sandwich Panel Roofing"/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
 

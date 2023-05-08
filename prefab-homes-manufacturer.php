@@ -3,13 +3,11 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href="https://www.mekark.com/prefab-homes-manufacturer" />
+<title>Prefab Modular Homes Manufacturer, Supplier | Mekark</title> 
+<meta name="description" content="Mekark Prefab Modular Homes top manufacturer and supplier Company India. Contact us for Prefab Homes."/>
+<meta name="keywords" content="Prefab Modular Homes Manufacturer, Prefab Modular Homes Supplier, Prefab Modular Homes India"/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
 
@@ -24,13 +22,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row cold-storage">
+          <div class="ttm-page-title-row prefab-homes">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Cold Storage</h1>
+                                    <h1 class="title">Prefab Homes</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -39,9 +37,9 @@
                                                 <a title="Go to Delmont." href="index.php" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                             </span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span><a href="products.php">Pre Engineered Builder</a></span>
+                                            <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Cold Storage</span>
+                                            <span>Prefab Homes</span>
                                         </div>
                                     </div>
                                 </div>
@@ -56,107 +54,50 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="py-5 welcome-section clearfix">
+            <section class="my-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
                              <!-- section title -->
                              <div class="section-title">
-                                <div class="title-header">
-                                    <h2 class="h2-bold">Energy-Efficient Cold Storage Solutions for Sustainable Operations</h2>
-                                </div>
-                            </div><!-- section title end -->
+                                    <div class="title-header">
+                                        <h2 class="h2-bold">Mekark Prefab Homes - Efficient Solution for Modern Living</h2>
+                                    </div>
+                                </div><!-- section title end -->
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                               
-                                <p class="service-para">A cold storage structure is a type of building or facility designed specifically for the storage of perishable goods that require a controlled environment to maintain their quality and safety. The structure is typically insulated with materials such as polyurethane foam or polystyrene to prevent the escape of cool air and to maintain a consistent temperature inside the facility. The design and construction of cold storage structures must consider factors such as the type of product being stored, the required storage capacity, and the environmental conditions in which the facility will be located. Cold storage structures are an essential component of the cold chain logistics system, which is crucial for ensuring the safety and quality of perishable goods during transportation and storage.</p>
-                                <p class="service-para">Mekark is a leading manufacturer and supplier of cold storage buildings. With years of experience in the industry, Mekark offers a range of cold storage solutions to meet the needs of various industries. We provide customized design and construction services to ensure that each cold storage building meets the specific requirements of their clients.</p>
-                               
+                                <p class="service-para">Modular prefab homes is also known as prefabricated homes or simply prefab homes, are homes that are built in sections or modules in a factory setting and then transported to the home site for final assembly. The modules are designed to fit together seamlessly to create a complete structure.</p>
+                                <p class="service-para">Mekark Prefab is the leading manufacturer and supplier of modular prefab homes in commercial industry. Additionally modular prefab homes can be more energy-efficient and environmentally friendly than traditional site-built homes, as they often incorporate sustainable materials and technologies such as solar panels, insulation, and energy-efficient appliances. We offer the most efficient modern alternative to traditional home construction, and are becoming increasingly popular as more people look for affordable, customizable, and sustainable housing solutions.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/peb/cold-storage/coldstorage-scrollbar.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/LGSF/prefab-homes/lgsfprefab-homes-scrool.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">Mekark's cold storage buildings are made of high-quality materials and are designed to be energy-efficient, cost-effective, and environmentally sustainable. We use advanced insulation materials and refrigeration systems to maintain a consistent low temperature inside the facility. Additionally Our Team offer a range of accessories and services, including temperature and humidity control systems, shelving and racking, lighting systems and more.</p>
-                            <p class="service-para">Mekark's team of experts works closely with their clients throughout the design and construction process to ensure that the cold storage building meets all regulatory and safety standards. Their commitment to quality and customer satisfaction has earned them a reputation as a trusted provider of cold storage solutions.</p>
-                            
-                            <h2 class="h2-bold">Benefits of Cold storage buildings</h2>
+                            <p class="service-para">Mekark Modular prefab homes are constructed in a factory setting, which allows for faster and more efficient construction times. This is because the weather and other factors that can slow down construction are not a factor, and the assembly line process allows for more efficient use of materials. Modular prefab homes offer a high degree of customization and flexibility in design, as they can be designed to fit specific needs and preferences. Many modular prefab homes incorporate sustainable materials and technologies, such as energy-efficient appliances and solar panels, making them a more environmentally friendly housing option. We are offering a modern, efficient, and customizable alternative to traditional home construction, and are becoming increasingly popular as a sustainable and affordable housing solution.</p>
+                            <h2 class="h2-bold">Mekark prefab house assembly line typically consists of the following stages:</h2>
                             <ul>
-                                <li>Cold storage buildings provide a controlled environment that maintains a consistent low temperature to prevent spoilage and deterioration of perishable goods such as food and pharmaceuticals.</li>
-                                <li>Cold storage buildings can extend the shelf life of perishable products, which helps to reduce waste and improve product quality.</li>
-                                <li>Cold storage buildings are designed to maximize storage efficiency, allowing for more products to be stored in a smaller space.</li>
-                                <li>Cold storage buildings can be designed to be energy-efficient, using technologies such as insulation, LED lighting, and smart controls to reduce energy consumption and carbon emissions.</li>
-                                <li>Cold storage buildings are an important component of the cold chain logistics system, helping to ensure the safety and quality of perishable goods during transportation and storage.</p>
+                                <li>This is the initial stage where the design and engineering of the prefab house is finalized. The design is created using latest design software, and engineers ensure that the design is structurally sound and meets all building codes and regulations.</li>
+                                <li>Once the design is finalized, the materials for the prefab house are selected. These can include a variety of materials such as steel, wood, concrete, and insulation, depending on the design and requirements of the house.</li>
+                                <li>The materials are then sent to the factory or manufacturing facility where the prefab house will be built. Here, the materials are fabricated into components such as walls, floors, and roof panels.</li>
+                                <li>The prefabricated components are then assembled on the assembly line to form the complete house. This is typically done using specialized tools and equipment such as cranes, hoists, and jigs.</li>
+                                <li>Once the house is assembled, finishing touches such as plumbing, electrical, and interior finishes are added. Throughout the assembly line process, there are multiple quality control checks to ensure that the prefab house meets all safety, structural and aesthetic standards.</li>
+                                <li>Finally, the completed prefab house is transported to the site where it will be installed and assembled on the foundation.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </section>
             <!--About welcome-section end-->
 
-            <!-- ----- Applications --------  -->
-            <div class="container pb-5">
-                <div class="row">
-                    <div class="col-md-12">
-                        <!-- section title -->
-                        <div class="section-title">
-                            <div class="title-header">
-                                <h2 class="h2-blod">Applications</h2>
-                            </div>
-                        </div><!-- section title end -->
-                    </div>
-                </div>
-              <main class="grid">
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/cold-storage/Cold-store-for-food-processing-industry.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Cold store for food processing industry</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/cold-storage/Cold-storage-facility-building.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Cold storage facility building</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/cold-storage/Cold-storage-panels-for-ripening-chambers.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Cold storage panels for ripening chambers</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/cold-storage/Commercial-cold-rooms.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Commercial cold rooms</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/cold-storage/Vegetable-cold-storage-rooms.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Vegetable cold storage rooms</p>
-                </article>
-              </main>
-            </div>
-            <!-- ----- End Applications --------  -->
 
             <!--Gallery-section-->
             <div class="container">
@@ -165,7 +106,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">Cold Storage Projects</h2>
+                                <h2 class="h2-bold pb-3">Prefab Homes Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -173,7 +114,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/peb/cold-storage/gallery" . "/*.jpg");
+                        $images = glob("images/products/LGSF/prefab-homes/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">

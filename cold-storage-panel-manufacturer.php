@@ -3,16 +3,14 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href="https://www.mekark.com/cold-storage-panel-manufacturer"/>
+<title>Cold Storage Panel Manufacturers Supplier India </title> 
+<meta name="description" content="Mekark deliver manufacturing and supplier of Cold Storage, Rooms, and Freezer Room. Contact us today."/>
+<meta name="keywords" content=" Cold Storage Panel Manufacturers Supplier India, Cold Storage Panel Manufacturers India , Cold Storage Panel Manufacturers Supplier"/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
 <title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
-
 
 </head>
 
@@ -25,13 +23,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row control-room">
+          <div class="ttm-page-title-row cold-storage">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Control Room</h1>
+                                    <h1 class="title">Cold Storage</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -40,9 +38,9 @@
                                                 <a title="Go to Delmont." href="index.php" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                             </span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span><a href="products.php">Products</a></span>
+                                            <span><a href="products.php">Pre Engineered Builder</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Control Room</span>
+                                            <span>Cold Storage</span>
                                         </div>
                                     </div>
                                 </div>
@@ -61,10 +59,10 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <!-- section title -->
-                            <div class="section-title">
+                             <!-- section title -->
+                             <div class="section-title">
                                 <div class="title-header">
-                                    <h2 class="h2-bold">Modern Engneering Solution for Prefab control pulpits</h2>
+                                    <h2 class="h2-bold">Energy-Efficient Cold Storage Solutions for Sustainable Operations</h2>
                                 </div>
                             </div><!-- section title end -->
                         </div>
@@ -72,30 +70,31 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                
-                                <p class="service-para">Prefabricated control pulpits are pre-built structures used for monitoring and controlling various processes and equipment in industrial sectors. These pulpits are typically made of high-quality materials, such as steel or aluminum and are designed to be durable and long-lasting. It come equipped with features such as lighting, ventilation, and control panels for equipment operation.</p>
-                                <p class="service-para">Prefabricated control pulpits are used in a variety of industries, including manufacturing, transportation, energy, and more. Prefabricated control pulpits are a cost-effective solution for industrial control applications, as it is quick and easy to install and can be customized to meet specific requirements.</p>
-                                <p class="service-para">Mekark is a manufacturer and supplier of high-quality prefabricated control pulpits. Our pulpits are designed to be durable, long-lasting, and easy to install, making them ideal for a wide range of industrial applications.</p>
+                               
+                                <p class="service-para">A cold storage structure is a type of building or facility designed specifically for the storage of perishable goods that require a controlled environment to maintain their quality and safety. The structure is typically insulated with materials such as polyurethane foam or polystyrene to prevent the escape of cool air and to maintain a consistent temperature inside the facility. The design and construction of cold storage structures must consider factors such as the type of product being stored, the required storage capacity, and the environmental conditions in which the facility will be located. Cold storage structures are an essential component of the cold chain logistics system, which is crucial for ensuring the safety and quality of perishable goods during transportation and storage.</p>
+                                <p class="service-para">Mekark is a leading manufacturer and supplier of cold storage buildings. With years of experience in the industry, Mekark offers a range of cold storage solutions to meet the needs of various industries. We provide customized design and construction services to ensure that each cold storage building meets the specific requirements of their clients.</p>
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/control-room/prefabsite-control-room.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/peb/cold-storage/coldstorage-scrollbar.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">We use only the highest-quality materials in our pulpits, ensuring that they can withstand harsh environmental conditions and provide reliable performance for years to come. Our control pulpits are fully customizable, allowing us to tailor them to meet the specific needs of our clients. We offer a range of different sizes, styles and features to choose from, making it easy to find the perfect solution for your industrial control needs. With our expertise and commitment to quality, you can trust Mekark to provide the best prefabricated control pulpits for your business.</p>
-                            <h2 class="h2-bold">Why to Choose Mekark Prefabricated control pulpits?</h2>
-
+                            <p class="service-para">Mekark's cold storage buildings are made of high-quality materials and are designed to be energy-efficient, cost-effective, and environmentally sustainable. We use advanced insulation materials and refrigeration systems to maintain a consistent low temperature inside the facility. Additionally Our Team offer a range of accessories and services, including temperature and humidity control systems, shelving and racking, lighting systems and more.</p>
+                            <p class="service-para">Mekark's team of experts works closely with their clients throughout the design and construction process to ensure that the cold storage building meets all regulatory and safety standards. Their commitment to quality and customer satisfaction has earned them a reputation as a trusted provider of cold storage solutions.</p>
+                            
+                            <h2 class="h2-bold">Benefits of Cold storage buildings</h2>
                             <ul>
-                                <li>Mekark provide only the highest-quality materials in our pulpits, ensuring that they are durable and long-lasting. Our control pulpits are fully customizable, allowing us to tailor them to meet the specific needs of our clients. Mekark have extensive experience in the design, manufacture, and installation of prefabricated control pulpits, ensuring that we can provide the best solution for your business.</li>
-
-                                <li>Mekark teams are committed to delivering our products on time, every time, so you can rely on us to meet your deadlines. We offer competitive pricing for our products, ensuring that you get the best value for your investment. Our team of experts is always available to answer any questions you may have and to provide you with the support you need. With Mekark, you can expect high-quality, customizable, and cost-effective solutions for your prefabricated control pulpits needs.</li>
-                            </ul>
+                                <li>Cold storage buildings provide a controlled environment that maintains a consistent low temperature to prevent spoilage and deterioration of perishable goods such as food and pharmaceuticals.</li>
+                                <li>Cold storage buildings can extend the shelf life of perishable products, which helps to reduce waste and improve product quality.</li>
+                                <li>Cold storage buildings are designed to maximize storage efficiency, allowing for more products to be stored in a smaller space.</li>
+                                <li>Cold storage buildings can be designed to be energy-efficient, using technologies such as insulation, LED lighting, and smart controls to reduce energy consumption and carbon emissions.</li>
+                                <li>Cold storage buildings are an important component of the cold chain logistics system, helping to ensure the safety and quality of perishable goods during transportation and storage.</p>
                         </div>
                     </div>
                 </div>
@@ -115,50 +114,49 @@
                     </div>
                 </div>
               <main class="grid">
-              <article>
+                <article>
                     <div class="cart-img">
-                        <img src="images/icons/control-room/Control-pulpits.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/cold-storage/Cold-store-for-food-processing-industry.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Control pulpits</p>
+                      <p>Cold store for food processing industry</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/control-room/CRM-Pulpits.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/cold-storage/Cold-storage-facility-building.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>CRM Pulpits</p>
+                      <p>Cold storage facility building</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/control-room/handling-locations.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/cold-storage/Cold-storage-panels-for-ripening-chambers.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>handling locations</p>
+                      <p>Cold storage panels for ripening chambers</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/control-room/Entry-mill-pulpits.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/cold-storage/Commercial-cold-rooms.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Entry mill pulpits</p>
+                      <p>Commercial cold rooms</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/control-room/Exit-mill-pulpits.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/cold-storage/Vegetable-cold-storage-rooms.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Exit mill pulpits</p>
-                    </div>
+                      <p>Vegetable cold storage rooms</p>
                 </article>
               </main>
             </div>
             <!-- ----- End Applications --------  -->
-            
+
             <!--Gallery-section-->
             <div class="container">
                 <div class="row">
@@ -166,7 +164,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">Control Room Projects</h2>
+                                <h2 class="h2-bold">Cold Storage Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -174,7 +172,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/prefab-struct/control-room/gallery" . "/*.jpg");
+                        $images = glob("images/products/peb/cold-storage/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">
@@ -260,8 +258,7 @@
             <!-- conatact-section end -->
 
 
-        </div>
-        <!--site-main end-->
+        </div><!--site-main end-->
 
 
     <!--footer start-->

@@ -3,16 +3,13 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href=" https://www.mekark.com/prefabricated-factory-building-manufacturer"/>
+<title> Prefabricated Factory Buildings Manufacturer | Mekark  </title> 
+<meta name="description" content=" Mekark Prefabricated Factory Buildings Manufacturer and Supplier provide factory steel building, modular metal factory building in India."/>
+<meta name="keywords" content=" Prefabricated Factory Buildings Manufacturer, Prefabricated Factory Buildings, Prefabricated Factory Shed Buildings Manufacturer, Prefabricated Factory Shed Buildings Manufacturer "/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
-
 
 </head>
 
@@ -25,13 +22,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row reping">
+          <div class="ttm-page-title-row factory-buildings">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Ripening Chambers</h1>
+                                    <h1 class="title">Factory Buildings</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -40,9 +37,9 @@
                                                 <a title="Go to Delmont." href="index.php" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                             </span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span><a href="products.php">Products</a></span>
+                                            <span><a href="products.php">Pre Engineered Builder</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Ripening Chambers</span>
+                                            <span>Factory Buildings</span>
                                         </div>
                                     </div>
                                 </div>
@@ -57,14 +54,14 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="pt-5 welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <!-- section title -->
-                            <div class="section-title">
+                             <!-- section title -->
+                             <div class="section-title">
                                 <div class="title-header">
-                                    <h2 class="h2-bold">Power Efficient and Custom Designed Ripening chambers</h2>
+                                    <h2 class="h2-bold">Cost-effective and Efficiency Factory building</h2>
                                 </div>
                             </div><!-- section title end -->
                         </div>
@@ -72,44 +69,40 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                
-                                <p class="service-para">Ripening chambers are specialized storage facilities used for the controlled ripening of fruits and vegetables. It's designed to create an optimal environment for the ripening process by controlling the temperature, humidity, and ethylene levels inside the chamber.</p>
-                                <p class="service-para">Ripening chambers are commonly used by fruit and vegetable growers, distributors, and retailers to extend the shelf life of their products and ensure that they reach consumers in the best possible condition. With the ability to customize the ripening process for different types of produce, ripening chambers offer a cost-effective solution for improving the quality and consistency of fresh fruits and vegetables.</p>
-                                <p class="service-para">The fruit ripening process is a natural process that occurs after the fruit is harvested. During this process, the fruit undergoes a series of changes that result in its maturation and readiness for consumption. The ripening process involves a complex series of biochemical and physiological changes, including the breakdown of starches into sugars, the softening of fruit tissue, the development of aroma and flavor compounds, and the changes in color.</p>
+                               
+                                <p class="service-para">A factory building is a type of industrial facility designed for the manufacture of goods or products. It is typically a large, single-story structure that houses machinery, assembly lines, and storage areas. The building is designed to be functional, efficient, and safe, with features such as high ceilings, wide-open floor space, and loading docks to accommodate the movement of goods and materials. Factory buildings can be used for a variety of manufacturing processes, including electronics, automotive, textiles and food production.</p>
+                                <p class="service-para">A sustainable factory building can be both cost-effective and efficient, with features such as renewable energy sources, rainwater harvesting, and green roofs. These features can help reduce energy and water consumption, as well as lower utility bills. The efficient factory building should be designed and constructed with an emphasis on sustainability, efficiency, and modern technology. Cost-effective and efficient factory buildings are essential for businesses looking to maximize productivity and profitability.</p>
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/riping/prefab-ripeningchambers.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/peb/factory-buildings/factorybuilding-scrollbar.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">The ripening process is often triggered by the release of the hormone ethylene, which can be naturally produced by the fruit or artificially applied to speed up the process. Ripening can also be influenced by environmental factors such as temperature and humidity. Ripening chambers provide a controlled environment that can mimic the natural ripening process and help maintain the quality and freshness of the fruit during the storage and transportation phases.</p>
+                            <p class="service-para">Mekark is the best preferred choice of Factory shed manufacturer and suppliers in industrial construction these days. Our Mekark design of the factory building should be optimized for efficiency, with an emphasis on minimizing waste, reducing energy consumption, and maximizing workflow. An experienced architect team can help design a building that meets these criteria while still being aesthetically pleasing. Mekark provide of turnkey solutions for Factory shed building, including design, fabrication, manufacture and installation.</p>
+
+                            <p class="service-para">At Mekark Company, we pride ourselves on providing our customers with exceptional quality products and outstanding customer service. We are committed to delivering glasswool panels that meet the highest standards of quality and performance, ensuring that our customers receive the best value for their investment.</p>
+                            <p class="service-para">Whether you are a builder, contractor, or homeowner, Mekark Company can provide you with the high-quality glasswool panels you need to improve energy efficiency, reduce noise pollution, and enhance comfort in any building project. Contact us today to get a quote about our products estimate.</p>
+                            <h2 class="h2-bold">Why to choose Mekark Factory shed building manufacturer?</h2>
+                            <ul>
+                                <li>Mekark Factory building sheds are typically more cost-effective than traditional brick-and-mortar buildings, as they require less construction time and labor. Additionally Our team can be designed to be energy-efficient, reducing operational costs over time.</li>
+                                <li>Glass wool insulation also provides effective sound absorption, reducing noise pollution and improving the acoustic performance of a space.</li>
+                                <li>Mekark Factory building sheds can be constructed quickly, allowing businesses to begin operations sooner than with traditional buildings.</li>
+                                <li>Mekark offer businesses a versatile, cost-effective, and durable solution for their manufacturing needs. We can be customized to meet specific requirements and constructed quickly and easily, allowing businesses to start operations sooner and respond to changes in demand.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </section>
             <!--About welcome-section end-->
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h2 class="h2-bold">Why to Choose our Mekark Ripening Chambers Manufacturer</h2>
-                        <ul>
-                            <li>
-                            Mekark is a leading manufacturer of ripening chambers, offering a range of solutions to meet the specific needs of fruit and vegetable growers, distributors and retailers. Our ripening chambers are designed with state-of-the-art technology and high-quality materials to ensure optimal ripening conditions for different types of produce. We provide customized solutions to our clients, including pre-cooling, humidification, ventilation, and temperature control systems, to ensure the highest levels of efficiency and productivity. With our expertise in the field and commitment to customer satisfaction. We are a trusted partner for ripening chamber solutions in the agricultural industry.
-                            </li>
-                        </ul>
 
-                    </div>
-                </div>
-            </div>
-
- <!-- ----- Applications --------  -->
- <div class="container pb-5">
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
                 <div class="row">
                     <div class="col-md-12">
                         <!-- section title -->
@@ -123,43 +116,42 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/ripping-chamber/Temperature Controlled Cold Storage.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/factory-buildings/Factory-production-plants.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Temperature Controlled Cold Storage</p>
+                      <p>Factory production plants</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/ripping-chamber/Pack-Houses.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/factory-buildings/Industrial-enclosures.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Pack Houses</p>
+                      <p>Industrial enclosures</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/ripping-chamber/Controlled-Atmospheric-Cold-Storage.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/factory-buildings/Warehouses.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Controlled Atmospheric Cold Storage</p>
+                      <p>Warehouses</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/ripping-chamber/Frozen-Cold-Storage.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/factory-buildings/Testing-facilities.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Frozen Cold Storage</p>
+                      <p>Testing facilities</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/ripping-chamber/cold-storage.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/factory-buildings/prefab.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Modified Atmoshpheric Cold Storage</p>
-                    </div>
+                      <p>Prefabricated manufacturing centers</p>
                 </article>
               </main>
             </div>
@@ -172,7 +164,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">Ripening Chambers Projects</h2>
+                                <h2 class="h2-bold">Factory Buildings Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -180,7 +172,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/prefab-struct/riping/gallery" . "/*.jpg");
+                        $images = glob("images/products/peb/factory-buildings/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">

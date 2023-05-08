@@ -1,20 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href="https://www.mekark.com "/>
+<title> Prefabricated Building Manufacturer | Mekark </title> 
+<meta name="description" content="Mekark is the leading manufacturer and supplier of pre-engineered and prefabricated buildings. Contact us -97909 24754."/>
+<meta name="keywords" content=" Prefabricated Building Manufacturer, Prefabricated Building Supplier, Prefabricated Buildings "/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
-
-
 </head>
 
 <body>
@@ -480,14 +474,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="prefabricated-site-infrastructure.php">Prefabricated Site Infrastructure</a></h3>
+                                            <h3><a href="prefabricated- site-infrastructure-manufacturer">Prefabricated Site Infrastructure</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefabricated-site-infrastructure.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefabricated- site-infrastructure-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -502,14 +496,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="prefab-site-office.php">Prefabricated Site Office</a></h3>
+                                            <h3><a href="prefab- site-office-manufacturer">Prefabricated Site Office</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab-site-office.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab- site-office-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -525,14 +519,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="labour-hutment.php">Labour Hutment</a></h3>
+                                            <h3><a href="prefab-site-office-manufacturer">Labour Hutment</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>Prestige villa exterior design thought and decided that in such a case it would be wise to use porcelain stoneware.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="labour-hutment.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab-site-office-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -548,14 +542,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="railway-shelters.php">Railway Shelters</a></h3>
+                                            <h3><a href="railway-telecom-shelter-manufacturer">Railway Shelters</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>They greatly expanded the space, helped straighten the geometry and added light to the interior in Upscale sales office.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="railway-shelters.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="railway-telecom-shelter-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -571,7 +565,7 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="control-room.php">Control Room</a></h3>
+                                            <h3><a href="prefabricated-control-pulpits-manufacturer">Control Room</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>Theater and concert hall design is both artistically and functionally complex. As in all architectural design.</p>
@@ -594,14 +588,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="ripening-chambers.php">Ripening Chambers</a></h3>
+                                            <h3><a href="ripening-chambers-manufacturer">Ripening Chambers</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>An apartment, or flat is a self-contained housing unit type of residential that occupies only part of a building.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="ripening-chambers.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="ripening-chambers-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -617,14 +611,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="acoustic-enclosure.php">Acoustic Enclosure</a></h3>
+                                            <h3><a href="prefabricated-acoustic-enclosure-manufacturer">Acoustic Enclosure</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="acoustic-enclosure.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefabricated-acoustic-enclosure-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -640,14 +634,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="security-cabin.php">Security Cabin</a></h3>
+                                            <h3><a href="security-cabin-manufacturer">Security Cabin</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="security-cabin.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="security-cabin-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -663,14 +657,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="prefabricated-toilet.php">Prefabricated Toilet</a></h3>
+                                            <h3><a href="prefabricated-toilet-manufacturer">Prefabricated Toilet</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefabricated-toilet.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefabricated-toilet-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -686,14 +680,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="clean-room.php">Clean Room</a></h3>
+                                            <h3><a href="prefabricated-modular-clean-room-manufacturer">Clean Room</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="clean-room.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefabricated-modular-clean-room-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -709,14 +703,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="poultry-shed.php">Poultry Shed</a></h3>
+                                            <h3><a href="prefabricated- poultry-shed-manufacturer">Poultry Shed</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="poultry-shed.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefabricated- poultry-shed-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -735,14 +729,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="prefab-school.php">Prefab School</a></h3>
+                                            <h3><a href="prefab-school-manufacturer">Prefab School</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab-school.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab-school-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -757,14 +751,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="prefab-homes.php">Prefab Homes</a></h3>
+                                            <h3><a href="prefab-homes-manufacturer">Prefab Homes</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab-homes.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab-homes-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -779,14 +773,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="sample-flat.php">Sample Flat</a></h3>
+                                            <h3><a href="prefab-flat-manufacturer">Sample Flat</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="sample-flat.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab-flat-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -805,14 +799,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="puf-panel.php">PUF Panel</a></h3>
+                                            <h3><a href="puf-insulated-and-sandwich-panel-manufacturer">PUF Panel</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="puf-panel.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="puf-insulated-and-sandwich-panel-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -827,14 +821,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="eps-panel.php">EPS Panel</a></h3>
+                                            <h3><a href="eps-insulated-sandwich-panel-manufacturer">EPS Panel</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="eps-panel.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="eps-insulated-sandwich-panel-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -849,14 +843,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="rockwool-panel.php">Rockwool Panel</a></h3>
+                                            <h3><a href="rockwool-sandwich-panel-manufacturer">Rockwool Panel</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="rockwool-panel.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="rockwool-sandwich-panel-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -871,14 +865,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="glasswool-panel.php">Glasswool Panel</a></h3>
+                                            <h3><a href="glass-wool-sandwich-panel-manufacturer">Glasswool Panel</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="glasswool-panel.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="glass-wool-sandwich-panel-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>

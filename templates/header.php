@@ -70,57 +70,57 @@
                                                     <a href="index.php">Home</a>
                                                 </li>
                                                 <li>
-                                                    <a href="about.php">About Us</a>
+                                                    <a href="about-us">About Us</a>
                                                 </li>
                                                 <li class="mega-menu-item">
                                                     <a href="products.php" class="mega-menu-link">Product</a>
                                                     <ul class="mega-submenu">
                                                         <!-- -------- PREFABRICATED STRUCTURES ------->
                                                         <li class="mega-menu-item">
-                                                            <a href="prefabricate-structure.php" class="mega-menu-link">Prefabricated Structures</a>
+                                                            <a href="prefabricated- structures-manufacturer" class="mega-menu-link">Prefabricated Structures</a>
                                                             <ul class="mega-submenu">
-                                                                <li><a href="prefabricated-site-infrastructure.php">Prefabricated Site Infrastructure</a></li>
-                                                                <li><a href="prefab-site-office.php">Prefab Site Office</a></li>
-                                                                <li><a href="labour-hutment.php">Labour Hutment</a></li>
-                                                                <li><a href="railway-shelters.php">Railway Shelters</a></li>
-                                                                <li><a href="control-room.php">Control Room</a></li>
-                                                                <li><a href="ripening-chambers.php">Ripening Chambers</a></li>
-                                                                <li><a href="acoustic-enclosure.php">Acoustic Enclosure</a></li>
-                                                                <li><a href="security-cabin.php">Security Cabin</a></li>
-                                                                <li><a href="prefabricated-toilet.php">Prefabricated Toilet</a></li>
-                                                                <li><a href="clean-room.php">Clean Room</a></li>
-                                                                <li><a href="poultry-shed.php">Poultry Shed</a></li> 
+                                                                <li><a href="prefabricated- site-infrastructure-manufacturer">Prefabricated Site Infrastructure</a></li>
+                                                                <li><a href="prefab- site-office-manufacturer">Prefab Site Office</a></li>
+                                                                <li><a href="prefab-site-office-manufacturer">Labour Hutment</a></li>
+                                                                <li><a href="railway-telecom-shelter-manufacturer">Railway Shelters</a></li>
+                                                                <li><a href="prefabricated-control-pulpits-manufacturer">Control Room</a></li>
+                                                                <li><a href="ripening-chambers-manufacturer">Ripening Chambers</a></li>
+                                                                <li><a href="prefabricated-acoustic-enclosure-manufacturer">Acoustic Enclosure</a></li>
+                                                                <li><a href="security-cabin-manufacturer">Security Cabin</a></li>
+                                                                <li><a href="prefabricated-toilet-manufacturer">Prefabricated Toilet</a></li>
+                                                                <li><a href="prefabricated-modular-clean-room-manufacturer">Clean Room</a></li>
+                                                                <li><a href="prefabricated- poultry-shed-manufacturer">Poultry Shed</a></li> 
                                                             </ul>
                                                         </li>
                                                         <!-- -------- PRE ENGINEERED BUILDING ------->
                                                         <li class="mega-menu-item">
-                                                            <a href="peb.php" class="mega-menu-link">Pre Engineered Building</a>
+                                                            <a href="peb-manufacturer-india" class="mega-menu-link">Pre Engineered Building</a>
                                                             <ul class="mega-submenu">
-                                                                <li><a href="warehouse.php">Warehouse</a></li>
-                                                                <li><a href="industrial-shed.php">Industrial Shed</a></li>
-                                                                <li><a href="factory-buildings.php">Factory Buildings</a></li>
-                                                                <li><a href="mssb.php">Multi Storey Steel Building</a></li>
-                                                                <li><a href="industrial-enclosures.php">Industrial Enclosures</a></li>
-                                                                <li><a href="cold-storage.php">Cold Storage</a></li>                                                                
+                                                                <li><a href="peb-warehouse-shed-manufacturer">Warehouse</a></li>
+                                                                <li><a href="peb-industrial-shed-supplier">Industrial Shed</a></li>
+                                                                <li><a href="prefabricated-factory-building-manufacturer">Factory Buildings</a></li>
+                                                                <li><a href="multi-storey-building-manufacturer">Multi Storey Steel Building</a></li>
+                                                                <li><a href="industrial-enclosures-acoustic-manufacturer">Industrial Enclosures</a></li>
+                                                                <li><a href="cold-storage-panel-manufacturer">Cold Storage</a></li>                                                                
                                                             </ul>
                                                         </li>
                                                         <!-- -------- SANDWICH PANELS ------------>
                                                         <li class="mega-menu-item">
-                                                            <a href="sandwich-panales.php" class="mega-menu-link">Sandwich Panels</a>
+                                                            <a href="sandwich-panel-roofing-manufacturer" class="mega-menu-link">Sandwich Panels</a>
                                                             <ul class="mega-submenu">
-                                                                <li><a href="puf-panel.php">PUF Panel</a></li>
-                                                                <li><a href="eps-panel.php">EPS Panel</a></li>
-                                                                <li><a href="rockwool-panel.php">Rockwool Panel</a></li>
-                                                                <li><a href="glasswool-panel.php">Glasswool Panel</a></li>
+                                                                <li><a href="puf-insulated-and-sandwich-panel-manufacturer">PUF Panel</a></li>
+                                                                <li><a href="eps-insulated-sandwich-panel-manufacturer">EPS Panel</a></li>
+                                                                <li><a href="rockwool-sandwich-panel-manufacturer">Rockwool Panel</a></li>
+                                                                <li><a href="glass-wool-sandwich-panel-manufacturer">Glasswool Panel</a></li>
                                                             </ul>
                                                         </li>
                                                         <!-- -------- LGSF ------------>
                                                         <li class="mega-menu-item">
-                                                            <a href="LGSF.php" class="mega-menu-link">LGSF</a>
+                                                            <a href="light-gauge-steel-framing-manufacture" class="mega-menu-link">LGSF</a>
                                                             <ul class="mega-submenu">
-                                                                <li><a href="prefab-school.php">Prefab School</a></li>
-                                                                <li><a href="prefab-homes.php">Prefab Homes</a></li>
-                                                                <li><a href="sample-flat.php">Sample Flat</a></li>
+                                                                <li><a href="prefab-school-manufacturer">Prefab School</a></li>
+                                                                <li><a href="prefab-homes-manufacturer">Prefab Homes</a></li>
+                                                                <li><a href="prefab-flat-manufacturer">Sample Flat</a></li>
                                                             </ul>
                                                         </li>
                                                         <!-- -------- STANDARD MODULAR SOLUTION ------------>
@@ -147,7 +147,7 @@
                                                     <a href="blog.php">Blog</a>
                                                 </li>
                                                 <li class="mega-menu-item">
-                                                    <a href="contact-us.php">Contact Us</a>
+                                                    <a href="contact-us">Contact Us</a>
                                                 </li>
                                             </ul>
                                         </nav>

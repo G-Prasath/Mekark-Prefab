@@ -3,13 +3,11 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href=" https://www.mekark.com/peb-warehouse-shed-manufacturer"/>
+<title> PEB Warehouse Shed Manufacturer | Mekark India </title> 
+<meta name="description" content=" Mekark is the best Manufacturer and Supplier of PEB Warehouse shed India, offers premium solution for industrial sector."/>
+<meta name="keywords" content=" PEB Warehouse Manufacturer Company India, PEB Warehouse Manufacturer Company, PEB Warehouse Manufacturer, PEB Warehouse Shed "/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
 
@@ -24,13 +22,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row industrial-enclosures">
+          <div class="ttm-page-title-row warehouse-cover">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Industrial Enclosures</h1>
+                                    <h1 class="title">Warehouse</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -41,7 +39,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Pre Engineered Builder</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Industrial Enclosures</span>
+                                            <span>Warehouse</span>
                                         </div>
                                     </div>
                                 </div>
@@ -63,7 +61,7 @@
                              <!-- section title -->
                              <div class="section-title">
                                 <div class="title-header">
-                                    <h2 class="h2-bold">Cost Effective and Safe for Industrial Equipment</h2>
+                                    <h2 class="h2-bold">Modular Warehousing Systems for your Businesses</h2>
                                 </div>
                             </div><!-- section title end -->
                         </div>
@@ -72,30 +70,29 @@
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
                                
-                                <p class="service-para">Industrial Enclosures are typically metal enclosures designed to protect equipment, machinery and electronics from a range of hazards, including dust, debris, moisture and electromagnetic interference. It is commonly used in industries such as manufacturing, automation, telecommunications, and transportation. Industrial enclosures come in a variety of shapes and sizes and can be designed to accommodate a range of equipment and machinery, including control panels, servers and electrical cabinets.</p>
-                                <p class="service-para">Mekark is the top industrial enclosures manufacturer and supplier in India. It is a versatile solution for protecting equipment and machinery from a range of hazards and controlling access to sensitive equipment. They are used in various industries, including manufacturing, telecommunications, transportation, and automation, and can be customized to meet the specific needs of the equipment being housed. Mekark prefab is a leading manufacturer and supplier of industrial enclosures, offering high-quality solutions designed to protect equipment and machinery from environmental hazards and unauthorized access. </p>
+                                <p class="service-para">A warehouse building is a large commercial building designed for the storage and distribution of goods. It is typically used by businesses that require a dedicated space to store inventory or products, such as retailers, manufacturers, wholesalers, and logistics companies. Warehouse buildings can vary in size, design, and construction materials depending on the specific needs of the business. They can range from small storage facilities to large distribution centers, and they may be built with materials such as steel, concrete, or wood. Warehouse buildings are an important component of the supply chain, enabling businesses to store, manage and distribute goods effectively and efficiently.</p>
+                                <p class="service-para">Mekark is the top warehouse manufacturer and supplier in India offers the advanced warehouse solutions for industrial and commercial industry. Our company provides customized solutions for businesses in need of high-quality storage solutions.</p>
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/peb/industrial-enclosures/industrialencosure-scrollpage.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/peb/warehouse/warehouse-scrollbarimage.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">Their customizable enclosures are constructed with durable materials and can be tailored to meet the specific needs of a range of industries, including manufacturing, telecommunications and automation. Mekark's focus on quality, efficiency, and customization make them a trusted partner for businesses seeking reliable industrial enclosure solutions.</p>
-                            
-                            <h2 class="h2-bold">Industrial enclosures Benefits:</h2>
+                            <p class="service-para">Our durable and energy-efficient prefab warehouses are designed to maximize space and improve productivity, while our experienced team ensures fast and efficient installation. We offer a wide range of customizable features and materials, ensuring that our warehouses meet the specific needs of our clients. Our commitment to excellence and customer satisfaction has made us a trusted partner for businesses across industries.</p>
+                            <h2 class="h2-bold">Benefits from Mekark warehouse manufacturing technology</h2>
                             <ul>
-                                <li>Industrial enclosures offer protection against a range of hazards, including dust, debris, moisture, and electromagnetic interference. This can help prevent damage to equipment and machinery, as well as reduce downtime and maintenance costs.</li>
-                                <li>Liftable enclosures can be designed with locks and other security features to protect against theft and vandalism, providing added peace of mind for businesses.</li>
-                                <li>Glass wool insulation is non-combustible and can help prevent the spread of fire in a building, enhancing safety and security.</li>
-                                <li>Modular enclosures can be customized to meet the specific needs of a business, with features such as ventilation, insulation, and access points designed to meet the requirements of the equipment being housed.</li>
-                                <li>Industrial enclosures are typically constructed with durable materials, such as steel or aluminum, which can withstand harsh environments and extreme weather conditions.</li>
-                                <li>It can help businesses meet regulatory requirements, such as those related to safety and environmental protection.</li>
+                                <li>Mekark Best-in-class prefab warehouses offer the flexibility to customize layouts to meet specific business needs. This allows businesses to optimize their warehouse space and maximize storage capacity.</li>
+                                <li>Mekark provide High-quality materials, such as steel or concrete, provide durability and strength, ensuring the warehouse can withstand harsh weather conditions, heavy loads and potential wear and tear.</li>
+                                <li>Our Mekark team offer efficient features such as insulation, LED lighting and efficient HVAC systems, can reduce energy consumption and lower operating costs.</li>
+                                <li>Mekark Prefabricated warehouses can be installed quickly, often in a matter of weeks, minimizing downtime and enabling businesses to start operations faster.</li>
+                                <li>Mekark modular design allows for easy expansion or reconfiguration of the warehouse as the business grows or requirements change.</li>
+                                <li>Mekark Best-in-class prefab warehouses offer customizable layouts, durable materials, energy efficiency, quick installation, safety features, modular design, sustainability, and security. These features can improve warehouse efficiency, productivity, and profitability, making them an attractive option for businesses in need of a high-quality storage solution.</li>
                             </ul>
                         </div>
                     </div>
@@ -118,42 +115,42 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/industrial-enclosures/Baking-Dairy-Beverage.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/warehouse/wholeseller.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Baking / Dairy / Beverage</p>
+                      <p>Wholesalers</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/industrial-enclosures/Printing.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/warehouse/Pharmaceutical-industries.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Printing</p>
+                      <p>Pharmaceutical industries</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/industrial-enclosures/Automotive.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/warehouse/Effective-raw-material-storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Automotive</p>
+                      <p>Effective raw material storage</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/industrial-enclosures/Automation-Control.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/warehouse/Industrial-ware-storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Automation Control</p>
+                      <p>Industrial ware storage</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/industrial-enclosures/Power-Plant.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/warehouse/Bulk-storage-of-goods.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Power Plant</p>
+                      <p>Bulk storage of goods</p>
                 </article>
               </main>
             </div>
@@ -166,7 +163,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">Industrial Enclosures Projects</h2>
+                                <h2 class="h2-bold">Warehouse Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -174,7 +171,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/peb/industrial-enclosures/gallery" . "/*.jpg");
+                        $images = glob("images/products/peb/warehouse/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">

@@ -3,11 +3,10 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href="https://www.mekark.com/glass-wool-sandwich-panel-manufacturer" />
+<title> Glass Wool Sandwich Panels Manufacturer | Mekark Prefab </title> 
+<meta name="description" content="Mekark Prefab Glass Wool Insulated Sandwich Panels manufacturer India, offer high quality materials with in-house capability."/>
+<meta name="keywords" content="Glass Wool Sandwich Panels Manufacturer, Glass Wool Sandwich Panels, Glass Wool Sandwich Panels Supplier"/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
 <title>Inoterior - Architecture Html for Interior Designer</title>
 
@@ -24,13 +23,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row prefab-homes">
+          <div class="ttm-page-title-row glasswool-bg">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Prefab Homes</h1>
+                                    <h1 class="title">Glasswool Panel</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -41,7 +40,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Prefab Homes</span>
+                                            <span>Glasswool Panel</span>
                                         </div>
                                     </div>
                                 </div>
@@ -56,43 +55,47 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="my-5 welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
                              <!-- section title -->
                              <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="h2-bold">Mekark Prefab Homes - Efficient Solution for Modern Living</h2>
-                                    </div>
-                                </div><!-- section title end -->
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Safety and Efficient Building Solution</h2>
+                                </div>
+                            </div><!-- section title end -->
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <p class="service-para">Modular prefab homes is also known as prefabricated homes or simply prefab homes, are homes that are built in sections or modules in a factory setting and then transported to the home site for final assembly. The modules are designed to fit together seamlessly to create a complete structure.</p>
-                                <p class="service-para">Mekark Prefab is the leading manufacturer and supplier of modular prefab homes in commercial industry. Additionally modular prefab homes can be more energy-efficient and environmentally friendly than traditional site-built homes, as they often incorporate sustainable materials and technologies such as solar panels, insulation, and energy-efficient appliances. We offer the most efficient modern alternative to traditional home construction, and are becoming increasingly popular as more people look for affordable, customizable, and sustainable housing solutions.</p>
+                               
+                                <p class="service-para">Glass wool panel is an insulation material made from fine fibers of glass, often combined with a binder and formed into panels or rolls. It is used to reduce heat transfer and improve energy efficiency in buildings. Glass wool insulation has excellent thermal and acoustic insulation properties, making it an effective solution for reducing energy costs and enhancing sound quality in commercial and residential spaces. This Panel is commonly used in walls, roofs, floors, and HVAC ducts. It is a reliable and cost-effective solution for improving energy efficiency and reducing noise pollution in various construction applications. Glass wool panel provides excellent protection against moisture and mold growth.</p>
+                                <p class="service-para">Mekark is one of the trusted manufacturers and suppliers of high quality Glasswool Panels in India, having separate manufacturing unit. Our glasswool panels are made from fine fibers of glass that provide excellent thermal and acoustic insulation properties.</p>
+                               
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/LGSF/prefab-homes/lgsfprefab-homes-scrool.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/sandwich-panal/glasswool/sandwich-glasswool-panel.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">Mekark Modular prefab homes are constructed in a factory setting, which allows for faster and more efficient construction times. This is because the weather and other factors that can slow down construction are not a factor, and the assembly line process allows for more efficient use of materials. Modular prefab homes offer a high degree of customization and flexibility in design, as they can be designed to fit specific needs and preferences. Many modular prefab homes incorporate sustainable materials and technologies, such as energy-efficient appliances and solar panels, making them a more environmentally friendly housing option. We are offering a modern, efficient, and customizable alternative to traditional home construction, and are becoming increasingly popular as a sustainable and affordable housing solution.</p>
-                            <h2 class="h2-bold">Mekark prefab house assembly line typically consists of the following stages:</h2>
+                            <p class="service-para">We use advanced manufacturing techniques to create glasswool panels that are lightweight, easy to install, and highly durable. Our glasswool panels are available in a range of thicknesses and sizes to suit various construction applications, from walls and roofs to floors and HVAC ducts.</p>
+                            <p class="service-para">At Mekark Company, we pride ourselves on providing our customers with exceptional quality products and outstanding customer service. We are committed to delivering glasswool panels that meet the highest standards of quality and performance, ensuring that our customers receive the best value for their investment.</p>
+                            <p class="service-para">Whether you are a builder, contractor, or homeowner, Mekark Company can provide you with the high-quality glasswool panels you need to improve energy efficiency, reduce noise pollution, and enhance comfort in any building project. Contact us today to get a quote about our products estimate.</p>
+                            <h2 class="h2-bold">Glass wool insulation offers several benefits, including:</h2>
                             <ul>
-                                <li>This is the initial stage where the design and engineering of the prefab house is finalized. The design is created using latest design software, and engineers ensure that the design is structurally sound and meets all building codes and regulations.</li>
-                                <li>Once the design is finalized, the materials for the prefab house are selected. These can include a variety of materials such as steel, wood, concrete, and insulation, depending on the design and requirements of the house.</li>
-                                <li>The materials are then sent to the factory or manufacturing facility where the prefab house will be built. Here, the materials are fabricated into components such as walls, floors, and roof panels.</li>
-                                <li>The prefabricated components are then assembled on the assembly line to form the complete house. This is typically done using specialized tools and equipment such as cranes, hoists, and jigs.</li>
-                                <li>Once the house is assembled, finishing touches such as plumbing, electrical, and interior finishes are added. Throughout the assembly line process, there are multiple quality control checks to ensure that the prefab house meets all safety, structural and aesthetic standards.</li>
-                                <li>Finally, the completed prefab house is transported to the site where it will be installed and assembled on the foundation.</li>
+                                <li>Glass wool insulation reduces heat transfer, helping to maintain a comfortable temperature inside a building and reducing energy consumption and costs.</li>
+                                <li>Glass wool insulation also provides effective sound absorption, reducing noise pollution and improving the acoustic performance of a space.</li>
+                                <li>Glass wool insulation is non-combustible and can help prevent the spread of fire in a building, enhancing safety and security.</li>
+                                <li>Glass wool insulation is highly durable, resistant to moisture, and does not settle over time, ensuring long-lasting performance and efficiency.</li>
+                                <li>Glass wool insulation is made from natural and recycled materials, making it an environmentally friendly option for insulation needs.</li>
+                                <li>Glass wool insulation is a versatile and effective solution for enhancing energy efficiency, sound quality, fire protection, durability, and eco-friendliness in commercial and residential buildings.</li>
                             </ul>
                         </div>
                     </div>
@@ -100,6 +103,61 @@
             </section>
             <!--About welcome-section end-->
 
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/glasswool/Automotive-industry.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Automotive industry</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/glasswool/Marine-industry.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Marine industry</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/glasswool/HVAC-industry.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>HVAC industry</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/glasswool/agricultural.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Agricultural</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/glasswool/horticultural-icon.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Horticultural</p>
+                </article>
+              </main>
+            </div>
+            <!-- ----- End Applications --------  -->
 
             <!--Gallery-section-->
             <div class="container">
@@ -108,7 +166,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold pb-3">Prefab Homes Projects</h2>
+                                <h2 class="h2-bold">Glasswool Panel Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -116,7 +174,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/LGSF/prefab-homes/gallery" . "/*.jpg");
+                        $images = glob("images/products/sandwich-panal/glasswool/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">

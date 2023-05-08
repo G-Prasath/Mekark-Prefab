@@ -2150,7 +2150,7 @@ ul.footer-nav-menu li:last-child:after{
     Inner-Pages
 ------------------------*/
 
-/* ---------- Abouut Page --------------  */
+/* ---------- About Page --------------  */
 .fa-check{
     font-weight: bold;
     color: greenyellow;
@@ -2169,6 +2169,49 @@ ul.footer-nav-menu li:last-child:after{
 .process-card > img{
     margin-bottom: 10px;
 }
+.process-card-line{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+.process-card-cnt{
+    content: "";
+    width: 100%;
+    height: 2px;
+    background-color: #2d5765;
+    position: absolute;
+    transition: all 1s ease-in-out;
+}
+.staf-profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-overlay > p{
+    color: #ffffff;
+    font-weight: 600;
+    padding: 10px;
+    background-color: #e89963;
+    width: 100%;
+    font-size: 25px;
+}
+.img-overlay > p > span{
+    font-size: 16px;
+}
+.staf-cnt{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    height: 100%;
+    justify-content: center;
+}
+
+
+
+
 
 /* single_team
 /*------------------------------------------------------------------------------*/ 

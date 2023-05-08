@@ -3,13 +3,11 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href="https://www.mekark.com/rockwool-sandwich-panel-manufacturer" />
+<title> Rockwool Sandwich Panels Manufacturer | Mekark Prefab </title> 
+<meta name="description" content="Mekark Prefab Rockwool Insulated Sandwich Panels manufacturer company provide high quality materials."/>
+<meta name="keywords" content="Rockwool Sandwich Panels Manufacturer, Rockwool Sandwich Panels, Rockwool Sandwich Panels Supplier"/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
 
@@ -25,13 +23,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row railway">
+          <div class="ttm-page-title-row rockwool-bg">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Railway Shelters</h1>
+                                    <h1 class="title">Rockwool Panel</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -42,7 +40,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Railway Shelters</span>
+                                            <span>Rockwool Panel</span>
                                         </div>
                                     </div>
                                 </div>
@@ -57,58 +55,49 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="py--5 welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="h2-bold">Modern Solution Manufacturing for Railway and Telecom Shelters</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                            </div>
+                        <div class="col-md-12">
+                             <!-- section title -->
+                             <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Enhancing Sound Quality and Aesthetics in Commercial</h2>
+                                </div>
+                            </div><!-- section title end -->
                         </div>
+                    </div>
+                    <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                
-                                <p class="service-para">Railway shelters are structures built along railway tracks to provide shelter and protection for passengers waiting for trains or transferring between trains. It constructed made from durable and weather-resistant materials such as steel, aluminum, or polycarbonate and are designed to withstand exposure to the elements and the wear and tear of regular use. Railway shelters can vary in size and design depending on the location and intended use. Some shelters are small and simple, providing basic protection from rain and sun, while others may be larger and more elaborate, with seating, lighting, and other amenities for the comfort and convenience of passengers.</p>
-                                <p class="service-para">Mekark production technology is the leading of manufacturer and supplier of Railway and Telecom Shelters in India, providing a safe and comfortable waiting area for passengers and helping to improve the overall experience of using public transportation. We are also designed to meet accessibility requirements, with features such as ramps and handrails to ensure that all passengers can use them safely and easily.</p>
+                               
+                                <p class="service-para">Rockwool acoustic wall is also known as Mineral woollen is a type of insulation material made from natural or synthetic minerals such as basalt, glass, or slag. The minerals are melted and then spun or blown into fibers, creating a wool-like texture. Rockwool acoustic wall panels are sound-absorbing panels made of high-density stone wool insulation material. Panels are designed to improve the sound quality in commercial and residential spaces by reducing echo, noise, and reverberation. It is non-combustible and provides excellent fire protection, making it an ideal choice for building applications where fire safety is a concern.</p>
+                                <p class="service-para">Mekark is an ideal solution for Rockwool acoustic wall manufacturing and suppliers in India, offers a reliable and cost-effective insulation solution for various construction applications, providing excellent thermal and acoustic insulation, fire protection, and eco-friendliness. We specialise in Rockwool Acoustic Wall Panels manufacturer and suppliers with affordable prices in India. Our experianced team offer a wide range of surface design and finishes the different color for walls and roofs.</p>
+                               
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/railways/prefabsite-railwayshelter.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/sandwich-panal/rockwool/sandwich-rockwool-panel.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">Mekark is a leading manufacturer of railway and telecom shelters. With years of experience in the industry, Mekark offers a range of customized solutions to meet the needs of various railway and telecom clients. We are designed to provide passengers with a safe and comfortable waiting area while protecting them from the elements. Our team are made from high-quality materials such as steel, aluminum, or polycarbonate, and are designed to withstand exposure to extreme weather conditions and regular wear and tear.</p>
-                            <p class="service-para">Mekark's telecom shelters are designed to house telecommunications equipment, providing protection and security for critical infrastructure. They are built to meet specific client requirements and can be customized to accommodate a range of equipment and technology. Mekark's team of experts works closely with their clients throughout the design and construction process to ensure that each shelter meets all regulatory and safety standards. They also offer a range of accessories and services, including lighting, heating, ventilation, and air conditioning systems, as well as security features such as alarms and surveillance cameras. Our team commitment to quality and customer satisfaction has earned them a reputation as a trusted provider of railway and telecom shelter solutions.</p>
+                            <p class="service-para">Mekark Rockwool acoustic wall panels are made of natural and recycled materials, making them an environmentally friendly option for any building project. We provide excellent thermal insulation, reducing heat transfer and improving energy efficiency. Our team can be installed horizontally and vertically as you need.</p>
+                            <h2 class="h2-bold">Rockwool acoustic wall panels offer several benefits, including:</h2>
+                            <ul>
+                                <li>Rockwool acoustic wall panels are designed to absorb sound waves, reducing echo, noise, and reverberation in a room, thus enhancing sound quality.</li>
+                                <li>Rockwool acoustic wall panels are available in various shapes, sizes, and colors, making them a customizable and aesthetically pleasing solution for any space.</li>
+                                <li>Rockwool acoustic wall panels are non-combustible and provide excellent fire protection, enhancing the safety and security of a space.</li>
+                                <li>Rockwool acoustic wall panels offer an effective and versatile solution to improve sound quality, aesthetics, thermal insulation, fire protection, and eco-friendliness in any commercial or residential space.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </section>
             <!--About welcome-section end-->
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h2 class="h2-bold">Why to Choose Our Mekark Team?</h2>
-                        <ul>
-                            <li>Mekark's shelters are built from high-quality materials such as steel, aluminum, or polycarbonate, and are designed to withstand exposure to extreme weather conditions and regular wear and tear.</li>
-                            <li>Mekark offers a range of customized solutions to meet the needs of various railway and telecom clients, with each shelter designed to meet specific requirements.</li>
-                            <li>Mekark's telecom shelters are designed to house telecommunications equipment, providing protection and security for critical infrastructure.</li>
-                            <li>Mekark's team of experts works closely with their clients throughout the design and construction process to ensure that each shelter meets all regulatory and safety standards.</li>
-                            <li>Mekark offers a range of accessories and services, including lighting, heating, ventilation, and air conditioning systems, as well as security features such as alarms and surveillance cameras, to enhance the functionality and usability of their shelters.</li>
-                            <li>Mekark's commitment to quality and customer satisfaction makes them a trusted provider of railway and telecom shelter solutions.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
 
             <!-- ----- Applications --------  -->
             <div class="container pb-5">
@@ -125,42 +114,43 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/railway-shelter/Railway-Shelter.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/rockwool/Power-project-buildings.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Railway Shelter</p>
+                      <p>Power project buildings</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/railway-shelter/BTS-Shelter.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/rockwool/Drivers-and-ovens-insulation.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>BTS Shelter</p>
+                      <p>Drivers and ovens insulation</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/railway-shelter/Telecom-Shelter.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/rockwool/Compressor-rooms.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Telecom Shelter</p>
+                      <p>Compressor rooms</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/railway-shelter/Signaling-Huts.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/rockwool/Fire-safety-applications.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Signaling Huts</p>
+                      <p>Fire safety applications</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/railway-shelter/Temporary-shelters.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/rockwool/Turbine-Generator-Buildings.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Temporary shelters
+                      <p>Turbine-Generator Buildings</p>
+                    </div>
                 </article>
               </main>
             </div>
@@ -173,7 +163,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="title">Railway Shelters Projects</h2>
+                                <h2 class="h2-bold">Rockwool Panel Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -181,7 +171,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/prefab-struct/railways/gallery" . "/*.jpg");
+                        $images = glob("images/products/sandwich-panal/rockwool/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">

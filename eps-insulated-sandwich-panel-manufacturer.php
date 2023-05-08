@@ -3,13 +3,11 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href="https://www.mekark.com/eps-insulated-sandwich-panel-manufacturer" />
+<title> EPS Sandwich Panels Manufacturer | Mekark EPS Insulated Panels </title> 
+<meta name="description" content=" Get complete solution high quality EPS Insulated Panel from Mekark Prefab premium company in India."/>
+<meta name="keywords" content="EPS Sandwich Panels Manufacturer, EPS Insulated Panels, EPS Sandwich Panels Supplier"/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
 
@@ -25,13 +23,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row security">
+          <div class="ttm-page-title-row eps-panal">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Security Cabin</h1>
+                                    <h1 class="title">EPS Panel</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -42,7 +40,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Security Cabin</span>
+                                            <span>EPS Panel</span>
                                         </div>
                                     </div>
                                 </div>
@@ -64,7 +62,7 @@
                             <!-- section title -->
                             <div class="section-title">
                                 <div class="title-header">
-                                    <h2 class="h2-bold">Protect Your Business with Perfect Security Cabin</h2>
+                                    <h2 class="h2-bold">EPS Insulated Panels is Cost-Effective Solution for Your Project</h2>
                                 </div>
                             </div><!-- section title end -->
                         </div>
@@ -72,18 +70,32 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                               
-                                <p class="service-para">A security cabin is a small structure that is typically used for security purposes, such as monitoring access to a building, controlling entry and exit points, and ensuring the safety of people and property. Security cabins are usually located at the entrance of a facility or building, and they are manned by security personnel who monitor and control access to the premises.</p>
-                                <p class="service-para">Security cabins can be made of different materials, such as steel, concrete, or wood, and they can be designed to meet specific security requirements. They may feature bullet-resistant glass, locking systems, and other security measures to protect against theft, vandalism, or unauthorized entry. Security cabins are commonly used in a variety of settings, including office complexes, manufacturing facilities, residential areas, airports, and other public places.</p>
-                                <p class="service-para">Mekark is a well-known manufacturer and supplier of various types of industrial and commercial structures, including security cabins. They offer customized solutions to meet the specific needs of clients, ensuring maximum security and functionality. With their expertise in designing and manufacturing quality structures, Mekark is a top choice for those looking for a reliable and trustworthy security cabin manufacturer.</p>
+                                
+                                <p class="service-para">EPS insulated panels are construction panels made of two metal sheets with a core of Expanded Polystyrene (EPS) insulation material. The EPS core provides excellent thermal insulation, reducing heat transfer, and improving energy efficiency. EPS insulated panels are widely used in various construction applications, such as roofing, walling, and cladding, due to their excellent insulation properties, high durability, and ease of installation</p>
+                                <p class="service-para">Mekark is an excellent insulation solution for both commercial and residential buildings. We are providing significant energy savings, reducing noise pollution and enhancing overall building efficiency.  It takes place in a computerized plant that creates pre-painted galvanized steel sheets (PPGS), pre painted galvalume steel sheets and stainless steel sheet fascias. Sandwiched between two fascias, expanded polystyrene foam (EPS) has a density of 16 + 2 Kg/ M3. Mekark EPS insulated panels manufacturer and suppliers provide energy-efficient insulation solutions for various construction applications, such as roofing, walling, and cladding. Our high-quality panels are lightweight, durable, and customizable, ensuring a reliable and eco-friendly option for any building project.</p>
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/security/prefab-securitycabin.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/sandwich-panal/eps-panel/sandwich-eps-panel.jpg" alt="single_02">
                             </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="service-para">Mekark is an excellent insulation solution for both commercial and residential buildings. We are providing significant energy savings, reducing noise pollution and enhancing overall building efficiency.  It takes place in a computerized plant that creates pre-painted galvanized steel sheets (PPGS), pre painted galvalume steel sheets and stainless steel sheet fascias. Sandwiched between two fascias, expanded polystyrene foam (EPS) has a density of 16 + 2 Kg/ M3. Mekark EPS insulated panels manufacturer and suppliers provide energy-efficient insulation solutions for various construction applications, such as roofing, walling, and cladding. Our high-quality panels are lightweight, durable, and customizable, ensuring a reliable and eco-friendly option for any building project.</p>
+                            <h2 class="h2-bold">EPS insulated panels offer several benefits that make them a popular choice for construction applications:</h2>
+                            <ul>
+                                <li>EPS insulated panels provide excellent thermal insulation, reducing heat transfer and improving energy efficiency.</li>
+                                <li>EPS insulated panels are lightweight, making them easy to transport and install.</li>
+                                <li>EPS insulated panels are made with high-quality materials, ensuring they are long-lasting and can withstand harsh environmental conditions.</li>
+                                <li>EPS insulated panels can be customized to meet specific project requirements, such as size, thickness, and color.</li>
+                                <li>EPS insulated panels are fire-resistant, offering enhanced safety and protection.</li>
+                                <li>EPS insulated panels offer excellent noise reduction, making them ideal for buildings located in noisy areas.</li>
+                                <li>EPS insulated panels are environmentally friendly, as they provide energy-efficient insulation that can reduce the building's carbon footprint.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -105,42 +117,42 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/security-cabin/Factory-buildings.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/eps-panal/Wall-Cladding.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Factory buildings</p>
+                      <p>Wall Cladding</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/security-cabin/Warehouses.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/eps-panal/Walk-On-Ceilings.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Warehouses</p>
+                      <p>Walk-On Ceilings</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/security-cabin/Commercial-complexes.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/eps-panal/Information-Kiosks.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Commercial complexes</p>
+                      <p>Information Kiosks</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/security-cabin/Offices.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/eps-panal/Health-Centers.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Offices</p>
+                      <p>Health Centers</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/security-cabin/educational.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/eps-panal/Community-Shelters.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Educational institutions</p>
+                      <p>Community Shelters</p>
                     </div>
                 </article>
               </main>
@@ -154,7 +166,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">Security Cabin Projects</h2>
+                                <h2 class="h2-bold">EPS Panel Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -162,7 +174,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/prefab-struct/security/gallery" . "/*.jpg");
+                        $images = glob("images/products/sandwich-panal/eps-panel/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">
@@ -253,7 +265,6 @@
 
     <!--footer start-->
     <?php include_once 'templates/footer.php'?>
-
     <!--footer end-->
     
 

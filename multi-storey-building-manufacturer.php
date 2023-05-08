@@ -3,16 +3,13 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href=" https://www.mekark.com/multi-storey-building-manufacturer"/>
+<title>Multi Storey Building Manufacturer | Mekark Prefab </title> 
+<meta name="description" content="Mekark Multi Storey Building Manufacturer and Supplier provides the premium solutions for Multi storey steel, metal building in India."/>
+<meta name="keywords" content=" Multi Storey Building Manufacturer, Multi Storey Steel Building Manufacturer, Multi Storey Metal Building Manufacturer "/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
-
 
 </head>
 
@@ -25,13 +22,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row rockwool-bg">
+          <div class="ttm-page-title-row multi-storey-steel-building">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Rockwool Panel</h1>
+                                    <h1 class="title">Multi Storey Steel Building</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -40,9 +37,9 @@
                                                 <a title="Go to Delmont." href="index.php" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                             </span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span><a href="products.php">Products</a></span>
+                                            <span><a href="products.php">Pre Engineered Builder</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Rockwool Panel</span>
+                                            <span>Multi Storey Steel Building</span>
                                         </div>
                                     </div>
                                 </div>
@@ -64,7 +61,7 @@
                              <!-- section title -->
                              <div class="section-title">
                                 <div class="title-header">
-                                    <h2 class="h2-bold">Enhancing Sound Quality and Aesthetics in Commercial</h2>
+                                    <h2 class="h2-bold">Innovative Design Solutions for Prefabricated Multi Storey Buildings</h2>
                                 </div>
                             </div><!-- section title end -->
                         </div>
@@ -73,27 +70,31 @@
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
                                
-                                <p class="service-para">Rockwool acoustic wall is also known as Mineral woollen is a type of insulation material made from natural or synthetic minerals such as basalt, glass, or slag. The minerals are melted and then spun or blown into fibers, creating a wool-like texture. Rockwool acoustic wall panels are sound-absorbing panels made of high-density stone wool insulation material. Panels are designed to improve the sound quality in commercial and residential spaces by reducing echo, noise, and reverberation. It is non-combustible and provides excellent fire protection, making it an ideal choice for building applications where fire safety is a concern.</p>
-                                <p class="service-para">Mekark is an ideal solution for Rockwool acoustic wall manufacturing and suppliers in India, offers a reliable and cost-effective insulation solution for various construction applications, providing excellent thermal and acoustic insulation, fire protection, and eco-friendliness. We specialise in Rockwool Acoustic Wall Panels manufacturer and suppliers with affordable prices in India. Our experianced team offer a wide range of surface design and finishes the different color for walls and roofs.</p>
+                                <p class="service-para">Prefabricated Multi Storey Buildings are structure that are manufactured off-site and then transported to their final location for assembly. These buildings consist of pre-made modular components that are designed to fit together seamlessly, like building blocks. The prefabrication process includes designing, engineering, manufacturing, and assembling the building components in a controlled environment, away from the construction site.</p>
+                                <p class="service-para">Prefabricated Multi Storey Buildings are becoming increasingly popular because of their ability to be customized to meet specific needs and the fact that they can be assembled in a relatively short amount of time compared to traditional construction methods. These types of buildings are often used as a quick and efficient solution for a variety of construction needs, including residential apartments, student housing, hotels, offices, and even hospitals. Mekark is the premium prefabricated Multi Storey Buildings include faster construction times, lower labor costs, reduced waste, and increased precision in the manufacturing process.</p>
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/sandwich-panal/rockwool/sandwich-rockwool-panel.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/peb/multi-storey-steel-building/multistoreysteelbuilding-scrollbar.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">Mekark Rockwool acoustic wall panels are made of natural and recycled materials, making them an environmentally friendly option for any building project. We provide excellent thermal insulation, reducing heat transfer and improving energy efficiency. Our team can be installed horizontally and vertically as you need.</p>
-                            <h2 class="h2-bold">Rockwool acoustic wall panels offer several benefits, including:</h2>
+                            <p class="service-para">Prefabricated Multi Storey Buildings are a modern, efficient, and cost-effective solution for a range of construction needs, offering many benefits over traditional construction methods.</p>
+                            <p class="service-para">Mekark Multi-story buildings constructed with PUF/EPS protected panels and light gauge steel framing (LGSF) structures are becoming increasingly popular in the construction industry due to their numerous advantages over traditional construction methods.</p>
+                            <h2 class="h2-bold">Benefits from Mekark Mekark Company's Multi-storey Building</h2>
+                            <p class="service-para">Mekark Company's Multi-storey building can provide various benefits, including:</p>
                             <ul>
-                                <li>Rockwool acoustic wall panels are designed to absorb sound waves, reducing echo, noise, and reverberation in a room, thus enhancing sound quality.</li>
-                                <li>Rockwool acoustic wall panels are available in various shapes, sizes, and colors, making them a customizable and aesthetically pleasing solution for any space.</li>
-                                <li>Rockwool acoustic wall panels are non-combustible and provide excellent fire protection, enhancing the safety and security of a space.</li>
-                                <li>Rockwool acoustic wall panels offer an effective and versatile solution to improve sound quality, aesthetics, thermal insulation, fire protection, and eco-friendliness in any commercial or residential space.</li>
+                                <li>Mekark Multi-storey buildings allow for efficient use of available land by providing a larger floor area in a smaller footprint. This can be beneficial for businesses that require a lot of space, such as offices, retail stores, or warehouses.</li>
+                                <li>Multi-storey buildings can be more cost-effective than single-storey buildings because they use less land and require fewer foundations and roof structures per unit of floor area.</li>
+                                <li>Mekark structure can provide a higher rental income or sales revenue due to the increased usable floor space. This can be particularly advantageous in areas where land values are high.</li>
+                                <li>Our Professional Team can be designed with energy-efficient features, such as insulation, ventilation, and lighting systems, which can reduce energy consumption and operating costs.</li>
+                                <li>Mekark Multi-storey buildings can be visually appealing and can enhance the appearance of an area. This can be particularly important for commercial areas where the appearance of a building can influence consumer behavior.</li>
+                                <li>Mekark Company's multi-storey building can provide numerous benefits, including space optimization, cost-effectiveness, increased revenue, improved accessibility, energy efficiency and aesthetic appeal.</li>
                             </ul>
                         </div>
                     </div>
@@ -116,43 +117,42 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/rockwool/Power-project-buildings.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/multi-storey-steel-building/Construction-sites.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Power project buildings</p>
+                      <p>Construction sites</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/rockwool/Drivers-and-ovens-insulation.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/multi-storey-steel-building/Emergency-accommodation.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Drivers and ovens insulation</p>
+                      <p>Emergency accommodation</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/rockwool/Compressor-rooms.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/multi-storey-steel-building/Educational-buildings.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Compressor rooms</p>
+                      <p>Educational buildings</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/rockwool/Fire-safety-applications.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/multi-storey-steel-building/Healthcare.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Fire safety applications</p>
+                      <p>Healthcare</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/rockwool/Turbine-Generator-Buildings.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/multi-storey-steel-building/Storage-buildings.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Turbine-Generator Buildings</p>
-                    </div>
+                      <p>Storage buildings</p>
                 </article>
               </main>
             </div>
@@ -165,7 +165,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">Rockwool Panel Projects</h2>
+                                <h2 class="h2-bold">Multi Storey Steel Building Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -173,7 +173,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/sandwich-panal/rockwool/gallery" . "/*.jpg");
+                        $images = glob("images/products/peb/multi-storey-steel-building/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">
@@ -301,9 +301,6 @@
     <script  src='revolution/js/revolution.tools.min.js'></script>
     <script  src='revolution/js/rs6.min.js'></script>
     <!-- Javascript end-->
-
     
-       
-
 </body>
 </html>

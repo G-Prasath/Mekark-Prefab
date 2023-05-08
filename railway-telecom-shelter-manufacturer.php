@@ -3,13 +3,11 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href=" https://www.mekark.com/railway-telecom-shelter-manufacturer"/>
+<title> Prefabricated Railway Shelter Manufacturer | Telecom Shelters Manufacturer </title> 
+<meta name="description" content=" Mekark is the top railway shelters and telecom shelters manufacturer provides completely solutions as per client requirements."/>
+<meta name="keywords" content=" Prefabricated Railway Shelter Manufacturer, Telecom Shelters Manufacturer, Prefabricated Railway Shelter Supplier, Telecom Shelters Supplier "/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
 
@@ -25,13 +23,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row pso">
+          <div class="ttm-page-title-row railway">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Prefabricated Site Office</h1>
+                                    <h1 class="title">Railway Shelters</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -42,7 +40,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Prefabricated Site Office</span>
+                                            <span>Railway Shelters</span>
                                         </div>
                                     </div>
                                 </div>
@@ -57,64 +55,58 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="py-5 welcome-section clearfix">
+            <section class="py--5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-12">
-                             <!-- section title -->
-                             <div class="section-title">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <!-- section title -->
+                                <div class="section-title">
                                     <div class="title-header">
-                                        <h2 class="h2-bold">Maximizing Efficiency on the Job Site with Prefabricated Site Offices</h2>
+                                        <h2 class="h2-bold">Modern Solution Manufacturing for Railway and Telecom Shelters</h2>
                                     </div>
                                 </div><!-- section title end -->
+                            </div>
                         </div>
-                    </div>
-                    <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <p class="service-para">A prefabricated site office is a type of modular building that is designed and manufactured off-site in a factory setting, and then transported to a construction site where it is assembled and installed. These offices are made up of pre-built modules or sections that are constructed using standardized materials and construction methods. prefabricated site offices offer a versatile and cost-effective solution for temporary or permanent office and storage space needs in a variety of settings.</p>
-                                <p class="service-para">Mekark Prefabricated site offices are a popular choice, offering  a number of benefits, such as reduced construction time, cost-effectiveness, and flexibility in design. Our Prefabricated Construction Site office has an extensive range of customizable prefabricated structure systems that offer the ideal result for construction systems that require durable structures that aren't only quick to erect but can also be easily disassembled and dislocated. Our experienced team combines skills and knowledge to design, manufacture, and install structures according to your needs and specifications. </p>
-                               
+                                
+                                <p class="service-para">Railway shelters are structures built along railway tracks to provide shelter and protection for passengers waiting for trains or transferring between trains. It constructed made from durable and weather-resistant materials such as steel, aluminum, or polycarbonate and are designed to withstand exposure to the elements and the wear and tear of regular use. Railway shelters can vary in size and design depending on the location and intended use. Some shelters are small and simple, providing basic protection from rain and sun, while others may be larger and more elaborate, with seating, lighting, and other amenities for the comfort and convenience of passengers.</p>
+                                <p class="service-para">Mekark production technology is the leading of manufacturer and supplier of Railway and Telecom Shelters in India, providing a safe and comfortable waiting area for passengers and helping to improve the overall experience of using public transportation. We are also designed to meet accessibility requirements, with features such as ramps and handrails to ensure that all passengers can use them safely and easily.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/prefab-site/prefabsite-office-scroll.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/railways/prefabsite-railwayshelter.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">It can also convert configurations to meet new design conditions. In addition, prefabricated technology and feather light accouterments allow for significantly reduced installation times, providing a faster and more efficient way of erecting construction site offices.</p>
-                            <h2 class="h2-bold">Benefits of Prefab Office Structures </h2>
-                            <p>There are numerous benefits to using prefab office structures, including.</p>
-                            <ul>
-                                <li>Cost-effective a prefab office structure is in general more cost-effective because the pieces are earlier construct using a recurring track in a factory setting</li>
-                                <li>High-quality Prefab construction occurs in an off-site, indoor, climate-controlled factory, ensuring high-quality products. In addition, modular office structures are generally constructed using sword framing for long-term continuity.</li>
-                                <li>Sustainable Prefab office structures can be make use of again and repurposed many times, or the pieces can be deconstructed and recycled.</li>
-                                <li>
-                                Convenient a prefab office structure can be constructed high-speed since there's less to erect from scratch, making it a nearby option with quick turn-around times.
-                                </li>
-                                <li>Adaptability and flexibility they can be altered or uninstalled to fit the customer's space needs. As temporary and semi-permanent, the prefab office structure be able to be by way of no difficulty expanded, shrunk, or relocated according to the organization's space need.</li>
-                                <li>Easy installation Panels can be easily attached and assembled on-site. The installation is done hastily and helps create office spaces for an organization that is already running and needs some extra space quickly. </li>
-                                <li>Quicker deliveries our product process engage standardized panel and binder post systems, which helps in mass production. Panels are manufactured quickly, and the structure can be prefabricated off-site while the design site is prepared. Therefore, systems can be delivered faster and on time.</li>
-                            </ul>
-                            <h2 class="h2-bold">Why to choose Mekak prefabrication site office structures?</h2>
-                            <ul>
-                                <li>Mekak Factory is one the complete turnkey solutions for prefabricated site office offer with low price and high quality materials.</li>
-                                <li>With over 10+ years of industry specific expertise, Our Experience Team are provide Delivery fast; strictly control quality; Strong packing.</li>
-                                <li>The prefab site offices are insulated, resultant in higher energy savings and added comfort in hard setting due to insulation.</li>
-                                <li>Mekark prefabricated site office is Dry construction, quick and easy to raise. All weather-proof construction</li>
-                                <li>Mekark Customer service can connect with you every detail will be confirmed before production.</li>
-                                <li>Mekak team will follow up the entire order and check the products piece by piece to ensure the quality.</li>
-                                <li>Our sales team will keep our clients posted during our transaction until get the well feedback of the goods.</li>
-                            </ul>
+                            <p class="service-para">Mekark is a leading manufacturer of railway and telecom shelters. With years of experience in the industry, Mekark offers a range of customized solutions to meet the needs of various railway and telecom clients. We are designed to provide passengers with a safe and comfortable waiting area while protecting them from the elements. Our team are made from high-quality materials such as steel, aluminum, or polycarbonate, and are designed to withstand exposure to extreme weather conditions and regular wear and tear.</p>
+                            <p class="service-para">Mekark's telecom shelters are designed to house telecommunications equipment, providing protection and security for critical infrastructure. They are built to meet specific client requirements and can be customized to accommodate a range of equipment and technology. Mekark's team of experts works closely with their clients throughout the design and construction process to ensure that each shelter meets all regulatory and safety standards. They also offer a range of accessories and services, including lighting, heating, ventilation, and air conditioning systems, as well as security features such as alarms and surveillance cameras. Our team commitment to quality and customer satisfaction has earned them a reputation as a trusted provider of railway and telecom shelter solutions.</p>
                         </div>
                     </div>
                 </div>
             </section>
             <!--About welcome-section end-->
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2 class="h2-bold">Why to Choose Our Mekark Team?</h2>
+                        <ul>
+                            <li>Mekark's shelters are built from high-quality materials such as steel, aluminum, or polycarbonate, and are designed to withstand exposure to extreme weather conditions and regular wear and tear.</li>
+                            <li>Mekark offers a range of customized solutions to meet the needs of various railway and telecom clients, with each shelter designed to meet specific requirements.</li>
+                            <li>Mekark's telecom shelters are designed to house telecommunications equipment, providing protection and security for critical infrastructure.</li>
+                            <li>Mekark's team of experts works closely with their clients throughout the design and construction process to ensure that each shelter meets all regulatory and safety standards.</li>
+                            <li>Mekark offers a range of accessories and services, including lighting, heating, ventilation, and air conditioning systems, as well as security features such as alarms and surveillance cameras, to enhance the functionality and usability of their shelters.</li>
+                            <li>Mekark's commitment to quality and customer satisfaction makes them a trusted provider of railway and telecom shelter solutions.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
 
             <!-- ----- Applications --------  -->
             <div class="container pb-5">
@@ -131,48 +123,46 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Site-Office/Prefabricated-multi-story-building.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/railway-shelter/Railway-Shelter.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Prefabricated multi-story buildings</p>
+                      <p>Railway Shelter</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Site-Office/Modular-site-offices-or-Mining-sites.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/railway-shelter/BTS-Shelter.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Modular site offices</p>
+                      <p>BTS Shelter</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Site-Office/Construction.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/railway-shelter/Telecom-Shelter.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Construction sites </p>
+                      <p>Telecom Shelter</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Site-Office/Education.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/railway-shelter/Signaling-Huts.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Educations</p>
+                      <p>Signaling Huts</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Site-Office/event-and-festiva.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/railway-shelter/Temporary-shelters.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Events and festivals</p>
-                    </div>
+                      <p>Temporary shelters
                 </article>
               </main>
             </div>
             <!-- ----- End Applications --------  -->
-
 
             <!--Gallery-section-->
             <div class="container">
@@ -181,7 +171,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold pb-3">Prefabricated Site Office Projects</h2>
+                                <h2 class="title">Railway Shelters Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -189,7 +179,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/prefab-struct/prefab-site/gallery" . "/*.jpg");
+                        $images = glob("images/products/prefab-struct/railways/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">
@@ -310,7 +300,6 @@
     <script src="js/jquery.event.move.js"></script>
     <script src="js/jquery.twentytwenty.js"></script>
     <script src="js/circle-progress.min.js"></script>
-    
     <script src="js/main.js"></script>
 
     <!-- Revolution Slider -->
@@ -321,7 +310,6 @@
 
     
        
-
 
 </body>
 </html>

@@ -3,13 +3,11 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href="https://www.mekark.com/puf-insulated-and-sandwich-panel-manufacturer" />
+ <title> PUF Insulated and Sandwich Panels Manufacturer at Mekark </title> 
+<meta name="description" content=" Mekark PUF insulated Panel Manufacturer provide a wide variety of PUF sandwich panels at best price."/>
+<meta name="keywords" content="PUF Insulated and Sandwich Panels Manufacturer, PUF Panels Manufacturer, PUF Sandwich Panels Manufacturer "/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
 
@@ -25,13 +23,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row eps-panal">
+          <div class="ttm-page-title-row puf-panal">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">EPS Panel</h1>
+                                    <h1 class="title">PUF Panel</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -42,7 +40,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>EPS Panel</span>
+                                            <span>PUF Panel</span>
                                         </div>
                                     </div>
                                 </div>
@@ -61,42 +59,40 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <!-- section title -->
-                            <div class="section-title">
-                                <div class="title-header">
-                                    <h2 class="h2-bold">EPS Insulated Panels is Cost-Effective Solution for Your Project</h2>
-                                </div>
-                            </div><!-- section title end -->
+                             <!-- section title -->
+                             <div class="section-title">
+                                    <div class="title-header">
+                                        <h2 class="h2-bold">A Deep Dive into PUF Panel Technology in Future Construction</h2>
+                                    </div>
+                                </div><!-- section title end -->
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                
-                                <p class="service-para">EPS insulated panels are construction panels made of two metal sheets with a core of Expanded Polystyrene (EPS) insulation material. The EPS core provides excellent thermal insulation, reducing heat transfer, and improving energy efficiency. EPS insulated panels are widely used in various construction applications, such as roofing, walling, and cladding, due to their excellent insulation properties, high durability, and ease of installation</p>
-                                <p class="service-para">Mekark is an excellent insulation solution for both commercial and residential buildings. We are providing significant energy savings, reducing noise pollution and enhancing overall building efficiency.  It takes place in a computerized plant that creates pre-painted galvanized steel sheets (PPGS), pre painted galvalume steel sheets and stainless steel sheet fascias. Sandwiched between two fascias, expanded polystyrene foam (EPS) has a density of 16 + 2 Kg/ M3. Mekark EPS insulated panels manufacturer and suppliers provide energy-efficient insulation solutions for various construction applications, such as roofing, walling, and cladding. Our high-quality panels are lightweight, durable, and customizable, ensuring a reliable and eco-friendly option for any building project.</p>
+                                <p class="service-para">PUF panel stands for "Polyurethane Foam Panel". It is a type of sandwich panel consisting of a core material made of rigid polyurethane foam (PUF) that is sandwiched between two sheets of metal or other materials like plywood, cement board, fiber cement board or high-density polyethylene (HDPE) sheets.</p>
+                                <p class="service-para">PUF panels are widely used in the construction industry as they offer excellent thermal insulation, sound insulation, and fire resistance properties. The polyurethane foam core of PUF panels is typically produced by mixing two chemicals - isocyanate and polyol. The resulting foam is then allowed to cure and is cut into the desired shapes and sizes for use in sandwich panels.</p>
+                                <p class="service-para">PUF insulated panels are known for their lightweight nature and high strength-to-weight ratio, which makes them ideal for use in building structures, where their lightweight nature reduces the overall weight of the building, resulting in cost savings. Additionally, they are also environmentally friendly, as they provide energy-efficient insulation that can reduce the building's carbon footprint.</p>
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/sandwich-panal/eps-panel/sandwich-eps-panel.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/sandwich-panal/puf-panel/sandwich-puf-panel.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">Mekark is an excellent insulation solution for both commercial and residential buildings. We are providing significant energy savings, reducing noise pollution and enhancing overall building efficiency.  It takes place in a computerized plant that creates pre-painted galvanized steel sheets (PPGS), pre painted galvalume steel sheets and stainless steel sheet fascias. Sandwiched between two fascias, expanded polystyrene foam (EPS) has a density of 16 + 2 Kg/ M3. Mekark EPS insulated panels manufacturer and suppliers provide energy-efficient insulation solutions for various construction applications, such as roofing, walling, and cladding. Our high-quality panels are lightweight, durable, and customizable, ensuring a reliable and eco-friendly option for any building project.</p>
-                            <h2 class="h2-bold">EPS insulated panels offer several benefits that make them a popular choice for construction applications:</h2>
+                            <p class="service-para">Mekark is a specialist for manufacturer and supplier of PUF Panel in India with over a 15 years of experience delivering high quality factory insulated sandwich panels in construction industry. We provide ideal solution for a variety of applications such as clean room, pharmaceuticals, food processing, wall cladding, cold storage in industrial and commercial buildings. Mekark Company is a reputable manufacturer and supplier of PUF panels for various construction applications. With a focus on quality, reliability, and customer satisfaction, offer a wide range of PUF panels that are durable, lightweight, and energy-efficient. Our experienced team is dedicated to providing excellent customer service and ensuring timely delivery of their products.</p>
+                            <h2 class="h2-bold">Benefits from Mekark PUF Panel</h2>
                             <ul>
-                                <li>EPS insulated panels provide excellent thermal insulation, reducing heat transfer and improving energy efficiency.</li>
-                                <li>EPS insulated panels are lightweight, making them easy to transport and install.</li>
-                                <li>EPS insulated panels are made with high-quality materials, ensuring they are long-lasting and can withstand harsh environmental conditions.</li>
-                                <li>EPS insulated panels can be customized to meet specific project requirements, such as size, thickness, and color.</li>
-                                <li>EPS insulated panels are fire-resistant, offering enhanced safety and protection.</li>
-                                <li>EPS insulated panels offer excellent noise reduction, making them ideal for buildings located in noisy areas.</li>
-                                <li>EPS insulated panels are environmentally friendly, as they provide energy-efficient insulation that can reduce the building's carbon footprint.</li>
+                                <li>Mekark offer an excellent insulation solution for both commercial and residential buildings, providing significant energy savings, reducing noise pollution, and enhancing overall building efficiency.</li>
+                                <li>Mekark PUF panels team working in various industries such as cold storage, pharmaceuticals, food processing, and construction.</li>
+                                <li>Mekark PUF panels are made with high-quality materials, ensuring they are long-lasting and can withstand harsh environmental conditions.</li>
+                                <li>Mekark Company offers high-quality PUF panels that provide energy efficiency, durability, and cost-effectiveness, making them an excellent choice for various construction projects.</li>
+                                <li>Mekark Company offers customized PUF panels to meet specific project requirements.</li>
                             </ul>
                         </div>
                     </div>
@@ -119,47 +115,48 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/eps-panal/Wall-Cladding.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/puf-panal/Food-processing-industry.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Wall Cladding</p>
+                      <p>Food processing industry</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/eps-panal/Walk-On-Ceilings.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/puf-panal/Cold-storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Walk-On Ceilings</p>
+                      <p>Cold storages</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/eps-panal/Information-Kiosks.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/puf-panal/Fruit-&-vegetable-storage.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Information Kiosks</p>
+                      <p>Fruit & vegetable storage</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/eps-panal/Health-Centers.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/puf-panal/Milk-&-dairy-industry.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Health Centers</p>
+                      <p>Milk & dairy industry</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/eps-panal/Community-Shelters.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/puf-panal/Seafood-industry.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Community Shelters</p>
+                      <p>Seafood industry</p>
                     </div>
                 </article>
               </main>
             </div>
             <!-- ----- End Applications --------  -->
+
 
             <!--Gallery-section-->
             <div class="container">
@@ -168,7 +165,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">EPS Panel Projects</h2>
+                                <h2 class="h2-bold pb-2">PUF Panel Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -176,7 +173,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/sandwich-panal/eps-panel/gallery" . "/*.jpg");
+                        $images = glob("images/products/sandwich-panal/puf-panel/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">
@@ -267,6 +264,7 @@
 
     <!--footer start-->
     <?php include_once 'templates/footer.php'?>
+
     <!--footer end-->
     
 

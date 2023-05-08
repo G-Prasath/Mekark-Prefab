@@ -3,15 +3,14 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href=" https://www.mekark.com/security-cabin-manufacturer"/>
+<title> Security Cabin Manufacturers for Guard India - Mekark  </title> 
+<meta name="description" content=" Mekark is one of the leading Security Guard Cabin, Huts high quality Manufacturers and suppliers in India."/>
+<meta name="keywords" content=" Security Cabin Manufacturers for Guard India, Security Cabin Manufacturers, Security Cabin Manufacturers for Guard "/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
+
 
 </head>
 
@@ -24,13 +23,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row glasswool-bg">
+          <div class="ttm-page-title-row security">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Glasswool Panel</h1>
+                                    <h1 class="title">Security Cabin</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -41,7 +40,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Glasswool Panel</span>
+                                            <span>Security Cabin</span>
                                         </div>
                                     </div>
                                 </div>
@@ -60,10 +59,10 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                             <!-- section title -->
-                             <div class="section-title">
+                            <!-- section title -->
+                            <div class="section-title">
                                 <div class="title-header">
-                                    <h2 class="h2-bold">Safety and Efficient Building Solution</h2>
+                                    <h2 class="h2-bold">Protect Your Business with Perfect Security Cabin</h2>
                                 </div>
                             </div><!-- section title end -->
                         </div>
@@ -72,32 +71,17 @@
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
                                
-                                <p class="service-para">Glass wool panel is an insulation material made from fine fibers of glass, often combined with a binder and formed into panels or rolls. It is used to reduce heat transfer and improve energy efficiency in buildings. Glass wool insulation has excellent thermal and acoustic insulation properties, making it an effective solution for reducing energy costs and enhancing sound quality in commercial and residential spaces. This Panel is commonly used in walls, roofs, floors, and HVAC ducts. It is a reliable and cost-effective solution for improving energy efficiency and reducing noise pollution in various construction applications. Glass wool panel provides excellent protection against moisture and mold growth.</p>
-                                <p class="service-para">Mekark is one of the trusted manufacturers and suppliers of high quality Glasswool Panels in India, having separate manufacturing unit. Our glasswool panels are made from fine fibers of glass that provide excellent thermal and acoustic insulation properties.</p>
+                                <p class="service-para">A security cabin is a small structure that is typically used for security purposes, such as monitoring access to a building, controlling entry and exit points, and ensuring the safety of people and property. Security cabins are usually located at the entrance of a facility or building, and they are manned by security personnel who monitor and control access to the premises.</p>
+                                <p class="service-para">Security cabins can be made of different materials, such as steel, concrete, or wood, and they can be designed to meet specific security requirements. They may feature bullet-resistant glass, locking systems, and other security measures to protect against theft, vandalism, or unauthorized entry. Security cabins are commonly used in a variety of settings, including office complexes, manufacturing facilities, residential areas, airports, and other public places.</p>
+                                <p class="service-para">Mekark is a well-known manufacturer and supplier of various types of industrial and commercial structures, including security cabins. They offer customized solutions to meet the specific needs of clients, ensuring maximum security and functionality. With their expertise in designing and manufacturing quality structures, Mekark is a top choice for those looking for a reliable and trustworthy security cabin manufacturer.</p>
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/sandwich-panal/glasswool/sandwich-glasswool-panel.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/security/prefab-securitycabin.jpg" alt="single_02">
                             </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p class="service-para">We use advanced manufacturing techniques to create glasswool panels that are lightweight, easy to install, and highly durable. Our glasswool panels are available in a range of thicknesses and sizes to suit various construction applications, from walls and roofs to floors and HVAC ducts.</p>
-                            <p class="service-para">At Mekark Company, we pride ourselves on providing our customers with exceptional quality products and outstanding customer service. We are committed to delivering glasswool panels that meet the highest standards of quality and performance, ensuring that our customers receive the best value for their investment.</p>
-                            <p class="service-para">Whether you are a builder, contractor, or homeowner, Mekark Company can provide you with the high-quality glasswool panels you need to improve energy efficiency, reduce noise pollution, and enhance comfort in any building project. Contact us today to get a quote about our products estimate.</p>
-                            <h2 class="h2-bold">Glass wool insulation offers several benefits, including:</h2>
-                            <ul>
-                                <li>Glass wool insulation reduces heat transfer, helping to maintain a comfortable temperature inside a building and reducing energy consumption and costs.</li>
-                                <li>Glass wool insulation also provides effective sound absorption, reducing noise pollution and improving the acoustic performance of a space.</li>
-                                <li>Glass wool insulation is non-combustible and can help prevent the spread of fire in a building, enhancing safety and security.</li>
-                                <li>Glass wool insulation is highly durable, resistant to moisture, and does not settle over time, ensuring long-lasting performance and efficiency.</li>
-                                <li>Glass wool insulation is made from natural and recycled materials, making it an environmentally friendly option for insulation needs.</li>
-                                <li>Glass wool insulation is a versatile and effective solution for enhancing energy efficiency, sound quality, fire protection, durability, and eco-friendliness in commercial and residential buildings.</li>
-                            </ul>
                         </div>
                     </div>
                 </div>
@@ -119,42 +103,43 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/glasswool/Automotive-industry.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/security-cabin/Factory-buildings.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Automotive industry</p>
+                      <p>Factory buildings</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/glasswool/Marine-industry.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/security-cabin/Warehouses.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Marine industry</p>
+                      <p>Warehouses</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/glasswool/HVAC-industry.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/security-cabin/Commercial-complexes.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>HVAC industry</p>
+                      <p>Commercial complexes</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/glasswool/agricultural.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/security-cabin/Offices.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Agricultural</p>
+                      <p>Offices</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/glasswool/horticultural-icon.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/security-cabin/educational.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Horticultural</p>
+                      <p>Educational institutions</p>
+                    </div>
                 </article>
               </main>
             </div>
@@ -167,7 +152,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">Glasswool Panel Projects</h2>
+                                <h2 class="h2-bold">Security Cabin Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -175,7 +160,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/sandwich-panal/glasswool/gallery" . "/*.jpg");
+                        $images = glob("images/products/prefab-struct/security/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">

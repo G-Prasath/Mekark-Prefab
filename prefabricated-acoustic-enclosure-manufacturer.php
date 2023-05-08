@@ -3,15 +3,14 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href=" https://www.mekark.com/prefabricated-acoustic-enclosure-manufacturer"/>
+ <title> Prefabricated Acoustic Enclosure Panel Manufacturer | Mekark</title> 
+<meta name="description" content="Mekark provide Manufacturer and Dealer of Prefabricated Acoustic Enclosure Acoustic Panels with affordable rates in India."/>
+<meta name="keywords" content=" Prefabricated Acoustic Enclosure Panel Manufacturer, Prefabricated Acoustic Enclosure Panel, Acoustic Enclosure Panel "/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
+
 
 </head>
 
@@ -24,13 +23,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row clean-room">
+          <div class="ttm-page-title-row acoustic">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Clean Room</h1>
+                                    <h1 class="title">Acoustic Enclosure</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -41,7 +40,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Clean Room</span>
+                                            <span>Acoustic Enclosure</span>
                                         </div>
                                     </div>
                                 </div>
@@ -56,14 +55,14 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="ttm-row welcome-section clearfix">
+            <section class="py-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
                             <!-- section title -->
                             <div class="section-title">
                                 <div class="title-header">
-                                    <h2 class="h2-bold">Effective Modular clean-room for Biotechnology Industriesm</h2>
+                                    <h2 class="h2-bold">Effective Acoustic Enclosure for Your Industrial</h2>
                                 </div>
                             </div>
                             <!-- section title end -->
@@ -73,27 +72,25 @@
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
                                 
-                                <p class="service-para">Modular clean-rooms are highly controlled environments that are designed to meet specific standards for cleanliness and air quality. These rooms are commonly used in industries such as pharmaceuticals, biotechnology, and electronics manufacturing, where contamination control is critical.</p>
-                                <p class="service-para">Modular clean-rooms with PUF (polyurethane foam) or EPS (expanded polystyrene) wall and ceiling panels are a popular option for many industries that require clean-room environments. These panels offer a number of benefits, including excellent insulation, fire resistance, and durability, as well as ease of installation and maintenance.</p>
-                                <p class="service-para">The use of PUF or EPS panels in modular clean-rooms can help to maintain a consistent temperature and humidity level within the clean-room, which is important for many applications. The panels are also resistant to moisture and chemical exposure, which helps to prevent contamination and ensure a clean and sterile environment.</p>
+                                <p class="service-para">An acoustic enclosure is a specialized structure designed to reduce the noise level of machinery and equipment within an industrial or commercial sector. The enclosure is typically made of materials that have sound-absorbing properties, such as fiberglass, foam or other acoustic materials.</p>
+                                <p class="service-para">Acoustic enclosures are often used in settings where there are strict noise regulations or in environments where excessive noise can cause health problems or interfere with communication. Acoustic enclosures are an effective solution for noise reduction in industrial and commercial settings, helping to create a safer and more comfortable working environment for employees and reducing the impact of noise pollution on nearby communities.</p>
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/clean-room/prefab-cleanroom-scroll.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/acoustic/prefab-acousticenclosure.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">In addition to PUF or EPS panels, modular clean-rooms can be customized with a range of other features and components, including HVAC systems, lighting, filtration units and clean-room furniture. Some manufacturers also offer clean-room testing and certification services, which can help to ensure that the clean-room meets specific industry standards and regulations.</p>
-                            <h2 class="h2-bold">Why Choose Our Mekark Modular clean-room Manufacturer?</h2>
+                            <h2 class="h2-bold">Why to Choose Mekark Prefab Manufacturer?</h2>
                             <ul>
-                                <li>Mekark Innovative Design Solutions is a company that specializes in the design and manufacture of modular clean-rooms, among other products. We use the latest production technology to ensure that their modular clean-rooms are of the highest quality and meet the specific needs and requirements of their customers.</li>
-                                <li>Mekark also offers a range of customization options for their modular clean-rooms, including wall and ceiling materials, HVAC systems, lighting, and other features. This allows customers to select the components and features that best meet their specific needs and requirements.</li>
-                                <li>Mekark's modular clean-room production technology is designed to ensure that their clean-rooms are of the highest quality and meet the strictest industry standards for cleanliness, air quality and other factors. The company's commitment to innovation and excellence has made them a trusted provider of modular clean-room solutions for a range of industries.</li>
+                                <li>Mekark is a leading manufacturer of soundproof cabins, providing customized solutions for a variety of industrial and commercial applications. Our soundproof cabins are designed to provide a quiet working environment for workers, protect nearby communities from noise pollution and ensure compliance with local noise regulations.</li>
+                                <li>Mekark's soundproof cabins are made of high-quality materials that provide effective sound insulation, such as acoustic foam, fiberglass, and metal panels. Our expert team designed to accommodate a wide range of equipment and machinery and can be configured with additional features such as ventilation systems, lighting, and access doors.</li>
+                                <li>With a strong focus on quality, innovation and customer satisfaction, Mekark has earned a reputation as a trusted and reliable supplier of soundproof cabins. Their team of experts works closely with clients to understand their unique needs and deliver solutions that meet or exceed their expectations.</li>
                             </ul>
                         </div>
                     </div>
@@ -116,42 +113,34 @@
               <main class="grid">
               <article>
                     <div class="cart-img">
-                        <img src="images/icons/clean-room/Clinical-gadgets.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/acoustic-enclosure/Power-plant-Generation.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Clinical gadgets</p>
+                      <p>Power plant Generation</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/clean-room/electronics.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/acoustic-enclosure/oil-and-gas-industry.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>electronics</p>
+                      <p>oil and gas industry</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/clean-room/cars.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/acoustic-enclosure/HVAC-systems.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>cars</p>
+                      <p>HVAC systems</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/clean-room/food.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/acoustic-enclosure/Transportation.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>food</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/clean-room/nutratectural.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Nutraceutical</p>
+                      <p>Transportation</p>
                     </div>
                 </article>
               </main>
@@ -164,15 +153,14 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">Clean Room Projects</h2>
+                                <h2 class="h2-bold">Acoustic Enclosure Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
                 </div>
                 <div class="row">
                     <?php
-                        
-                        $images = glob("images/products/prefab-struct/clean-room/gallery" . "/*.jpg");
+                        $images = glob("images/products/prefab-struct/acoustic/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">
@@ -187,8 +175,7 @@
                             </div>
                         <?php
                         }
-                    ?>
-                        
+                    ?>  
                 </div>
             </div>
             <!--Gallery-section end-->
@@ -284,7 +271,7 @@
     <script src="js/bootstrap.min.js"></script> 
     <script src="js/jquery.easing.js"></script>    
     <script src="js/jquery-waypoints.js"></script>    
-    <script src="js/jquery-validate.js"></script> 
+   <script src="js/jquery-validate.js"></script> 
     <script src="js/jquery.prettyPhoto.js"></script>
     <script src="js/slick.min.js"></script>
     <script src="js/numinate.min.js"></script>

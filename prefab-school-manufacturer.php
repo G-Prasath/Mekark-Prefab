@@ -4,15 +4,13 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href="https://www.mekark.com/prefab-school-manufacturer" />
+<title> Prefab School Manufacturer, Supplier | Mekark Prefab </title> 
+<meta name="description" content="Mekark is top leading supplier and manufacturers for prefabricated Residential home, hospitals, clinic and School in India."/>
+<meta name="keywords" content="Prefab School Manufacturer, Prefabricated School Supplier, Prefabricated Clinic Manufacturer, Prefabricated Hospital Manufacturer "/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
-
 
 </head>
 
@@ -25,13 +23,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row acoustic">
+          <div class="ttm-page-title-row prefab-school">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Acoustic Enclosure</h1>
+                                    <h1 class="title">Prefab School</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -42,7 +40,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Acoustic Enclosure</span>
+                                            <span>Prefab School</span>
                                         </div>
                                     </div>
                                 </div>
@@ -57,42 +55,44 @@
         <div class="site-main">
 
             <!-- About welcome-section-->
-            <section class="py-5 welcome-section clearfix">
+            <section class="my-5 welcome-section clearfix">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <!-- section title -->
-                            <div class="section-title">
+                             <!-- section title -->
+                             <div class="section-title">
                                 <div class="title-header">
-                                    <h2 class="h2-bold">Effective Acoustic Enclosure for Your Industrial</h2>
+                                    <h2 class="h2-bold">Choose Mekark's Prefab School Buildings - Smart Solutions for Education </h2>
                                 </div>
-                            </div>
-                            <!-- section title end -->
+                            </div><!-- section title end -->
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                
-                                <p class="service-para">An acoustic enclosure is a specialized structure designed to reduce the noise level of machinery and equipment within an industrial or commercial sector. The enclosure is typically made of materials that have sound-absorbing properties, such as fiberglass, foam or other acoustic materials.</p>
-                                <p class="service-para">Acoustic enclosures are often used in settings where there are strict noise regulations or in environments where excessive noise can cause health problems or interfere with communication. Acoustic enclosures are an effective solution for noise reduction in industrial and commercial settings, helping to create a safer and more comfortable working environment for employees and reducing the impact of noise pollution on nearby communities.</p>
+                                <p class="service-para">Prefab school buildings can be designed to meet specific requirements, such as the number of classrooms, size of the auditorium, and other amenities. A prefab school building is a type of modular building that is constructed off-site in a factory or manufacturing facility, and then transported to the school site for final assembly. The building is typically made up of prefabricated modules or panels that are designed to fit together seamlessly and create a complete structure.</p>
+                                <p class="service-para">Mekark is a leading manufacturer of prefab school buildings with PUF/EPS insulated panels. Our structures are sustainable, energy-efficient, and customizable. Our prefab school buildings work is speed of construction, less time and costs, use of more efficient quality materials. We also offer a modern and efficient alternative to traditional school construction, and are becoming increasingly popular as more schools look for affordable and sustainable solutions to expand or upgrade their facilities.</p>
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/acoustic/prefab-acousticenclosure.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/LGSF/prefab-school/lgsfprefab-school-scrool.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <h2 class="h2-bold">Why to Choose Mekark Prefab Manufacturer?</h2>
+                            <h2 class="h2-bold">Benefits from Mekark Prefab School Buildings Manufacturer process include:</h2>
                             <ul>
-                                <li>Mekark is a leading manufacturer of soundproof cabins, providing customized solutions for a variety of industrial and commercial applications. Our soundproof cabins are designed to provide a quiet working environment for workers, protect nearby communities from noise pollution and ensure compliance with local noise regulations.</li>
-                                <li>Mekark's soundproof cabins are made of high-quality materials that provide effective sound insulation, such as acoustic foam, fiberglass, and metal panels. Our expert team designed to accommodate a wide range of equipment and machinery and can be configured with additional features such as ventilation systems, lighting, and access doors.</li>
-                                <li>With a strong focus on quality, innovation and customer satisfaction, Mekark has earned a reputation as a trusted and reliable supplier of soundproof cabins. Their team of experts works closely with clients to understand their unique needs and deliver solutions that meet or exceed their expectations.</li>
+                                <li>Mekark Prefab school buildings can be constructed in a shorter period of time than traditional buildings particularly advantageous for schools that need to accommodate students quickly.</li>
+                                <li>It can be designed to meet the specific needs and requirements of the school, including the number of classrooms, size of the auditorium, and other amenities.</li>
+                                <li>Prefab school buildings can be more cost-effective than traditional buildings, as they are constructed in a controlled factory environment, which can result in less waste and more efficient use of materials.</li>
+                                <li>Prefab school buildings can be designed to incorporate sustainable features and technologies, such as energy-efficient heating and cooling systems, solar panels and green roofs.</li>
+                                <li>Our Prefab school buildings are often made from durable materials that can withstand harsh weather conditions and resist pests and other forms of damage.</li>
+                                <li>Prefab school buildings can be easily disassembled and moved to a new location, making them a flexible and portable solution for schools with changing needs.</li>
+                                <li>Our Manufacturer and Supplier Team offer a cost-effective, sustainable, and efficient solution for schools looking to expand or upgrade their facilities.</li>
                             </ul>
                         </div>
                     </div>
@@ -113,41 +113,51 @@
                     </div>
                 </div>
               <main class="grid">
-              <article>
+                <article>
                     <div class="cart-img">
-                        <img src="images/icons/acoustic-enclosure/Power-plant-Generation.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Prefab-School/Modular-prefab-classrooms.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Power plant Generation</p>
+                      <p>Modular prefab classrooms</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/acoustic-enclosure/oil-and-gas-industry.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Prefab-School/Teaching-blocks-for-easy-relocation.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>oil and gas industry</p>
+                      <p>Teaching blocks for easy relocation</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/acoustic-enclosure/HVAC-systems.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Prefab-School/Workshops-and-laboratories.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>HVAC systems</p>
+                      <p>Workshops and laboratories</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/acoustic-enclosure/Transportation.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Prefab-School/Outdoor-recreational-building.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Transportation</p>
+                      <p>Outdoor recreational buildings</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-School/Prefabricated-stationery-shops.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefabricated stationery shops</p>
                     </div>
                 </article>
               </main>
             </div>
             <!-- ----- End Applications --------  -->
+
+
             <!--Gallery-section-->
             <div class="container">
                 <div class="row">
@@ -155,14 +165,15 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">Acoustic Enclosure Projects</h2>
+                                <h2 class="h2-bold pb-3">Prefab School Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
                 </div>
                 <div class="row">
                     <?php
-                        $images = glob("images/products/prefab-struct/acoustic/gallery" . "/*.jpg");
+                        
+                        $images = glob("images/products/LGSF/prefab-school/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">
@@ -177,7 +188,8 @@
                             </div>
                         <?php
                         }
-                    ?>  
+                    ?>
+                        
                 </div>
             </div>
             <!--Gallery-section end-->

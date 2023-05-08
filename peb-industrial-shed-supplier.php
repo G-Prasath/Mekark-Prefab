@@ -3,11 +3,10 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href=" https://www.mekark.com/peb-industrial-shed-supplier"/>
+<title> PEB Industrial Shed Supplier | Mekark Prefab company </title> 
+<meta name="description" content="Mekark provide various high quality of pre-engineered industrial sheds, Pre engineered fabricated building, Chemical Industry in India."/>
+<meta name="keywords" content=" PEB Industrial Shed Supplier, PEB Industrial Shed Manufacturer, PEB Industrial Shed India "/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
 <title>Inoterior - Architecture Html for Interior Designer</title>
 
@@ -24,13 +23,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row warehouse-cover">
+          <div class="ttm-page-title-row industrial-shed">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Warehouse</h1>
+                                    <h1 class="title">Industrial Shed</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -41,7 +40,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Pre Engineered Builder</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Warehouse</span>
+                                            <span>Industrial Shed</span>
                                         </div>
                                     </div>
                                 </div>
@@ -63,7 +62,7 @@
                              <!-- section title -->
                              <div class="section-title">
                                 <div class="title-header">
-                                    <h2 class="h2-bold">Modular Warehousing Systems for your Businesses</h2>
+                                    <h2 class="h2-bold">Perfect Industrial Shed for your Business</h2>
                                 </div>
                             </div><!-- section title end -->
                         </div>
@@ -72,29 +71,32 @@
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
                                
-                                <p class="service-para">A warehouse building is a large commercial building designed for the storage and distribution of goods. It is typically used by businesses that require a dedicated space to store inventory or products, such as retailers, manufacturers, wholesalers, and logistics companies. Warehouse buildings can vary in size, design, and construction materials depending on the specific needs of the business. They can range from small storage facilities to large distribution centers, and they may be built with materials such as steel, concrete, or wood. Warehouse buildings are an important component of the supply chain, enabling businesses to store, manage and distribute goods effectively and efficiently.</p>
-                                <p class="service-para">Mekark is the top warehouse manufacturer and supplier in India offers the advanced warehouse solutions for industrial and commercial industry. Our company provides customized solutions for businesses in need of high-quality storage solutions.</p>
+                                <p class="service-para">Industrial sheds are an essential component for businesses that require a dedicated space for storage, manufacturing, or processing. Durable industrial sheds are constructed with high-quality materials that can withstand harsh weather conditions and heavy loads. It is a popular choice for industrial sheds due to its strength, durability, and resistance to corrosion.</p>
+                                <p class="service-para">In addition, industrial sheds can be customized with a variety of features to meet specific business needs, such as mezzanine levels, loading docks, and specialized storage racks or shelving. This can help optimize space utilization and improve efficiency. A durable and efficient industrial shed can provide long-term benefits for businesses, such as improved productivity, cost savings, and a secure storage space for inventory or equipment.</p>
+                                <p class="service-para">Mekark is the best manufacturer and supplier of Industrial Shed structures, offers best-in-class solutions for building at a standard construction cost. We provide high-quality raw material and lifetime guarantee of durability and efficient services.</p>
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/peb/warehouse/warehouse-scrollbarimage.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/peb/industrial-shed/industrial-scrollbar.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">Our durable and energy-efficient prefab warehouses are designed to maximize space and improve productivity, while our experienced team ensures fast and efficient installation. We offer a wide range of customizable features and materials, ensuring that our warehouses meet the specific needs of our clients. Our commitment to excellence and customer satisfaction has made us a trusted partner for businesses across industries.</p>
-                            <h2 class="h2-bold">Benefits from Mekark warehouse manufacturing technology</h2>
+                            <p class="service-para">As Mekark, top manufacturer and supplier of industrial shed structures provide high-quality, customized solutions that meet the specific needs of businesses. Our Industrial shed supplier in India, offer a wide range of options and features, including insulation, ventilation, lighting, and specialized storage solutions. Mekark preengineered fabricated structures provide efficient and cost-effective installation and construction services, as well as ongoing maintenance and support.</p>
+                            <p class="service-para">Additionally, Mekark have a strong reputation for delivering projects on time and within budget, as well as providing excellent customer service and support. They should also prioritize safety and compliance with relevant regulations and standards.</p>
+                            <p class="service-para">You are looking for a manufacturer and supplier of industrial shed structures in India. Mekark is best choice for Industry shed such as quality, customization, expertise, and reputation.</p>
+
+                            <h2 class="h2-bold">Benefits from Mekark Industrial Shed Manufacturer:</h2>
                             <ul>
-                                <li>Mekark Best-in-class prefab warehouses offer the flexibility to customize layouts to meet specific business needs. This allows businesses to optimize their warehouse space and maximize storage capacity.</li>
-                                <li>Mekark provide High-quality materials, such as steel or concrete, provide durability and strength, ensuring the warehouse can withstand harsh weather conditions, heavy loads and potential wear and tear.</li>
-                                <li>Our Mekark team offer efficient features such as insulation, LED lighting and efficient HVAC systems, can reduce energy consumption and lower operating costs.</li>
-                                <li>Mekark Prefabricated warehouses can be installed quickly, often in a matter of weeks, minimizing downtime and enabling businesses to start operations faster.</li>
-                                <li>Mekark modular design allows for easy expansion or reconfiguration of the warehouse as the business grows or requirements change.</li>
-                                <li>Mekark Best-in-class prefab warehouses offer customizable layouts, durable materials, energy efficiency, quick installation, safety features, modular design, sustainability, and security. These features can improve warehouse efficiency, productivity, and profitability, making them an attractive option for businesses in need of a high-quality storage solution.</li>
+                                <li>Mekark can provide customized solutions to meet the specific needs of businesses. Our Team can design and construct industrial sheds that are tailored to meet the unique requirements of each business, such as size, shape, and special features.</li>
+                                <li>Mekark will use high-quality materials and equipment to ensure that their industrial sheds are durable, safe, and long-lasting. We help to ensure that the industrial shed will provide a secure and reliable storage space for the business.</li>
+                                <li>Mekark will prioritize efficiency in the construction and installation of their industrial sheds. We can help to reduce costs and minimize disruption to the business.</li>
+                                <li>Mekark can provide businesses with a customized, high-quality, and reliable storage solution that meets their unique needs.</li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -117,42 +119,42 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/warehouse/wholeseller.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/industrial-shed/Transport-industry.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Wholesalers</p>
+                      <p>Transport industry</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/warehouse/Pharmaceutical-industries.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/industrial-shed/Chemical-industry.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Pharmaceutical industries</p>
+                      <p>Chemical industry</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/warehouse/Effective-raw-material-storage.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/industrial-shed/Manufacturing-centers.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Effective raw material storage</p>
+                      <p>Manufacturing centers</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/warehouse/Industrial-ware-storage.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/industrial-shed/Warehouses.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Industrial ware storage</p>
+                      <p>Warehouses</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/warehouse/Bulk-storage-of-goods.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/industrial-shed/Commercial-outlets.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Bulk storage of goods</p>
+                      <p>Commercial outlets</p>
                 </article>
               </main>
             </div>
@@ -165,7 +167,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">Warehouse Projects</h2>
+                                <h2 class="h2-bold">Industrial Shed Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -173,7 +175,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/peb/warehouse/gallery" . "/*.jpg");
+                        $images = glob("images/products/peb/industrial-shed/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">
