@@ -3,13 +3,10 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
+<link rel="canonical" href="https://www.mekark.com/prefabricated-modular-solution-manufacturer" />
+<title>Prefabricated Modular Solutions Manufacturer | Mekark Prefab</title> 
+<meta name="description" content="Mekark is the top level of manufacturing technology offers the prefabricated standard modular solution. Contact us today."/>
+<meta name="keywords" content="Prefabricated Modular Solutions Manufacturer, Prefabricated Modular Solutions, Prefabricated Modular Solutions India"/>
 
 <?php include_once 'templates/head.php'?>
 

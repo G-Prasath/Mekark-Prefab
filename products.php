@@ -512,14 +512,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="porta-cabin.php">Porta Cabin</a></h3>
+                                            <h3><a href="portable-cabin-manufacturer">Porta Cabin</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="porta-cabin.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="portable-cabin-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -534,14 +534,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="liftable-cabin.php">Liftable Cabin</a></h3>
+                                            <h3><a href="liftable-portable-cabin-manufacturer">Liftable Cabin</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="liftable-cabin.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="liftable-portable-cabin-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -556,14 +556,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="mi-homes.php">Mi Homes</a></h3>
+                                            <h3><a href="mi-homes-manufacturer">Mi Homes</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="mi-homes.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="mi-homes-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -578,14 +578,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="k-house.php">K-House</a></h3>
+                                            <h3><a href="prefab-k-houses-manufacturer">K-House</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="k-house.php">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab-k-houses-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>

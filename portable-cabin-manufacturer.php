@@ -3,13 +3,11 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href="https://www.mekark.com/portable-cabin-manufacturer" />
+<title>Portable Cabin Manufacturer, Supplier | Mekark Prefab</title> 
+<meta name="description" content="Best Portable Cabin Manufacturer by Mekark offers wide a variety of Prefabricated Portable Cabin and Portable Container Houses."/>
+<meta name="keywords" content="Portable Cabin Manufacturer, Portable Cabin Supplier, Portable Cabin Manufacturer, Supplier India"/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
 
@@ -24,13 +22,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row mi-homes">
+          <div class="ttm-page-title-row porta-cabin">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Mi Homes</h1>
+                                    <h1 class="title">Porta Cabin</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -41,7 +39,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Mi Homes</span>
+                                            <span>Porta Cabin</span>
                                         </div>
                                     </div>
                                 </div>
@@ -60,35 +58,40 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                             <!-- section title -->
-                             <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="h2-bold">Fast and Affordable - Innovations in Mekark Prefab Mi Homes</h2>
-                                    </div>
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Efficient and Eco-Friendly Sustainable Prefab Porta Cabins</h2>
                                 </div>
-                                <!-- section title end -->
+                            </div><!-- section title end -->
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <p class="service-para">Mekark Prefab Mi Homes surrounded by insulated EPS (Expanded Polystyrene) panels are modular homes that are constructed using prefabricated panels made of EPS foam insulation sandwiched between two layers of steel or aluminum. The panels are pre-engineered and cut to size in a factory, and then transported to the building site for assembly.</p>
-                                <p class="service-para">These prefabricated homes offer several advantages over traditional construction methods. They are quick to assemble, energy-efficient, and environmentally friendly. The EPS foam insulation provides excellent thermal insulation, reducing energy costs and ensuring a comfortable living environment. Additionally, the modular design allows for easy customization and expansion, making it an ideal solution for a wide range of residential and commercial applications.</p>
-                                <p class="service-para">Mekark Prefab Mi Homes are designed to meet high standards of quality and durability, with a focus on sustainability and affordability.</p>
+                                
+                                <p class="service-para">A Porta Cabin, also known as a portable cabin or modular cabin, is a prefabricated modular structure that is designed to be transported and installed quickly and easily at a different location. Porta Cabins are commonly used for a wide range of applications such as site offices, portable security cabin, storage rooms, and more. Porta Cabins can be customized to meet the specific needs of each project, and they can be easily relocated and reassembled as needed, making them a versatile and cost-effective solution for temporary or permanent buildings.</p>
+                                <p class="service-para">Mekark is the trusted porta Cabin manufacturer and supplier in India, wide range of excellent amenities. Our highly customizable and can be designed to meet the specific needs. OUr team designed to be portable making them an ideal solution for temporary or mobile buildings.Mekark Factory Unit made with the quality materials to provide a safe, weather-resistant, and energy-efficient and accommodation anywhere you need it.</p>
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/standred-modular/mi-homes/mihomes.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/standred-modular/porta-cabin/portacabn.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">The use of prefabricated panels and modular construction methods helps to reduce waste and minimize the environmental impact of the building process. With their innovative design and high-quality construction, Mekark Prefab Mi Homes offer a modern and efficient solution for anyone looking for a fast, affordable, and eco-friendly way to build a new home or commercial building.</p>
-                            <p class="service-para">Prefab Mi Homes are built using pre-engineered panels that are assembled on-site, making the construction process much faster than traditional methods. This can result in significant cost savings and reduced construction time. Prefab Mi Homes offer a wide range of customization options, including different panel designs, floor plans, and finishes. This allows homeowners to create a unique and personalized home that meets their specific needs and preferences. Prefab Mi Homes offer a faster, higher-quality, and more customizable solution to traditional home construction, with the added benefits of energy efficiency and environmental sustainability.</p>
+                            <p class="service-para">our prefab experts will analyze the site infrastructure to ensure best services and quality materials. We provide durable and cost-effective solutions that can be easily transported and assembled, making them ideal for temporary or permanent buildings.</p>
+                            <h2 class="h2-bold">Why to Choose us?</h2>
+                            <ul>
+                                <li>Flexibile Deisgn, Lightweight and Easy to Install.</li>
+                                <li>Mekark are made from high-quality materials and are designed to withstand harsh weather conditions and heavy use.</li>
+                                <li>Mekark Porta Cabins can be customized to meet specific requirements and can be easily relocated or repositioned as needed.</li>
+                                <li>Mekark can be designed in a variety of sizes according to requirements.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -108,51 +111,58 @@
                     </div>
                 </div>
               <main class="grid">
-              <article>
+                <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/Corporate-Offices.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/porta-cabin/Office-Cabins.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Corporate Offices</p>
+                      <p>Prefabricated Office Cabins</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/Small-to-Medium-size-clinics.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/porta-cabin/Office-cabin-Interiors.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Small to Medium size clinics</p>
+                      <p>Office cabin Interiors</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/School-buildings.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/porta-cabin/Multistorey-Cabins.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>School buildings</p>
+                      <p>Multistorey Cabins</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/mi-homes/Community-Halls.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/porta-cabin/Temporary-Office.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Community Halls</p>
+                      <p>Temporary Site Office</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/porta-cabin/Prefab-Accommodation-Building.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefab Accommodation Building</p>
                     </div>
                 </article>
               </main>
             </div>
             <!-- ----- End Applications --------  -->
 
-
             <!--Gallery-section-->
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <!-- section title -->
-                        <div class="section-title pb-5">
+                        <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">Mi-Homes Services</h2>
+                                <h2 class="h2-bold pb-3">Porta Cabin Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -160,7 +170,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/standred-modular/mi-homes/gallery" . "/*.jpg");
+                        $images = glob("images/products/standred-modular/porta-cabin/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">

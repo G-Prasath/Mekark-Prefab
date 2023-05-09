@@ -3,13 +3,11 @@
 
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" >
-<meta name="description" content="Inoterior - Architecture HTML Template" >
-<meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
+<link rel="canonical" href="https://www.mekark.com/prefab-k-houses-manufacturer" />
+<title>Prefab K Houses Manufacturer | Mekark</title> 
+<meta name="description" content="Mekark is the leading prefabricated k house Manufacturer and Supplier Company provide high premium solution in India."/>
+<meta name="keywords" content="Prefab K Houses Manufacturer, Prefab K Houses Supplier, Prefab K Houses, Prefab K Houses Manufacturer in India"/>
 <meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
-<title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
 
@@ -24,13 +22,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row liftable-cabin">
+          <div class="ttm-page-title-row k-house">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Liftable Cabin</h1>
+                                    <h1 class="title">K-House</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -41,7 +39,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Liftable Cabin</span>
+                                            <span>K-House</span>
                                         </div>
                                     </div>
                                 </div>
@@ -60,39 +58,42 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <!-- section title -->
-                            <div class="section-title">
-                                <div class="title-header">
-                                    <h2 class="h2-bold">Maximizing Workspace Efficiency with Liftable Cabinsn</h2>
-                                </div>
-                            </div><!-- section title end -->
+                             <!-- section title -->
+                             <div class="section-title">
+                                    <div class="title-header">
+                                        <h2 class="h2-bold">Smart Efficient Solution - Mekark Prefabrcated K-Houses</h2>
+                                    </div>
+                                </div><!-- section title end -->
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
                                
-                                <p class="service-para">Liftable cabins, also known as elevating cabins or cabins that can be raised, are a type of temporary or permanent structure designed to provide a safe and efficient workspace for workers at height. Liftable cabins are used in a variety of industries and applications, including construction, maintenance.</p>
-                                <p class="service-para">Mekark Prefab is just one of the leading liftable cabin manufacturer and supplier in Chennai, offer a versatile and efficient solution for working at height in a wide range of industries and applications. Our Mekark Team provide a safer and more stable workspace, and can be customized to meet specific job requirements. Mekark Liftable cabins are used in emergency response situations, such as search and rescue operations or firefighting. We provide a secure and stable platform for workers to perform their duties in hazardous or hard-to-reach locations.</p>
+                                <p class="service-para">Prefabricated K-House is a type of modular housing that is designed and constructed off-site in a factory and then transported to the building site in pre-fabricated sections. The "K" in the name refers to the modular units' shape, which is formed by combining several rectangular modules into a single, letter "K" shaped unit.</p>
+                                <p class="service-para">The prefabrication process of K-Houses involves the use of standardized modules that are manufactured in a controlled factory environment. These modules typically include the walls, roof, and floor, as well as windows, doors, and other necessary components. Once the modules are completed, they are transported to the building site and assembled using cranes and other heavy equipment.
+                                </p>
+                                <p class="service-para">K-Houses is also a more sustainable building option. The prefabrication process reduces waste and energy consumption during construction, and the use of energy-efficient materials.</p>
+
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/standred-modular/liftable/liftablecabin-scrool.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/standred-modular/k-house/k-house.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <h2 class="h2-bold">Why to Choose Our Mekark Liftable Cabins?</h2>
+                            <p class="service-para">Systems can reduce energy consumption throughout the life of the building. Prefabricated K-Houses is a modern, efficient, and sustainable building option that is ideal for a range of residential and commercial applications.</p>
+                            <p class="service-para">Mekark K-Houses is a manufacturer and suppliers in India. Our team aim is on sustainability, energy efficiency, and smart home automation. Mekark prefab smart housing solutions are designed to be eco-friendly, using materials that reduce energy consumption and carbon emissions. We also use smart home technology to control lighting, heating and other energy-consuming appliances to optimize energy usage and reduce waste.</p>
+                            <p class="service-para">Mekark K-homes also include features such as remote access and monitoring, allowing homeowners to control their home's security system and check on their home from anywhere in the world. </p>
                             <ul>
-                                <li>Mekark provide a safer working environment for workers at heights and eliminate the need for scaffolding, ladders, or other temporary structures that can be unstable and unsafe.</li>
-                                <li>Mekark Team can increase productivity by providing an efficient and safe work environment that is easily accessible to workers. This can help reduce downtime and increase work efficiency.</li>
-                                <li>Mekark Liftable cabins can be moved to different locations on a job site or lifted to different levels of a building as needed, providing greater flexibility and versatility than fixed structures.</li>
-                                <li>Mekark Liftable cabins take up less space than traditional scaffolding or other temporary structures. They can be used in areas where space is limited and provide a safe, efficient workspace.</li>
-                                <li>Mekark can be customized to meet specific job requirements. Our Team specialized equipment, such as cranes or lifts, or designed to meet specific safety or environmental standards. Liftable cabins can be a cost-effective alternative to traditional scaffolding or other temporary structures.</li>
+                                <li>Our Mekark smart housing solutions offer a comprehensive package of sustainability, energy efficiency and using latest technology that makes for a modern, comfortable, and eco-friendly home.</li>
+                                <li>K-Houses are quickly Installation and made from light-weight quality materials offer convenience in re-locate another places.</li>
+                                <li>K-Houses offer a number of benefits over traditional construction methods. Because the modules are manufactured in a factory, the construction process is faster and more efficient, with less waste and fewer on-site disruptions. The use of standardized modules also allows for greater precision and accuracy in the construction process, resulting in a higher-quality finished product.</li>
                             </ul>
                         </div>
                     </div>
@@ -115,56 +116,57 @@
               <main class="grid">
               <article>
                     <div class="cart-img">
-                        <img src="images/icons/liftable-cabin/Family-accommodation.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/k-house/Engineer-Accommodation.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Family accommodation</p>
+                      <p>Engineer Accommodation</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/liftable-cabin/Fully-equipped-kitchen.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/k-house/Canteen.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Fully equipped kitchen</p>
+                      <p>Canteen</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/liftable-cabin/dining.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/k-house/School.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Mess [dining]</p>
+                      <p>School & Training centers</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/liftable-cabin/Laboratory.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/k-house/Refugee-camps.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Laboratory</p>
+                      <p>Refugee camps</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/liftable-cabin/Recreation-room.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/k-house/Site-office.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Recreation room</p>
+                      <p>Site office</p>
                     </div>
                 </article>
               </main>
             </div>
             <!-- ----- End Applications --------  -->
 
+
             <!--Gallery-section-->
-            <div class="container pt-3">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <!-- section title -->
-                        <div class="section-title pb-5">
+                        <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">Liftable Cabin Services</h2>
+                                <h2 class="h2-bold">K-House Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -172,7 +174,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/standred-modular/liftable/gallery" . "/*.jpg");
+                        $images = glob("images/products/standred-modular/k-house/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">

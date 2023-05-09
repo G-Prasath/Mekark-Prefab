@@ -125,12 +125,12 @@
                                                         </li>
                                                         <!-- -------- STANDARD MODULAR SOLUTION ------------>
                                                         <li class="mega-menu-item">
-                                                            <a href="standed-modular-solution.php" class="mega-menu-link">Standard Modular Soluation</a>
+                                                            <a href="prefabricated-modular-solution-manufacturer" class="mega-menu-link">Standard Modular Soluation</a>
                                                             <ul class="mega-submenu">
-                                                                <li><a href="porta-cabin.php">Porta Cabin</a></li>
-                                                                <li><a href="liftable-cabin.php">Liftable Cabin</a></li>
-                                                                <li><a href="mi-homes.php">Mi Homes</a></li>
-                                                                <li><a href="k-house.php">K-House</a></li>
+                                                                <li><a href="portable-cabin-manufacturer">Porta Cabin</a></li>
+                                                                <li><a href="liftable-portable-cabin-manufacturer">Liftable Cabin</a></li>
+                                                                <li><a href="mi-homes-manufacturer">Mi Homes</a></li>
+                                                                <li><a href="prefab-k-houses-manufacturer">K-House</a></li>
                                                             </ul>
                                                         </li>
 
