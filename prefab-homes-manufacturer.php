@@ -6,8 +6,9 @@
 <link rel="canonical" href="https://www.mekark.com/prefab-homes-manufacturer" />
 <title>Prefab Modular Homes Manufacturer, Supplier | Mekark</title> 
 <meta name="description" content="Mekark Prefab Modular Homes top manufacturer and supplier Company India. Contact us for Prefab Homes."/>
-<meta name="keywords" content="Prefab Modular Homes Manufacturer, Prefab Modular Homes Supplier, Prefab Modular Homes India"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="Prefab Modular Homes Manufacturer, Prefab Modular Homes Supplier, Prefab Modular Homes India"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

@@ -7,8 +7,9 @@
 <meta name="keywords" content="HTML5 Template" >
 <meta name="description" content="Inoterior - Architecture HTML Template" >
 <meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="author" content="https://www.themetechmount.com/" ><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 <title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
@@ -132,9 +133,6 @@
     <script  src='revolution/js/revolution.tools.min.js'></script>
     <script  src='revolution/js/rs6.min.js'></script>
     <!-- Javascript end-->
-
-    
-       
 
 </body>
 </html>

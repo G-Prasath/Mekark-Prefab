@@ -6,8 +6,9 @@
 <link rel="canonical" href="https://www.mekark.com/liftable-portable-cabin-manufacturer" />
 <title>Liftable Portable Cabins Manufacturer | Mekark Prefab</title> 
 <meta name="description" content="Mekark offer Liftable Portable Cabins Manufacturer and Supplier for Liftable site cabins and liftable container cabins. Get best offer today."/>
-<meta name="keywords" content="Liftable Portable Cabins Manufacturer, Liftable Portable Cabins Supplier, Liftable Portable Cabins, Liftable Portable Cabins Manufacturer India"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="Liftable Portable Cabins Manufacturer, Liftable Portable Cabins Supplier, Liftable Portable Cabins, Liftable Portable Cabins Manufacturer India"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

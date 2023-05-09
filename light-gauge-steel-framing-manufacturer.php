@@ -7,8 +7,9 @@
 <link rel="canonical" href="https://www.mekark.com/light-gauge-steel-framing-manufacturer" />
 <title> Light Gauge Steel Framing LGSF Manufacturer | Mekark</title> 
 <meta name="description" content="Mekark is leading Light Gauge Steel Framing LGSF Manufacturer Company in India provides best solution at budget rates."/>
-<meta name="keywords" content=" Light Gauge Steel Framing Manufacturer, LGSF Manufacturer, Light Gauge Steel Framing, LGSF "/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content=" Light Gauge Steel Framing Manufacturer, LGSF Manufacturer, Light Gauge Steel Framing, LGSF "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

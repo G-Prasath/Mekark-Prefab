@@ -6,8 +6,9 @@
 <link rel="canonical" href="https://www.mekark.com/eps-insulated-sandwich-panel-manufacturer" />
 <title> EPS Sandwich Panels Manufacturer | Mekark EPS Insulated Panels </title> 
 <meta name="description" content=" Get complete solution high quality EPS Insulated Panel from Mekark Prefab premium company in India."/>
-<meta name="keywords" content="EPS Sandwich Panels Manufacturer, EPS Insulated Panels, EPS Sandwich Panels Supplier"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="EPS Sandwich Panels Manufacturer, EPS Insulated Panels, EPS Sandwich Panels Supplier"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

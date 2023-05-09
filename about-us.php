@@ -6,8 +6,9 @@
 <link rel="canonical" href="https://www.mekark.com/about-us"/>
 <title>Mekark Prefabricated Building About us</title> 
 <meta name="description" content="Mekark is the best prefab manufacturing company in Chennai with over 15+ years of experience offers wide range of PEB."/>
-<meta name="keywords" content="Mekark Prefabricated Building Manufacturer and Supplier, Prefabricated Building Manufacturer, Prefabricated Building Supplier, Prefabricated Buildings" />
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="Mekark Prefabricated Building Manufacturer and Supplier, Prefabricated Building Manufacturer, Prefabricated Building Supplier, Prefabricated Buildings" /><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

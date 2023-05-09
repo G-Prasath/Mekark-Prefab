@@ -6,8 +6,9 @@
 <link rel="canonical" href=" https://www.mekark.com/peb-industrial-shed-supplier"/>
 <title> PEB Industrial Shed Supplier | Mekark Prefab company </title> 
 <meta name="description" content="Mekark provide various high quality of pre-engineered industrial sheds, Pre engineered fabricated building, Chemical Industry in India."/>
-<meta name="keywords" content=" PEB Industrial Shed Supplier, PEB Industrial Shed Manufacturer, PEB Industrial Shed India "/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content=" PEB Industrial Shed Supplier, PEB Industrial Shed Manufacturer, PEB Industrial Shed India "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 <title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>

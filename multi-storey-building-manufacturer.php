@@ -6,8 +6,9 @@
 <link rel="canonical" href=" https://www.mekark.com/multi-storey-building-manufacturer"/>
 <title>Multi Storey Building Manufacturer | Mekark Prefab </title> 
 <meta name="description" content="Mekark Multi Storey Building Manufacturer and Supplier provides the premium solutions for Multi storey steel, metal building in India."/>
-<meta name="keywords" content=" Multi Storey Building Manufacturer, Multi Storey Steel Building Manufacturer, Multi Storey Metal Building Manufacturer "/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content=" Multi Storey Building Manufacturer, Multi Storey Steel Building Manufacturer, Multi Storey Metal Building Manufacturer "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

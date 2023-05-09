@@ -6,8 +6,9 @@
 <link rel="canonical" href="https://www.mekark.com/prefab-k-houses-manufacturer" />
 <title>Prefab K Houses Manufacturer | Mekark</title> 
 <meta name="description" content="Mekark is the leading prefabricated k house Manufacturer and Supplier Company provide high premium solution in India."/>
-<meta name="keywords" content="Prefab K Houses Manufacturer, Prefab K Houses Supplier, Prefab K Houses, Prefab K Houses Manufacturer in India"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="Prefab K Houses Manufacturer, Prefab K Houses Supplier, Prefab K Houses, Prefab K Houses Manufacturer in India"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

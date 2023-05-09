@@ -3,13 +3,15 @@
 
 <head>
 <meta charset="utf-8">
-<link rel="canonical" href=" https://www.mekark.com/prefabricated- poultry-shed-manufacturer"/>
-<title> Poultry Shed Manufacturer | Poultry Shed Supplier India </title> 
-<meta name="description" content=" Mekark is number one prefabricated poultry shed manufacturer and Supplier in India, provide cages and Lightweight poultry sheds."/>
-<meta name="keywords" content="Poultry Shed Manufacturer, Poultry Shed Supplier India, Poultry Shed Manufacturer in India "/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="canonical" href=" https://www.mekark.com/prefabricated-labour-hutment-manufacturer "/>
+<title> Prefabricated Labour Hutment Manufacturer | Mekark </title> 
+<meta name="description" content=" Mekark is the leading manufacturer and supplier of Prefabricated Labour Hutment, Single-room hutments, Multi-room hutments in India."/>
+<meta name="keywords" content=" Prefabricated Labour Hutment Manufacturer, Prefabricated Labour Hutment Supplier, Prefabricated Labour Hutment Single-room hutments in India, Multi-room hutments in India."/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
+
 
 </head>
 
@@ -22,13 +24,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row poultry">
+          <div class="ttm-page-title-row lh">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Poultry Shed</h1>
+                                    <h1 class="title">Labour Hutment</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -39,7 +41,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Poultry Shed</span>
+                                            <span>Labour Hutment</span>
                                         </div>
                                     </div>
                                 </div>
@@ -60,112 +62,57 @@
                         <div class="col-md-12">
                             <!-- section title -->
                             <div class="section-title">
-                                <div class="title-header">
-                                    <h2 class="h2-bold">An Effective Farming Shed for your Business</h2>
-                                </div>
-                            </div>
-                            <!-- section title end -->
+                                    <div class="title-header">
+                                        <h2 class="h2-bold">Customizing Prefabricated Labour Hutments for Your Workforce </h2>
+                                    </div>
+                                </div><!-- section title end -->
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                
-                                <p class="service-para">Farming shed is a structure that is designed and built to provide shelter and protection to animals, crops and equipment used in farming operations. It is an essential component of a successful farming operation as it provides a safe and secure environment for livestock, machinery and other important assets. The farming shed should be constructed using high-quality materials that are able to withstand harsh weather conditions and heavy use.</p>
-                                <p class="service-para"><b>Hatcheries:</b> These are facilities that specialize in breeding and hatching chicks from fertilized eggs.</p>
-                                <p class="service-para"><b>Broiler farms:</b> These farms are dedicated to raising chickens for meat production. They typically raise birds for about 6 to 8 weeks, after which they are processed for meat.</p>
-                                <p class="service-para"><b>Layer farms:</b> These farms specialize in raising chickens for egg production. They house hens that are specifically bred to lay eggs and typically keep them for about 12 to 18 months before they are replaced.</p>
-                                                              
+                                <p class="service-para">Prefabricated labour hutments are modular buildings that are specifically designed to provide temporary housing for workers on construction sites or in other industrial settings. These hutments are constructed off-site in a factory setting and transported to the work site for installation. The prefabricated modules or sections are made using standardized materials and construction methods and can be easily assembled on-site.</p>
+                                <p class="service-para">Mekark Prefabricated labour hutments are popular in the construction industry We are provided many advantages over traditional on-site housing options. It is cost-effective, energy-efficient, and can be quickly installed and dismantled as needed.  We work hard to present complete turnkey results, together with everything demanded, from the final, move-in-ready accommodations to the electrical and sanitary fixtures, furnishings, and bunk beds. We've make available affordable housing for several workers over the past 15 years. Under the systems area, there is a list of some of our unique systems on this page.</p>
+                               
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/poultry/prefab-poultryshed-scroll.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/labour-hument/prefabsite-labourhutment.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                        <p class="service-para"><b>Breeder farms:</b> These farms are responsible for producing fertilized eggs that are used in hatcheries to produce chicks.</p>
-                                <p class="service-para"><b>Feed mills:</b> These facilities produce and supply the feed that is used to feed poultry on farms.</p>
-                                <p class="service-para"><b>Processing plants:</b> These facilities are responsible for processing and packaging chicken meat for distribution to retailers and consumers.</p>
-                                <p class="service-para"><b>Poultry equipment suppliers:</b> These companies specialize in designing, manufacturing and supplying equipment and machinery that is used in poultry production, such as feeders, drinkers, ventilation systems and incubators.</p>
-                                <p class="service-para"><b>Transport and logistics companies:</b> These companies are involved in the transportation of live poultry, eggs and meat products from farms to processing plants, distribution centers and retailers.</p>
-                                <p class="service-para"><b>Poultry veterinarians:</b> These professionals specialize in the diagnosis and treatment of diseases and other health issues that affect poultry.</p>
+                            <h2 class="h2-bold">Why Prefab Modular Labour Hutments Are the Future of On-Site Housing?</h2>
+                            <ul>
+                                <li>Prefab modular labour hutments are generally less expensive than traditional on-site           housing options because they are constructed off-site in a factory setting, reducing labor and material costs.</li>
+                                <li>Prefab modular labour hutments can be easily transported to and installed on-site, making them a convenient and flexible housing option for workers in remote or temporary locations.</li>
+                                <li>Prefab modular labour hutments can be customized to meet the specific needs of the workers and the site, including the number of occupants and the duration of stay.</li>
+                                <li>Prefab modular labour hutments can be designed with energy-efficient features such as insulation and energy-efficient windows, reducing energy costs and improving the comfort of the workers.</li>
+                                <li>Prefab modular labour hutments can be built using eco-friendly materials and energy-efficient construction methods, reducing the environmental impact of on-site housing.</li>
+                                <li>Prefab modular labour hutments can be designed with safety features such as fire alarms and smoke detectors, ensuring the safety of the workers.</li>
+                            </ul>
+                            <h2 class="h2-bold">Why Choose Mekark for Prefab Labour Hutments ?</h2>
+                            <ul>
+                                <li>Mekark Prefab modular labour hutments are provide temporary housing for workers on construction sites or in other industrial settings.</li>
+                                <li>Mekark Prefabricated labor hutments are durable on a budget. </li>
+                                <li>Mekark Prefabricated labor hutments are lightweight yet strong, Quick to assemble and disassemble. </li>
+                                <li>Mekark Prefabricated Team can be designed according to customers' needs. </li>
+                                <li>Best pricing may be found on prefabricated labor huts made by Mekark, whether for student casing, labor hutments, or flats for workers in India.</li>
+                            </ul>
+                            <h2 class="h2-bold">Our Mekark Prefabricated labor hutments services are provided</h2>
+                                <ul>
+                                    <li>PUF / EPS insulated sandwich panels of 50 / 60mm with PPGI sheet on both sides.</li>
+                                    <li>PUF / EPS insulated sandwich panels of 30 / 40 mm or PPGI roofing sheet.</li>
+                                    <li>Insulated Doors, windows and Electrical fittings, sanitary fittings, beds</li>
+                                </ul>
                         </div>
                     </div>
                 </div>
             </section>
             <!--About welcome-section end-->
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h2 class="h2-bold">Why Choose Mekark is best choice for Poultry shed Manufacturer?</h2>
-                        <ul>
-                            <li>If you are looking for a high-quality, customizable and cost-effective solution for farming operations. Mekark is the best choice of Poultry shed manufacturer in India. Mekark offers a range of customization options for poultry sheds, including materials, dimensions, ventilation and lighting. This allows customers to create a shed that is tailored to their specific needs and requirements.</li>
-                            <li>Mekark uses the latest production technology to ensure that its structures are of the highest quality. Our company employs a computer-aided design.</li>
-                            <li>Prefabricated structures, including poultry sheds, are a cost-effective alternative to traditional construction methods. Mekark's prefabricated structures are manufactured in a controlled factory environment, which helps to minimize waste and reduce construction time and costs.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <!-- ----- Applications --------  -->
-            <div class="container pb-5">
-                <div class="row">
-                    <div class="col-md-12">
-                        <!-- section title -->
-                        <div class="section-title">
-                            <div class="title-header">
-                                <h2 class="h2-blod">Applications</h2>
-                            </div>
-                        </div><!-- section title end -->
-                    </div>
-                </div>
-              <main class="grid">
-              <article>
-                    <div class="cart-img">
-                        <img src="images/icons/poultry-shed/Poultry-veterinarians.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Poultry veterinarians</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/poultry-shed/Transport-and-logistics-companies.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Transport and logistics companies</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/poultry-shed/Poultry-equipment-suppliers.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Poultry equipment suppliers</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/poultry-shed/Processing-plants.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Processing plants</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/poultry-shed/Feed-mills.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Feed mills</p>
-                    </div>
-                </article>
-              </main>
-            </div>
-            <!-- ----- End Applications --------  -->
 
 
             <!--Gallery-section-->
@@ -175,7 +122,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold">Poultry Shed Projects</h2>
+                                <h2 class="h2-bold pb-3">Labour Hutment Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -183,7 +130,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/prefab-struct/poultry/gallery" . "/*.jpg");
+                        $images = glob("images/products/prefab-struct/labour-hument/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">
@@ -303,7 +250,7 @@
     <script src="js/jquery-isotope.js"></script>
     <script src="js/jquery.event.move.js"></script>
     <script src="js/jquery.twentytwenty.js"></script>
-    <script src="js/circle-progress.min.js"></script>
+    <script src="js/circle-progress.min.js"></script>   
     <script src="js/main.js"></script>
 
     <!-- Revolution Slider -->

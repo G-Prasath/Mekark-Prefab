@@ -6,8 +6,9 @@
 <link rel="canonical" href=" https://www.mekark.com/industrial-enclosures-acoustic-manufacturer"/>
 <title>Industrial Enclosures Acoustic Manufacturer | Mekark Prefab  </title> 
 <meta name="description" content=" Mekark is the best Industrial Enclosures Acoustic manufacturer and supplier offer deliver high quality industrial enclosure solutions."/>
-<meta name="keywords" content=" Industrial Enclosures Acoustic Manufacturer, Industrial Enclosures Acoustic Supplier India, Mekark "/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content=" Industrial Enclosures Acoustic Manufacturer, Industrial Enclosures Acoustic Supplier India, Mekark "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

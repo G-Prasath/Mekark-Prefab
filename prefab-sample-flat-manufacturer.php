@@ -3,11 +3,12 @@
 
 <head>
 <meta charset="utf-8">
-<link rel="canonical" href=" https://www.mekark.com/prefab- site-office-manufacturer"/>
-<title> Prefab Site Office Manufacturer | Mekark </title> 
-<meta name="description" content=" Mekark is best solutions for Prefab Portable Modular site office Manufacturer with PUF insulated panels/Light gauge steel framing in India."/>
-<meta name="keywords" content=" Prefab Site Office Manufacturer, Prefab Site Office Supplier, Prefab Site Office, PUF insulated panels, Light gauge steel framing in India, Mekark"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="canonical" href="https://www.mekark.com/prefab-sample-flat-manufacturer" />
+<title>Prefab Sample Flat Manufacturer India | Mekark</title> 
+<meta name="description" content="Makark is the best prefab sample flat manufacturer and Supplier Company provides wide range in a variety size of sample flat in India."/>
+<meta name="keywords" content="Prefab Flat Homes Manufacturer, Prefab Modular Homes Supplier, Prefab Modular Homes India"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 
@@ -23,13 +24,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row pso">
+          <div class="ttm-page-title-row sample-flat">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Prefabricated Site Office</h1>
+                                    <h1 class="title">Sample Flat</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -40,7 +41,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Prefabricated Site Office</span>
+                                            <span>Sample Flat</span>
                                         </div>
                                     </div>
                                 </div>
@@ -59,117 +60,43 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                             <!-- section title -->
-                             <div class="section-title">
-                                    <div class="title-header">
-                                        <h2 class="h2-bold">Maximizing Efficiency on the Job Site with Prefabricated Site Offices</h2>
-                                    </div>
-                                </div><!-- section title end -->
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Prefab Sample Flat Structures - Fast, Efficient, and Customizable</h2>
+                                </div>
+                            </div><!-- section title end -->
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <p class="service-para">A prefabricated site office is a type of modular building that is designed and manufactured off-site in a factory setting, and then transported to a construction site where it is assembled and installed. These offices are made up of pre-built modules or sections that are constructed using standardized materials and construction methods. prefabricated site offices offer a versatile and cost-effective solution for temporary or permanent office and storage space needs in a variety of settings.</p>
-                                <p class="service-para">Mekark Prefabricated site offices are a popular choice, offering  a number of benefits, such as reduced construction time, cost-effectiveness, and flexibility in design. Our Prefabricated Construction Site office has an extensive range of customizable prefabricated structure systems that offer the ideal result for construction systems that require durable structures that aren't only quick to erect but can also be easily disassembled and dislocated. Our experienced team combines skills and knowledge to design, manufacture, and install structures according to your needs and specifications. </p>
+                                <p class="service-para">Prefab sample flat structures are small, modular buildings that are pre-manufactured in a factory and then transported to a site for assembly. These structures are commonly used as sample flats, which are model apartments or homes that are used to showcase the design and features of a larger housing project.</p>
+                                <p class="service-para">Mekark Prefab is a leading manufacturer and supplier of prefab sample flats, using lightweight, high-strength materials such as steel and aluminum, and are often designed to be energy-efficient and environmentally friendly. Our sample flat structures constructed can be customized to fit specific design requirements, and can be easily transported and assembled on-site, reducing construction time and costs. Prefab sample flat structures provide a cost-effective and efficient way for housing developers to showcase their projects and provide potential buyers with a tangible example of the design and features of their homes.</p>
                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/prefab-site/prefabsite-office-scroll.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/LGSF/sample-flat/lgsfprefab-sampleflat-scrool.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">It can also convert configurations to meet new design conditions. In addition, prefabricated technology and feather light accouterments allow for significantly reduced installation times, providing a faster and more efficient way of erecting construction site offices.</p>
-                            <h2 class="h2-bold">Benefits of Prefab Office Structures </h2>
-                            <p>There are numerous benefits to using prefab office structures, including.</p>
+                            <h2>Exploring the World of Prefab sample flat structures by Mekark</h2>
                             <ul>
-                                <li>Cost-effective a prefab office structure is in general more cost-effective because the pieces are earlier construct using a recurring track in a factory setting</li>
-                                <li>High-quality Prefab construction occurs in an off-site, indoor, climate-controlled factory, ensuring high-quality products. In addition, modular office structures are generally constructed using sword framing for long-term continuity.</li>
-                                <li>Sustainable Prefab office structures can be make use of again and repurposed many times, or the pieces can be deconstructed and recycled.</li>
-                                <li>
-                                Convenient a prefab office structure can be constructed high-speed since there's less to erect from scratch, making it a nearby option with quick turn-around times.
-                                </li>
-                                <li>Adaptability and flexibility they can be altered or uninstalled to fit the customer's space needs. As temporary and semi-permanent, the prefab office structure be able to be by way of no difficulty expanded, shrunk, or relocated according to the organization's space need.</li>
-                                <li>Easy installation Panels can be easily attached and assembled on-site. The installation is done hastily and helps create office spaces for an organization that is already running and needs some extra space quickly. </li>
-                                <li>Quicker deliveries our product process engage standardized panel and binder post systems, which helps in mass production. Panels are manufactured quickly, and the structure can be prefabricated off-site while the design site is prepared. Therefore, systems can be delivered faster and on time.</li>
-                            </ul>
-                            <h2 class="h2-bold">Why to choose Mekak prefabrication site office structures?</h2>
-                            <ul>
-                                <li>Mekak Factory is one the complete turnkey solutions for prefabricated site office offer with low price and high quality materials.</li>
-                                <li>With over 10+ years of industry specific expertise, Our Experience Team are provide Delivery fast; strictly control quality; Strong packing.</li>
-                                <li>The prefab site offices are insulated, resultant in higher energy savings and added comfort in hard setting due to insulation.</li>
-                                <li>Mekark prefabricated site office is Dry construction, quick and easy to raise. All weather-proof construction</li>
-                                <li>Mekark Customer service can connect with you every detail will be confirmed before production.</li>
-                                <li>Mekak team will follow up the entire order and check the products piece by piece to ensure the quality.</li>
-                                <li>Our sales team will keep our clients posted during our transaction until get the well feedback of the goods.</li>
+                                <li>Mekark Prefab sample flats can be customized with LGSF technology, are made from light gauge steel framing that strong and easy to install projects.</li>
+                                <li>Mekark model sample flats in different sizes to enable its customers to use more space.</li>
+                                <li>Mekark Prefab sample flats structure can be designed to be energy-efficient and environmentally friendly, using materials and technologies that reduce energy consumption and carbon emissions. It can be easily transported and assembled on-site, making them a flexible and versatile option for showcasing housing projects in different locations.</li>
+                                <li>Mekark prefab sample flat structures provide a cost-effective, customizable, and sustainable solution for showcasing housing projects and helping potential buyers envision their future homes.</li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </section>
             <!--About welcome-section end-->
-
-            <!-- ----- Applications --------  -->
-            <div class="container pb-5">
-                <div class="row">
-                    <div class="col-md-12">
-                        <!-- section title -->
-                        <div class="section-title">
-                            <div class="title-header">
-                                <h2 class="h2-blod">Applications</h2>
-                            </div>
-                        </div><!-- section title end -->
-                    </div>
-                </div>
-              <main class="grid">
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/Site-Office/Prefabricated-multi-story-building.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Prefabricated multi-story buildings</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/Site-Office/Modular-site-offices-or-Mining-sites.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Modular site offices</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/Site-Office/Construction.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Construction sites </p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/Site-Office/Education.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Educations</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/Site-Office/event-and-festiva.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Events and festivals</p>
-                    </div>
-                </article>
-              </main>
-            </div>
-            <!-- ----- End Applications --------  -->
 
 
             <!--Gallery-section-->
@@ -179,7 +106,7 @@
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold pb-3">Prefabricated Site Office Projects</h2>
+                                <h2 class="h2-bold pb-3">Sample Flat Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -187,7 +114,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/prefab-struct/prefab-site/gallery" . "/*.jpg");
+                        $images = glob("images/products/LGSF/sample-flat/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">
@@ -308,7 +235,6 @@
     <script src="js/jquery.event.move.js"></script>
     <script src="js/jquery.twentytwenty.js"></script>
     <script src="js/circle-progress.min.js"></script>
-    
     <script src="js/main.js"></script>
 
     <!-- Revolution Slider -->
@@ -319,7 +245,6 @@
 
     
        
-
 
 </body>
 </html>

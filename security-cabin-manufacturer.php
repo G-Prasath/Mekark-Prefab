@@ -6,8 +6,9 @@
 <link rel="canonical" href=" https://www.mekark.com/security-cabin-manufacturer"/>
 <title> Security Cabin Manufacturers for Guard India - Mekark  </title> 
 <meta name="description" content=" Mekark is one of the leading Security Guard Cabin, Huts high quality Manufacturers and suppliers in India."/>
-<meta name="keywords" content=" Security Cabin Manufacturers for Guard India, Security Cabin Manufacturers, Security Cabin Manufacturers for Guard "/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content=" Security Cabin Manufacturers for Guard India, Security Cabin Manufacturers, Security Cabin Manufacturers for Guard "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

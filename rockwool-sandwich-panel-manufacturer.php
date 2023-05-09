@@ -6,8 +6,9 @@
 <link rel="canonical" href="https://www.mekark.com/rockwool-sandwich-panel-manufacturer" />
 <title> Rockwool Sandwich Panels Manufacturer | Mekark Prefab </title> 
 <meta name="description" content="Mekark Prefab Rockwool Insulated Sandwich Panels manufacturer company provide high quality materials."/>
-<meta name="keywords" content="Rockwool Sandwich Panels Manufacturer, Rockwool Sandwich Panels, Rockwool Sandwich Panels Supplier"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="Rockwool Sandwich Panels Manufacturer, Rockwool Sandwich Panels, Rockwool Sandwich Panels Supplier"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

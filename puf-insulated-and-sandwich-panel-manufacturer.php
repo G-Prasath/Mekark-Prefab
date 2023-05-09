@@ -6,8 +6,9 @@
 <link rel="canonical" href="https://www.mekark.com/puf-insulated-and-sandwich-panel-manufacturer" />
  <title> PUF Insulated and Sandwich Panels Manufacturer at Mekark </title> 
 <meta name="description" content=" Mekark PUF insulated Panel Manufacturer provide a wide variety of PUF sandwich panels at best price."/>
-<meta name="keywords" content="PUF Insulated and Sandwich Panels Manufacturer, PUF Panels Manufacturer, PUF Sandwich Panels Manufacturer "/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="PUF Insulated and Sandwich Panels Manufacturer, PUF Panels Manufacturer, PUF Sandwich Panels Manufacturer "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

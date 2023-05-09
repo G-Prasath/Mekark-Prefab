@@ -6,8 +6,9 @@
 <link rel="canonical" href="https://www.mekark.com/mi-homes-manufacturer" />
 <title>MI Homes Manufacturer | Mekark Prefab</title> 
 <meta name="description" content="Mekark is the highest Mi Houses Manufacturer in India, delivered Small to Medium size clinics, School buildings and Corporate Offices."/>
-<meta name="keywords" content="MI Homes Manufacturer, Small to Medium size clinics Manufacturer, School buildings and Corporate Offices Manufacturer"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="MI Homes Manufacturer, Small to Medium size clinics Manufacturer, School buildings and Corporate Offices Manufacturer"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 <title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>

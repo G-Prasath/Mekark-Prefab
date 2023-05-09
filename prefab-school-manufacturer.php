@@ -7,8 +7,9 @@
 <link rel="canonical" href="https://www.mekark.com/prefab-school-manufacturer" />
 <title> Prefab School Manufacturer, Supplier | Mekark Prefab </title> 
 <meta name="description" content="Mekark is top leading supplier and manufacturers for prefabricated Residential home, hospitals, clinic and School in India."/>
-<meta name="keywords" content="Prefab School Manufacturer, Prefabricated School Supplier, Prefabricated Clinic Manufacturer, Prefabricated Hospital Manufacturer "/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="Prefab School Manufacturer, Prefabricated School Supplier, Prefabricated Clinic Manufacturer, Prefabricated Hospital Manufacturer "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

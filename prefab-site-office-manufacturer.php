@@ -3,11 +3,12 @@
 
 <head>
 <meta charset="utf-8">
-<link rel="canonical" href=" https://www.mekark.com/prefabricated- site-infrastructure-manufacturer"/>
-<title> Prefabricated Site Infrastructure Manufacturer | Mekark </title> 
-<meta name="description" content=" Mekark being the top prefabricated site infrastructure manufacturer in India, offering Prefab building with best rates."/>
-<meta name="keywords" content=" Prefabricated Site Infrastructure Manufacturer, Prefabricated Site Infrastructure Supplier, Prefabricated Site Infrastructure"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="canonical" href=" https://www.mekark.com/prefab-site-office-manufacturer"/>
+<title> Prefab Site Office Manufacturer | Mekark </title> 
+<meta name="description" content=" Mekark is best solutions for Prefab Portable Modular site office Manufacturer with PUF insulated panels/Light gauge steel framing in India."/>
+<meta name="keywords" content=" Prefab Site Office Manufacturer, Prefab Site Office Supplier, Prefab Site Office, PUF insulated panels, Light gauge steel framing in India, Mekark"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 
@@ -23,13 +24,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row psi">
+          <div class="ttm-page-title-row pso">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Prefabricated Site Infrastructure</h1>
+                                    <h1 class="title">Prefabricated Site Office</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -40,7 +41,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Prefabricated Site Infrastructure</span>
+                                            <span>Prefabricated Site Office</span>
                                         </div>
                                     </div>
                                 </div>
@@ -61,45 +62,58 @@
                         <div class="col-md-12">
                              <!-- section title -->
                              <div class="section-title">
-                                <div class="title-header">
-                                    <h2 class="h2-blod">Smart Solution for your Commercial Projects</h2>
-                                </div>
-                            </div><!-- section title end -->
+                                    <div class="title-header">
+                                        <h2 class="h2-bold">Maximizing Efficiency on the Job Site with Prefabricated Site Offices</h2>
+                                    </div>
+                                </div><!-- section title end -->
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <p class="service-para">
-                                Prefabricated site infrastructure, also known as modular infrastructure, refers to the use of pre-engineered and pre-manufactured components that are assembled on-site to create infrastructure such as offices, bridges, and other structures. Prefab site infrastructure refers to the components and systems that are installed on a construction site to support the assembly and installation of prefabricated buildings. This includes the temporary infrastructure necessary for the transportation, staging, and assembly of prefabricated building components, as well as the permanent infrastructure required to support the completed building.
-                                </p>
-                                <p class="service-para">Mekark Prefab is the top prefabricated manufacturer provides a wide range of components covered in PUF protected panels/EPS insulated panels with Light gauge steel framework (LGSF) framework.Our Professional Team can help to streamline the construction process and reduce costs and construction time.</p>
+                                <p class="service-para">A prefabricated site office is a type of modular building that is designed and manufactured off-site in a factory setting, and then transported to a construction site where it is assembled and installed. These offices are made up of pre-built modules or sections that are constructed using standardized materials and construction methods. prefabricated site offices offer a versatile and cost-effective solution for temporary or permanent office and storage space needs in a variety of settings.</p>
+                                <p class="service-para">Mekark Prefabricated site offices are a popular choice, offering  a number of benefits, such as reduced construction time, cost-effectiveness, and flexibility in design. Our Prefabricated Construction Site office has an extensive range of customizable prefabricated structure systems that offer the ideal result for construction systems that require durable structures that aren't only quick to erect but can also be easily disassembled and dislocated. Our experienced team combines skills and knowledge to design, manufacture, and install structures according to your needs and specifications. </p>
+                               
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/prefab-site-infra/prefabsite-structures-scroll.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/prefab-site/prefabsite-office-scroll.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <p class="service-para">Our site infrastructure solutions that can be implemented to support construction projects include temporary modular buildings, offices, security cabins, prefabricated toilets and site security system. We are provide less time and cost savings, improved quality control, reduced waste, and greater flexibility.</p>
-                            <h2 class="h2-bold">Why Choose EPACK Prefabricated Site Infrastructure?</h2>
+                            <p class="service-para">It can also convert configurations to meet new design conditions. In addition, prefabricated technology and feather light accouterments allow for significantly reduced installation times, providing a faster and more efficient way of erecting construction site offices.</p>
+                            <h2 class="h2-bold">Benefits of Prefab Office Structures </h2>
+                            <p>There are numerous benefits to using prefab office structures, including.</p>
                             <ul>
-                                <li>Mekark Prefab site infrastructure can be assembled much more quickly than traditional site-built infrastructure. The pre-manufactured components are produced off-site in a controlled environment, which minimizes the time required for on-site construction. This can significantly reduce construction time and save money on labor costs.</li>
-                                <li>Our Prefabricated components are manufactured in a controlled environment using standardized processes and materials, which ensures consistent quality. This can lead to fewer defects and errors in construction, resulting in a higher-quality finished product.</li>
-                                <li>We offer lower cost than traditional site-built infrastructure due to economies of scale and reduced labor costs. This can result in significant cost savings for the project owner.</li>
-                                <li>Prefabricated components are produced in a factory setting, which minimizes waste and reduces the environmental impact of construction. This can help reduce the carbon footprint of the construction process.</li>
-                                <li>Prefabricated site infrastructure is highly adaptable and can be easily reconfigured or expanded as needed. This makes it an ideal choice for projects that require a high degree of flexibility, such as temporary structures or buildings that need to be reconfigured frequently.</li>
+                                <li>Cost-effective a prefab office structure is in general more cost-effective because the pieces are earlier construct using a recurring track in a factory setting</li>
+                                <li>High-quality Prefab construction occurs in an off-site, indoor, climate-controlled factory, ensuring high-quality products. In addition, modular office structures are generally constructed using sword framing for long-term continuity.</li>
+                                <li>Sustainable Prefab office structures can be make use of again and repurposed many times, or the pieces can be deconstructed and recycled.</li>
+                                <li>
+                                Convenient a prefab office structure can be constructed high-speed since there's less to erect from scratch, making it a nearby option with quick turn-around times.
+                                </li>
+                                <li>Adaptability and flexibility they can be altered or uninstalled to fit the customer's space needs. As temporary and semi-permanent, the prefab office structure be able to be by way of no difficulty expanded, shrunk, or relocated according to the organization's space need.</li>
+                                <li>Easy installation Panels can be easily attached and assembled on-site. The installation is done hastily and helps create office spaces for an organization that is already running and needs some extra space quickly. </li>
+                                <li>Quicker deliveries our product process engage standardized panel and binder post systems, which helps in mass production. Panels are manufactured quickly, and the structure can be prefabricated off-site while the design site is prepared. Therefore, systems can be delivered faster and on time.</li>
+                            </ul>
+                            <h2 class="h2-bold">Why to choose Mekak prefabrication site office structures?</h2>
+                            <ul>
+                                <li>Mekak Factory is one the complete turnkey solutions for prefabricated site office offer with low price and high quality materials.</li>
+                                <li>With over 10+ years of industry specific expertise, Our Experience Team are provide Delivery fast; strictly control quality; Strong packing.</li>
+                                <li>The prefab site offices are insulated, resultant in higher energy savings and added comfort in hard setting due to insulation.</li>
+                                <li>Mekark prefabricated site office is Dry construction, quick and easy to raise. All weather-proof construction</li>
+                                <li>Mekark Customer service can connect with you every detail will be confirmed before production.</li>
+                                <li>Mekak team will follow up the entire order and check the products piece by piece to ensure the quality.</li>
+                                <li>Our sales team will keep our clients posted during our transaction until get the well feedback of the goods.</li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </section>
             <!--About welcome-section end-->
-
 
             <!-- ----- Applications --------  -->
             <div class="container pb-5">
@@ -116,15 +130,15 @@
               <main class="grid">
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-infra-structure/accomodation.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Site-Office/Prefabricated-multi-story-building.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Prefab Labour accomodation</p>
+                      <p>Prefabricated multi-story buildings</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-infra-structure/modular-site-offices.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Site-Office/Modular-site-offices-or-Mining-sites.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
                       <p>Modular site offices</p>
@@ -132,73 +146,41 @@
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-infra-structure/Prefab-site-equipment-housing.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Site-Office/Construction.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Prefab site equipment housing</p>
+                      <p>Construction sites </p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-infra-structure/Prefab-sales-office.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Site-Office/Education.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Prefab sales office</p>
+                      <p>Educations</p>
                     </div>
                 </article>
                 <article>
                     <div class="cart-img">
-                        <img src="images/icons/Prefab-infra-structure/Construction-site-office-cabins.png" class="img-fluid" alt="Sample photo">
+                        <img src="images/icons/Site-Office/event-and-festiva.png" class="img-fluid" alt="Sample photo">
                     </div>
                     <div class="text">
-                      <p>Construction site office cabins</p>
+                      <p>Events and festivals</p>
                     </div>
                 </article>
-
-                <!-- <article>
-                    <div class="cart-img">
-                        <img src="images/icons/Prefab-infra-structure/summa.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Temporary office cabins for events</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/Prefab-infra-structure/summa.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Marketing offices</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="cart-img">
-                        <img src="images/icons/Prefab-infra-structure/summa.png" class="img-fluid" alt="Sample photo">
-                    </div>
-                    <div class="text">
-                      <p>Prefabricated construction site canteens</p>
-                    </div>
-                </article> -->
               </main>
-              
-                
-            
-              
             </div>
             <!-- ----- End Applications --------  -->
 
 
-
-
-
             <!--Gallery-section-->
-            <div class="container pt-4">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-blod pb-3">Prefabricated Site Infrastructure Projects</h2>
+                                <h2 class="h2-bold pb-3">Prefabricated Site Office Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -206,7 +188,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/prefab-struct/prefab-site-infra/gallery" . "/*.jpg");
+                        $images = glob("images/products/prefab-struct/prefab-site/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">
@@ -318,7 +300,7 @@
     <script src="js/bootstrap.min.js"></script> 
     <script src="js/jquery.easing.js"></script>    
     <script src="js/jquery-waypoints.js"></script>    
-    <script src="js/jquery-validate.js"></script> 
+   <script src="js/jquery-validate.js"></script> 
     <script src="js/jquery.prettyPhoto.js"></script>
     <script src="js/slick.min.js"></script>
     <script src="js/numinate.min.js"></script>
@@ -326,7 +308,8 @@
     <script src="js/jquery-isotope.js"></script>
     <script src="js/jquery.event.move.js"></script>
     <script src="js/jquery.twentytwenty.js"></script>
-    <script src="js/circle-progress.min.js"></script>    
+    <script src="js/circle-progress.min.js"></script>
+    
     <script src="js/main.js"></script>
 
     <!-- Revolution Slider -->
@@ -337,6 +320,7 @@
 
     
        
+
 
 </body>
 </html>

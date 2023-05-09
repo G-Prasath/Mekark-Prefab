@@ -6,8 +6,9 @@
 <link rel="canonical" href="https://www.mekark.com/portable-cabin-manufacturer" />
 <title>Portable Cabin Manufacturer, Supplier | Mekark Prefab</title> 
 <meta name="description" content="Best Portable Cabin Manufacturer by Mekark offers wide a variety of Prefabricated Portable Cabin and Portable Container Houses."/>
-<meta name="keywords" content="Portable Cabin Manufacturer, Portable Cabin Supplier, Portable Cabin Manufacturer, Supplier India"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="Portable Cabin Manufacturer, Portable Cabin Supplier, Portable Cabin Manufacturer, Supplier India"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

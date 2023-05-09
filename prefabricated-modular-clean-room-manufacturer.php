@@ -6,8 +6,9 @@
 <link rel="canonical" href="https://www.mekark.com/prefabricated-modular-clean-room-manufacturer"/>
 <title> Prefabricated Modular Clean Room Manufacturer | Mekark  </title> 
 <meta name="description" content=" Mekark is the top leading Prefabricated Modular Clean Room manufacturer for pharmaceutical and cold rooms with high quality."/>
-<meta name="keywords" content=" Prefabricated Modular Clean Room Manufacturer, Modular Clean Room Manufacturer, Modular Clean Room Manufacturer "/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content=" Prefabricated Modular Clean Room Manufacturer, Modular Clean Room Manufacturer, Modular Clean Room Manufacturer "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

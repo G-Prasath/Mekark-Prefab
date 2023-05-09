@@ -6,8 +6,9 @@
 <link rel="canonical" href=" https://www.mekark.com/peb-manufacturer-india"/>
 <title> PEB Manufacturers Company India | PEB Suppliers India - Mekark </title> 
 <meta name="description" content=" Mekark Prefab provides a wide range of PEB, Pre-Engineered Metal Buildings, and Pre-Engineered Steel Buildings Manufacturer and Suppliers in India."/>
-<meta name="keywords" content=" PEB Manufacturers India, PEB Suppliers India, Pre-Engineered Metal Buildings Manufacturers, Pre-Engineered Steel Buildings Manufacturer India "/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content=" PEB Manufacturers India, PEB Suppliers India, Pre-Engineered Metal Buildings Manufacturers, Pre-Engineered Steel Buildings Manufacturer India "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

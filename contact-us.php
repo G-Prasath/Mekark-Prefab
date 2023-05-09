@@ -7,8 +7,9 @@
 <link rel="canonical" href="https://www.mekark.com/contact-us"/>
 <title>Mekark Prefabricated Structure Contact us</title> 
 <meta name="description" content="ADDRESS"/>
-<meta name="keywords" content="Mekark Prefabricated Strcuture Contact us, Prefabricated Building Manufacturer, Prefabricated Building Supplier, Prefabricated Buildings" />
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="Mekark Prefabricated Strcuture Contact us, Prefabricated Building Manufacturer, Prefabricated Building Supplier, Prefabricated Buildings" /><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

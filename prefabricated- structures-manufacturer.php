@@ -7,8 +7,9 @@
 <link rel="canonical" href="https://www.mekark.com/prefabricated- structures-manufacturer"/>
 <title> Prefabricated Structure Manufacturer Company India </title> 
 <meta name="description" content=" Mekark is one of the best prefabricated building structure supplier company in India, offering for prefab commercial and steel buildings."/>
-<meta name="keywords" content=" Prefabricated Structure Manufacturer, Prefabricated Structure Manufacturer, Prefabricated Building Structure Manufacturer Company"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content=" Prefabricated Structure Manufacturer, Prefabricated Structure Manufacturer, Prefabricated Building Structure Manufacturer Company"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 <?php include_once 'templates/head.php'?>
 
 

@@ -6,8 +6,9 @@
 <link rel="canonical" href="https://www.mekark.com/glass-wool-sandwich-panel-manufacturer" />
 <title> Glass Wool Sandwich Panels Manufacturer | Mekark Prefab </title> 
 <meta name="description" content="Mekark Prefab Glass Wool Insulated Sandwich Panels manufacturer India, offer high quality materials with in-house capability."/>
-<meta name="keywords" content="Glass Wool Sandwich Panels Manufacturer, Glass Wool Sandwich Panels, Glass Wool Sandwich Panels Supplier"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="Glass Wool Sandwich Panels Manufacturer, Glass Wool Sandwich Panels, Glass Wool Sandwich Panels Supplier"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 <title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>

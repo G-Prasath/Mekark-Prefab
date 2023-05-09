@@ -3,11 +3,12 @@
 
 <head>
 <meta charset="utf-8">
-<link rel="canonical" href="https://www.mekark.com/prefab-flat-manufacturer" />
-<title>Prefab Sample Flat Manufacturer India | Mekark</title> 
-<meta name="description" content="Makark is the best prefab sample flat manufacturer and Supplier Company provides wide range in a variety size of sample flat in India."/>
-<meta name="keywords" content="Prefab Flat Homes Manufacturer, Prefab Modular Homes Supplier, Prefab Modular Homes India"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="canonical" href=" https://www.mekark.com/prefabricated-site-infrastructure-manufacturer"/>
+<title> Prefabricated Site Infrastructure Manufacturer | Mekark </title> 
+<meta name="description" content=" Mekark being the top prefabricated site infrastructure manufacturer in India, offering Prefab building with best rates."/>
+<meta name="keywords" content=" Prefabricated Site Infrastructure Manufacturer, Prefabricated Site Infrastructure Supplier, Prefabricated Site Infrastructure"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 
@@ -23,13 +24,13 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row sample-flat">
+          <div class="ttm-page-title-row psi">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">Sample Flat</h1>
+                                    <h1 class="title">Prefabricated Site Infrastructure</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">
@@ -40,7 +41,7 @@
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
-                                            <span>Sample Flat</span>
+                                            <span>Prefabricated Site Infrastructure</span>
                                         </div>
                                     </div>
                                 </div>
@@ -59,10 +60,10 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <!-- section title -->
-                            <div class="section-title">
+                             <!-- section title -->
+                             <div class="section-title">
                                 <div class="title-header">
-                                    <h2 class="h2-bold">Prefab Sample Flat Structures - Fast, Efficient, and Customizable</h2>
+                                    <h2 class="h2-blod">Smart Solution for your Commercial Projects</h2>
                                 </div>
                             </div><!-- section title end -->
                         </div>
@@ -70,26 +71,29 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="res-991-pt-0">
-                                <p class="service-para">Prefab sample flat structures are small, modular buildings that are pre-manufactured in a factory and then transported to a site for assembly. These structures are commonly used as sample flats, which are model apartments or homes that are used to showcase the design and features of a larger housing project.</p>
-                                <p class="service-para">Mekark Prefab is a leading manufacturer and supplier of prefab sample flats, using lightweight, high-strength materials such as steel and aluminum, and are often designed to be energy-efficient and environmentally friendly. Our sample flat structures constructed can be customized to fit specific design requirements, and can be easily transported and assembled on-site, reducing construction time and costs. Prefab sample flat structures provide a cost-effective and efficient way for housing developers to showcase their projects and provide potential buyers with a tangible example of the design and features of their homes.</p>
-                               
+                                <p class="service-para">
+                                Prefabricated site infrastructure, also known as modular infrastructure, refers to the use of pre-engineered and pre-manufactured components that are assembled on-site to create infrastructure such as offices, bridges, and other structures. Prefab site infrastructure refers to the components and systems that are installed on a construction site to support the assembly and installation of prefabricated buildings. This includes the temporary infrastructure necessary for the transportation, staging, and assembly of prefabricated building components, as well as the permanent infrastructure required to support the completed building.
+                                </p>
+                                <p class="service-para">Mekark Prefab is the top prefabricated manufacturer provides a wide range of components covered in PUF protected panels/EPS insulated panels with Light gauge steel framework (LGSF) framework.Our Professional Team can help to streamline the construction process and reduce costs and construction time.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">
                             <!-- ttm_single_image-wrapper -->
                             <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/products/LGSF/sample-flat/lgsfprefab-sampleflat-scrool.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/products/prefab-struct/prefab-site-infra/prefabsite-structures-scroll.jpg" alt="single_02">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <h2>Exploring the World of Prefab sample flat structures by Mekark</h2>
+                            <p class="service-para">Our site infrastructure solutions that can be implemented to support construction projects include temporary modular buildings, offices, security cabins, prefabricated toilets and site security system. We are provide less time and cost savings, improved quality control, reduced waste, and greater flexibility.</p>
+                            <h2 class="h2-bold">Why Choose EPACK Prefabricated Site Infrastructure?</h2>
                             <ul>
-                                <li>Mekark Prefab sample flats can be customized with LGSF technology, are made from light gauge steel framing that strong and easy to install projects.</li>
-                                <li>Mekark model sample flats in different sizes to enable its customers to use more space.</li>
-                                <li>Mekark Prefab sample flats structure can be designed to be energy-efficient and environmentally friendly, using materials and technologies that reduce energy consumption and carbon emissions. It can be easily transported and assembled on-site, making them a flexible and versatile option for showcasing housing projects in different locations.</li>
-                                <li>Mekark prefab sample flat structures provide a cost-effective, customizable, and sustainable solution for showcasing housing projects and helping potential buyers envision their future homes.</li>
+                                <li>Mekark Prefab site infrastructure can be assembled much more quickly than traditional site-built infrastructure. The pre-manufactured components are produced off-site in a controlled environment, which minimizes the time required for on-site construction. This can significantly reduce construction time and save money on labor costs.</li>
+                                <li>Our Prefabricated components are manufactured in a controlled environment using standardized processes and materials, which ensures consistent quality. This can lead to fewer defects and errors in construction, resulting in a higher-quality finished product.</li>
+                                <li>We offer lower cost than traditional site-built infrastructure due to economies of scale and reduced labor costs. This can result in significant cost savings for the project owner.</li>
+                                <li>Prefabricated components are produced in a factory setting, which minimizes waste and reduces the environmental impact of construction. This can help reduce the carbon footprint of the construction process.</li>
+                                <li>Prefabricated site infrastructure is highly adaptable and can be easily reconfigured or expanded as needed. This makes it an ideal choice for projects that require a high degree of flexibility, such as temporary structures or buildings that need to be reconfigured frequently.</li>
                             </ul>
                         </div>
                     </div>
@@ -98,14 +102,104 @@
             <!--About welcome-section end-->
 
 
+            <!-- ----- Applications --------  -->
+            <div class="container pb-5">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title">
+                            <div class="title-header">
+                                <h2 class="h2-blod">Applications</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+              <main class="grid">
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/accomodation.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefab Labour accomodation</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/modular-site-offices.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Modular site offices</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/Prefab-site-equipment-housing.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefab site equipment housing</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/Prefab-sales-office.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefab sales office</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/Construction-site-office-cabins.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Construction site office cabins</p>
+                    </div>
+                </article>
+
+                <!-- <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/summa.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Temporary office cabins for events</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/summa.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Marketing offices</p>
+                    </div>
+                </article>
+                <article>
+                    <div class="cart-img">
+                        <img src="images/icons/Prefab-infra-structure/summa.png" class="img-fluid" alt="Sample photo">
+                    </div>
+                    <div class="text">
+                      <p>Prefabricated construction site canteens</p>
+                    </div>
+                </article> -->
+              </main>
+              
+                
+            
+              
+            </div>
+            <!-- ----- End Applications --------  -->
+
+
+
+
+
             <!--Gallery-section-->
-            <div class="container">
+            <div class="container pt-4">
                 <div class="row">
                     <div class="col-md-12">
                         <!-- section title -->
                         <div class="section-title">
                             <div class="text-center">
-                                <h2 class="h2-bold pb-3">Sample Flat Projects</h2>
+                                <h2 class="h2-blod pb-3">Prefabricated Site Infrastructure Projects</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -113,7 +207,7 @@
                 <div class="row">
                     <?php
                         
-                        $images = glob("images/products/LGSF/sample-flat/gallery" . "/*.jpg");
+                        $images = glob("images/products/prefab-struct/prefab-site-infra/gallery" . "/*.jpg");
                         foreach($images as $image)
                         {?>
                             <div class="col-md-4">
@@ -225,7 +319,7 @@
     <script src="js/bootstrap.min.js"></script> 
     <script src="js/jquery.easing.js"></script>    
     <script src="js/jquery-waypoints.js"></script>    
-   <script src="js/jquery-validate.js"></script> 
+    <script src="js/jquery-validate.js"></script> 
     <script src="js/jquery.prettyPhoto.js"></script>
     <script src="js/slick.min.js"></script>
     <script src="js/numinate.min.js"></script>
@@ -233,7 +327,7 @@
     <script src="js/jquery-isotope.js"></script>
     <script src="js/jquery.event.move.js"></script>
     <script src="js/jquery.twentytwenty.js"></script>
-    <script src="js/circle-progress.min.js"></script>
+    <script src="js/circle-progress.min.js"></script>    
     <script src="js/main.js"></script>
 
     <!-- Revolution Slider -->

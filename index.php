@@ -5,8 +5,10 @@
 <link rel="canonical" href="https://www.mekark.com "/>
 <title> Prefabricated Building Manufacturer | Mekark </title> 
 <meta name="description" content="Mekark is the leading manufacturer and supplier of pre-engineered and prefabricated buildings. Contact us -97909 24754."/>
-<meta name="keywords" content=" Prefabricated Building Manufacturer, Prefabricated Building Supplier, Prefabricated Buildings "/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content=" Prefabricated Building Manufacturer, Prefabricated Building Supplier, Prefabricated Buildings "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
+<link rel="shortcut icon" href="images/favicon.png" >
 
 <?php include_once 'templates/head.php'?>
 </head>
@@ -22,7 +24,7 @@
 
         <!-- ---- body-cnt ----- -->
         <div class="ttm-rev_slider-wide">
-            <!-- START homemainclassicslider REVOLUTION SLIDER 6.1.8 -->
+           
             <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery">
 
                 <rs-module id="rev_slider_1_1" style="display:none;" data-version="6.1.8">
@@ -474,14 +476,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="prefabricated- site-infrastructure-manufacturer">Prefabricated Site Infrastructure</a></h3>
+                                            <h3><a href="prefabricated-site-infrastructure-manufacturer">Prefabricated Site Infrastructure</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefabricated- site-infrastructure-manufacturer">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefabricated-site-infrastructure-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -496,14 +498,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="prefab- site-office-manufacturer">Prefabricated Site Office</a></h3>
+                                            <h3><a href="prefab-site-office-manufacturer">Prefabricated Site Office</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab- site-office-manufacturer">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab-site-office-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -703,14 +705,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="prefabricated- poultry-shed-manufacturer">Poultry Shed</a></h3>
+                                            <h3><a href="prefabricated-poultry-shed-manufacturer">Poultry Shed</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefabricated- poultry-shed-manufacturer">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefabricated-poultry-shed-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -773,14 +775,14 @@
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
                                         <div class="featured-title">
-                                            <h3><a href="prefab-flat-manufacturer">Sample Flat</a></h3>
+                                            <h3><a href="prefab-sample-flat-manufacturer">Sample Flat</a></h3>
                                         </div>
                                         <div class="featured-desc">
                                             <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab-flat-manufacturer">Read More<i class="ti ti-plus"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab-sample-flat-manufacturer">Read More<i class="ti ti-plus"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -1330,54 +1332,7 @@
                         </div>
                         <div class="col-lg-6">
                             
-                            <!-- <div class="col-bg-img-eleven ttm-bg ttm-col-bgimage-yes ttm-bgcolor-grey box-shadow spacing-19">
-                                <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
-                                <div class="layer-content">
-                                    <h3 class="text-center font-size-24">Book Online Appointment</h3>
-                                    <div class="padding_top30">
-                                        <form id="page_form_1" class="page_form_1 wrap-form clearfix" method="post" novalidate="novalidate" action="#">
-                                            <div class="row ttm-boxes-spacing-30px">
-                                                <div class="ttm-box-col-wrapper col-md-6">
-                                                    <label>
-                                                        <i class="fa fa-user"></i>
-                                                        <span class="text-input"><input name="name" type="text" value="" placeholder="Enter Name" required="required"></span>
-                                                    </label>
-                                                </div>
-                                                <div class="ttm-box-col-wrapper col-md-6">
-                                                    <label>
-                                                        <i class="fa fa-envelope"></i>
-                                                        <span class="text-input"><input name="address" type="text" value="" placeholder="Emails" required="required"></span>
-                                                    </label>
-                                                </div>
-                                                <div class="ttm-box-col-wrapper col-md-6">
-                                                    <label>
-                                                        <i class="fa fa-phone"></i>
-                                                        <span class="text-input"><input name="phone" type="text" value="" placeholder="Phone Number" required="required"></span>
-                                                    </label>
-                                                </div>
-                                                <div class="ttm-box-col-wrapper col-md-6">
-                                                    <label>
-                                                        <i class="fa fa-calendar"></i>
-                                                        <span class="text-input"><input name="calendar" type="text" value="" placeholder="dd-mm-yy" required="required"></span>
-                                                    </label>
-                                                </div>
-                                                <div class="ttm-box-col-wrapper col-md-12">
-                                                    <label>
-                                                        <span class="text-input"><input type="text" value="" placeholder="Types Of Services" required="required"></span>
-                                                    </label>
-                                                </div>
-                                                <div class="ttm-box-col-wrapper col-lg-12">
-                                                    <p class="cookies">
-                                                        <input id="cookies-consent" name="cookies-consent" type="checkbox" value="yes">
-                                                        <label for="cookies-consent"> It would be great to hear from you! If you got any questions.</label>
-                                                    </p>
-                                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-round ttm-btn-style-fill ttm-icon-btn-right ttm-btn-color-skincolor w-100 text-center" href="#" tabindex="0">Make A Appiontment</a>
-                                                </div>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div> -->
+                            
                             <iframe width="100" height="500" style="border-left:5px solid #fff" src="https://www.youtube.com/embed/ychdAPBGvQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
                     </div>

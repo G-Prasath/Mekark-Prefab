@@ -7,8 +7,9 @@
 <meta name="keywords" content="HTML5 Template" >
 <meta name="description" content="Inoterior - Architecture HTML Template" >
 <meta name="keywords" content="interior service wordpress theme, Architecture & Interior Designer Html5 Template, Architecture & Interior Designer, wordpress theme, premium wordpress theme, responsive wordpress theme, decoration theme, wordpress, themeforest, envato, interior design, interior designers, interior designer websites, interior, interior decorator services, decorators wordpress theme, unlimited colors available, ui/ux, ui/ix designs, best wordpress theme, html template, html, javascript, best css theme, css3, elementor theme, latest premium themes">
-<meta name="author" content="https://www.themetechmount.com/" >
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="author" content="https://www.themetechmount.com/" ><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 <title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>
@@ -329,43 +330,7 @@
                                     </div>
                                 </div>
                             </aside>
-                            <!-- <aside class="widget widget-archive">
-                                <h3 class="widget-title">Gallery</h3>
-                                <div id="gallery-1" class="gallery-wrapper">
-                                    <figure class="gallery-item">
-                                        <div class="gallery-icon landscape">
-                                            <a class="ttm_prettyphoto" href="images/portfolio/project-1-1200x800.jpg" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img width="150" height="150" class="img-fluid" src="images/portfolio/project-1-150x150.jpg" alt="gellary_img"></a>
-                                        </div>
-                                    </figure>
-                                    <figure class="gallery-item">
-                                        <div class="gallery-icon landscape">
-                                            <a class="ttm_prettyphoto" href="images/portfolio/project-2-1200x800.jpg" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img width="150" height="150" class="img-fluid" src="images/portfolio/project-2-150x150.jpg" alt="gellary_img"></a>
-                                        </div>
-                                    </figure>
-                                    <figure class="gallery-item">
-                                        <div class="gallery-icon landscape">
-                                            <a class="ttm_prettyphoto" href="images/portfolio/project-3-1200x800.jpg" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto"><img width="150" height="150" class="img-fluid" src="images/portfolio/project-3-150x150.jpg" alt="gellary_img"></a>
-                                        </div>
-                                    </figure>
-                                    <figure class="gallery-item">
-                                        <div class="gallery-icon landscape">
-                                            <a class="ttm_prettyphoto" href="images/portfolio/project-4-1200x800.jpg" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto"><img width="150" height="150" class="img-fluid" src="images/portfolio/project-4-150x150.jpg" alt="gellary_img"></a>
-                                        </div>
-                                    </figure>
-                                    <figure class="gallery-item">
-                                        <div class="gallery-icon landscape">
-                                            <a class="ttm_prettyphoto" href="images/portfolio/project-5-1200x800.jpg" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto"><img width="150" height="150" class="img-fluid" src="images/portfolio/project-5-150x150.jpg" alt="gellary_img"></a>
-                                        </div>
-                                    </figure>
-                                    <figure class="gallery-item">
-                                        <div class="gallery-icon landscape">
-                                            <a class="ttm_prettyphoto" href="images/portfolio/project-6-1200x800.jpg" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto"><img width="150" height="150" class="img-fluid" src="images/portfolio/project-6-150x150.jpg" alt="gellary_img"></a>
-                                        </div>
-                                    </figure>
-                                </div>
-                            </aside> -->
+                           
                         </div>
                     </div><!-- row end -->
                 </div>

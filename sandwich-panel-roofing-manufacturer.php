@@ -6,8 +6,9 @@
 <link rel="canonical" href="https://www.mekark.com/sandwich-panel-roofing-manufacturer" />
 <title> Sandwich Panel Roofing Manufacturer India | Mekark</title> 
 <meta name="description" content=" Mekark prefab sandwich Panels manufacturer provide premium solution for sandwich panel roof and wall."/>
-<meta name="keywords" content=" Sandwich Panel Roofing Manufacturers, Sandwich Panel Roofing Wall, Sandwich Panel Roofing"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content=" Sandwich Panel Roofing Manufacturers, Sandwich Panel Roofing Wall, Sandwich Panel Roofing"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

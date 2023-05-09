@@ -6,8 +6,9 @@
 <link rel="canonical" href=" https://www.mekark.com/railway-telecom-shelter-manufacturer"/>
 <title> Prefabricated Railway Shelter Manufacturer | Telecom Shelters Manufacturer </title> 
 <meta name="description" content=" Mekark is the top railway shelters and telecom shelters manufacturer provides completely solutions as per client requirements."/>
-<meta name="keywords" content=" Prefabricated Railway Shelter Manufacturer, Telecom Shelters Manufacturer, Prefabricated Railway Shelter Supplier, Telecom Shelters Supplier "/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content=" Prefabricated Railway Shelter Manufacturer, Telecom Shelters Manufacturer, Prefabricated Railway Shelter Supplier, Telecom Shelters Supplier "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

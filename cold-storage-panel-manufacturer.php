@@ -6,8 +6,9 @@
 <link rel="canonical" href="https://www.mekark.com/cold-storage-panel-manufacturer"/>
 <title>Cold Storage Panel Manufacturers Supplier India </title> 
 <meta name="description" content="Mekark deliver manufacturing and supplier of Cold Storage, Rooms, and Freezer Room. Contact us today."/>
-<meta name="keywords" content=" Cold Storage Panel Manufacturers Supplier India, Cold Storage Panel Manufacturers India , Cold Storage Panel Manufacturers Supplier"/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content=" Cold Storage Panel Manufacturers Supplier India, Cold Storage Panel Manufacturers India , Cold Storage Panel Manufacturers Supplier"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 <title>Inoterior - Architecture Html for Interior Designer</title>
 
 <?php include_once 'templates/head.php'?>

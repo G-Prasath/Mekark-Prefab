@@ -6,8 +6,9 @@
 <link rel="canonical" href=" https://www.mekark.com/ripening-chambers-manufacturer"/>
 <title> Fruits Ripening Chambers Manufacturer | Mekark </title> 
 <meta name="description" content=" Mekark is a leading manufacturer and supplier of Fruits Ripening Chambers, offering Pre-cooling rooms, Ethylene generators and Controlled atmosphere ripening chambers."/>
-<meta name="keywords" content=" Fruits Ripening Chambers Manufacturer, Fruits Ripening Chambers Supplier, Fruits Ripening Chambers "/>
-<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content=" Fruits Ripening Chambers Manufacturer, Fruits Ripening Chambers Supplier, Fruits Ripening Chambers "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
+
 
 <?php include_once 'templates/head.php'?>
 

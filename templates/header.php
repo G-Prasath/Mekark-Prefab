@@ -79,9 +79,9 @@
                                                         <li class="mega-menu-item">
                                                             <a href="prefabricated- structures-manufacturer" class="mega-menu-link">Prefabricated Structures</a>
                                                             <ul class="mega-submenu">
-                                                                <li><a href="prefabricated- site-infrastructure-manufacturer">Prefabricated Site Infrastructure</a></li>
-                                                                <li><a href="prefab- site-office-manufacturer">Prefab Site Office</a></li>
-                                                                <li><a href="prefab-site-office-manufacturer">Labour Hutment</a></li>
+                                                                <li><a href="prefabricated-site-infrastructure-manufacturer">Prefabricated Site Infrastructure</a></li>
+                                                                <li><a href="prefab-site-office-manufacturer">Prefab Site Office</a></li>
+                                                                <li><a href="prefabricated-labour-hutment-manufacturer">Labour Hutment</a></li>
                                                                 <li><a href="railway-telecom-shelter-manufacturer">Railway Shelters</a></li>
                                                                 <li><a href="prefabricated-control-pulpits-manufacturer">Control Room</a></li>
                                                                 <li><a href="ripening-chambers-manufacturer">Ripening Chambers</a></li>
@@ -89,7 +89,7 @@
                                                                 <li><a href="security-cabin-manufacturer">Security Cabin</a></li>
                                                                 <li><a href="prefabricated-toilet-manufacturer">Prefabricated Toilet</a></li>
                                                                 <li><a href="prefabricated-modular-clean-room-manufacturer">Clean Room</a></li>
-                                                                <li><a href="prefabricated- poultry-shed-manufacturer">Poultry Shed</a></li> 
+                                                                <li><a href="prefabricated-poultry-shed-manufacturer">Poultry Shed</a></li> 
                                                             </ul>
                                                         </li>
                                                         <!-- -------- PRE ENGINEERED BUILDING ------->
@@ -116,11 +116,11 @@
                                                         </li>
                                                         <!-- -------- LGSF ------------>
                                                         <li class="mega-menu-item">
-                                                            <a href="light-gauge-steel-framing-manufacture" class="mega-menu-link">LGSF</a>
+                                                            <a href="light-gauge-steel-framing-manufacturer" class="mega-menu-link">LGSF</a>
                                                             <ul class="mega-submenu">
                                                                 <li><a href="prefab-school-manufacturer">Prefab School</a></li>
                                                                 <li><a href="prefab-homes-manufacturer">Prefab Homes</a></li>
-                                                                <li><a href="prefab-flat-manufacturer">Sample Flat</a></li>
+                                                                <li><a href="prefab-sample-flat-manufacturer">Sample Flat</a></li>
                                                             </ul>
                                                         </li>
                                                         <!-- -------- STANDARD MODULAR SOLUTION ------------>
