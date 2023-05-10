@@ -4,7 +4,7 @@
 
 <head>
 <meta charset="utf-8">
-<link rel="canonical" href="https://www.mekark.com/contact-us"/>
+<link rel="canonical" href="https://www.mekarkprefab.com/contact-us"/>
 <title>Mekark Prefabricated Structure Contact us</title> 
 <meta name="description" content="ADDRESS"/>
 <meta name="keywords" content="Mekark Prefabricated Strcuture Contact us, Prefabricated Building Manufacturer, Prefabricated Building Supplier, Prefabricated Buildings" /><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
@@ -37,7 +37,7 @@
                                     <div class="container">
                                         <div class="breadcrumb-wrapper-inner">
                                             <span>
-                                                <a title="Go to Delmont." href="index.php" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
+                                                <a title="Go to Delmont." href="https://www.mekarkprefab.com" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                             </span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span>Contact Us</span>
@@ -226,7 +226,7 @@
                                                     </label>
                                                 </div>
                                                 <div class="col-md-8">
-                                                    <div class="g-recaptcha mb-3 mt-3" data-sitekey="6Lej5TQlAAAAANxlnYvxQvGbRk_6hdF75VZfDW25"></div>
+                                                    <div class="g-recaptcha mb-3 mt-3" data-sitekey="6LejJPklAAAAAOYtij_6wy9dAtlZf4wBxNXooYO4"></div>
                                                 </div>
                                                 <div class="col-lg-4">
                                                     <button type="submit" name="submit" class="ttm-btn ttm-btn-size-md ttm-btn-shape-round ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-darkgrey" style="border:2px solid #ccc;background-color:#e89963;color:#fff">Submit</button>

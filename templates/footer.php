@@ -9,7 +9,7 @@
                                 <img width="205" height="65" id="footer-logo-img" class="img-fluid" src="images/logo-2.png" alt="image">
                             </div>
                             <div class="textwidget widget-text">
-                                <p>Inoterior design consultancy firm that brings sensitivity to the design top restaurants, hotels, offices & homes around the world</p>
+                                <p>Mekark Pre-engineered Building and Prefab Building Manufacturer India provide high quality materials with Cost effective industrial projects for your business.</p>
                             </div>
                         </div>
                     </div>
@@ -17,11 +17,11 @@
                         <div class="widget widget_nav_menu clearfix">
                            <h3 class="widget-title">Quick Links</h3>
                             <ul id="menu-footer-service-link" class="menu">
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Portfolio</a></li>
-                                <li><a href="#">Testimonial</a></li>
-                                <li><a href="#">Latest News</a></li>
+                                <li><a href="about-us">About Us</a></li>
+                                <li><a href="products">Products</a></li>
+                                <li><a href="gallery">Gallery</a></li>
+                                 <li><a href="blog">Blog</a></li>
+                                <li><a href="contact-us">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -29,11 +29,11 @@
                         <div class="widget widget_nav_menu clearfix">
                            <h3 class="widget-title">Usefull Links</h3>
                             <ul id="menu-footer-service-link" class="menu">
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Portfolio</a></li>
-                                <li><a href="#">Testimonial</a></li>
-                                <li><a href="#">Latest News</a></li>
+                                <li><a href="prefabricated-structures-manufacturer">Prefabricated Structures</a></li>
+                                <li><a href="peb-manufacturer-india">Pre Engineered Building</a></li>
+                                <li><a href="sandwich-panel-roofing-manufacturer">Sandwich Panels</a></li>
+                                <li><a href="light-gauge-steel-framing-manufacturer">LGSF</a></li>
+                                <li><a href="prefabricated-modular-solution-manufacturer">Standard Modular Soluation</a></li>
                             </ul>
                         </div>
                     </div>

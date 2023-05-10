@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="utf-8">
-<link rel="canonical" href="https://www.mekark.com/prefabricated-modular-solution-manufacturer" />
+<link rel="canonical" href="https://www.mekarkprefab.com/prefabricated-modular-solution-manufacturer" />
 <title>Prefabricated Modular Solutions Manufacturer | Mekark Prefab</title> 
 <meta name="description" content="Mekark is the top level of manufacturing technology offers the prefabricated standard modular solution. Contact us today."/>
 <meta name="keywords" content="Prefabricated Modular Solutions Manufacturer, Prefabricated Modular Solutions, Prefabricated Modular Solutions India"/>
@@ -34,7 +34,7 @@
                                     <div class="container">
                                         <div class="breadcrumb-wrapper-inner">
                                             <span>
-                                                <a title="Go to Delmont." href="index.php" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
+                                                <a title="Go to Delmont." href="https://www.mekarkprefab.com" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                             </span>
                                             <span>Standard Modular Soluation</span>
                                         </div>

@@ -3,7 +3,7 @@
 <head>
 
 <meta charset="utf-8">
-<link rel="canonical" href="https://www.mekark.com/about-us"/>
+<link rel="canonical" href="https://www.mekarkprefab.com/about-us"/>
 <title>Mekark Prefabricated Building About us</title> 
 <meta name="description" content="Mekark is the best prefab manufacturing company in Chennai with over 15+ years of experience offers wide range of PEB."/>
 <meta name="keywords" content="Mekark Prefabricated Building Manufacturer and Supplier, Prefabricated Building Manufacturer, Prefabricated Building Supplier, Prefabricated Buildings" /><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
@@ -35,7 +35,7 @@
                                     <div class="container">
                                         <div class="breadcrumb-wrapper-inner">
                                             <span>
-                                                <a title="Go to Delmont." href="index.php" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
+                                                <a title="Go to Delmont." href="https://www.mekarkprefab.com" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                             </span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span>About Us</span>
@@ -524,6 +524,4 @@
     <!-- Javascript end-->
 
 </body>
-
-<!-- Mirrored from themetechmount.com/html/inoterior/demo2/about-us-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 08 Mar 2023 12:18:31 GMT -->
 </html>

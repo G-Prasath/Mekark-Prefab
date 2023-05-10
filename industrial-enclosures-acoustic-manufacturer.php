@@ -3,10 +3,10 @@
 
 <head>
 <meta charset="utf-8">
-<link rel="canonical" href=" https://www.mekark.com/industrial-enclosures-acoustic-manufacturer"/>
+<link rel="canonical" href="https://www.mekarkprefab.com/industrial-enclosures-acoustic-manufacturer"/>
 <title>Industrial Enclosures Acoustic Manufacturer | Mekark Prefab  </title> 
-<meta name="description" content=" Mekark is the best Industrial Enclosures Acoustic manufacturer and supplier offer deliver high quality industrial enclosure solutions."/>
-<meta name="keywords" content=" Industrial Enclosures Acoustic Manufacturer, Industrial Enclosures Acoustic Supplier India, Mekark "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="description" content="Mekark is the best Industrial Enclosures Acoustic manufacturer and supplier offer deliver high quality industrial enclosure solutions."/>
+<meta name="keywords" content="Industrial Enclosures Acoustic Manufacturer, Industrial Enclosures Acoustic Supplier India, Mekark"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
 <link rel="shortcut icon" href="images/favicon.png" >
 
 
@@ -23,7 +23,7 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row industrial-enclosures">
+            <div class="ttm-page-title-row industrial-enclosures">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
@@ -35,7 +35,7 @@
                                     <div class="container">
                                         <div class="breadcrumb-wrapper-inner">
                                             <span>
-                                                <a title="Go to Delmont." href="index.php" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
+                                                <a title="Go to Delmont." href="https://www.mekarkprefab.com" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                             </span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Pre Engineered Builder</a></span>
@@ -202,7 +202,7 @@
                     <!-- row -->
                     <div class="row">
                         <div class="col-lg-6">
-                            <iframe width="424" height="538" src="https://www.youtube.com/embed/Vvh51EPUtfs" title="Roofing Price| Cost of Roofing Sheets| Dhanam Roofings| Ph- 9384833383 | Roofing Contractors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                            <iframe width="424" height="500" src="https://www.youtube.com/embed/ychdAPBGvQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             <!-- col-img-bg-img-eight end-->
                         </div>
                         <div class="col-lg-6">
@@ -242,7 +242,7 @@
                                                 </div>
                                                 
                                                 <div class="col-lg-12">
-                                                    <div class="g-recaptcha mb-3" data-sitekey="6LcTHColAAAAAIBASPM5TRAOFTor9TOYYaCDQsPp"></div>
+                                                    <div class="g-recaptcha mb-3" data-sitekey="6LejJPklAAAAAOYtij_6wy9dAtlZf4wBxNXooYO4"></div>
 
                                                 </div>
                                                 <button type="submit" class="btn ttm-btn ttm-btn-style-border" name="submit">Submit</button>
@@ -287,7 +287,7 @@
     <script src="js/bootstrap.min.js"></script> 
     <script src="js/jquery.easing.js"></script>    
     <script src="js/jquery-waypoints.js"></script>    
-   <script src="js/jquery-validate.js"></script> 
+    <script src="js/jquery-validate.js"></script> 
     <script src="js/jquery.prettyPhoto.js"></script>
     <script src="js/slick.min.js"></script>
     <script src="js/numinate.min.js"></script>

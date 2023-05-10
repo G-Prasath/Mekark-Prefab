@@ -4,10 +4,10 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<link rel="canonical" href="https://www.mekark.com/prefabricated- structures-manufacturer"/>
+<link rel="canonical" href="https://www.mekarkprefab.com/prefabricated-structures-manufacturer"/>
 <title> Prefabricated Structure Manufacturer Company India </title> 
-<meta name="description" content=" Mekark is one of the best prefabricated building structure supplier company in India, offering for prefab commercial and steel buildings."/>
-<meta name="keywords" content=" Prefabricated Structure Manufacturer, Prefabricated Structure Manufacturer, Prefabricated Building Structure Manufacturer Company"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="description" content="Mekark is one of the best prefabricated building structure supplier company in India, offering for prefab commercial and steel buildings."/>
+<meta name="keywords" content="Prefabricated Structure Manufacturer, Prefabricated Structure Manufacturer, Prefabricated Building Structure Manufacturer Company"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
 <link rel="shortcut icon" href="images/favicon.png" >
 
 <?php include_once 'templates/head.php'?>
@@ -36,7 +36,7 @@
                                     <div class="container">
                                         <div class="breadcrumb-wrapper-inner">
                                             <span>
-                                                <a title="Go to Delmont." href="index.php" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
+                                                <a title="Go to Delmont." href="https://www.mekarkprefab.com" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                             </span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span>Prefabricated Structures</span>

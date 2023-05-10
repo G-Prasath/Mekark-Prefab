@@ -10,24 +10,24 @@
                             </div>
                             <div class="top_bar_contact_item">
                                 <div class="top_bar_icon"><i class="fa fa-envelope-o"></i>
-                                </div><a href="mailto:info@example.com"><span>admin@example.com</span></a>
+                                </div><a href="mailto:admin@mekark.com"><span>admin@mekark.com</span></a>
                             </div>
                             <div class="ttm-widget_header d-flex flex-row justify-content-between  top_bar_social ml-auto p-0">
                                 <!-- widget-info -->
                                 <div class="top_bar_contact_item widget_info">
                                     <div class="social-icons">
                                         <ul class="list-inline">
-                                            <li><a href="https://www.facebook.com/themetechMount18" rel="noopener" aria-label="facebook"><i class="fa fa-facebook"></i></a>
+                                            <li><a href="https://www.facebook.com/Mekark-Industrial-100915716256258" target="_blank" rel="noopener" aria-label="facebook"><i class="fa fa-facebook"></i></a>
                                             </li>
-                                            <li><a href="https://twitter.com/themetechmount" rel="noopener" aria-label="twitter"><i class="fa fa-twitter"></i></a>
+                                            <li><a href="https://twitter.com/MekarkPEB" target="_blank" rel="noopener" aria-label="twitter"><i class="fa fa-twitter"></i></a>
                                             </li>
-                                            <li><a href="https://www.linkedin.com/company/themetech-mount/" rel="noopener" aria-label="linkedin"><i class="fa fa-linkedin"></i></a>
+                                            <li><a href="https://www.linkedin.com/in/mekark-engineering-856448264/" target="_blank" rel="noopener" aria-label="linkedin"><i class="fa fa-linkedin"></i></a>
                                             </li>
-                                            <li><a href="https://in.pinterest.com/themetechmount/_created/" rel="noopener" aria-label="pinterest"><i class="fa fa-youtube-play"></i></a>
+                                            <li><a href="https://www.youtube.com/channel/UCsCdBcilS4Ib5l1C7l2u3bg" target="_blank" rel="noopener" aria-label="pinterest"><i class="fa fa-youtube-play"></i></a>
                                             </li>
-                                            <li><a href="https://in.pinterest.com/themetechmount/_created/" rel="noopener" aria-label="pinterest"><i class="fa fa-instagram"></i></a>
+                                            <li><a href="https://www.instagram.com/mekarkeng/" target="_blank" rel="noopener" aria-label="pinterest"><i class="fa fa-instagram"></i></a>
                                             </li>
-                                            <li><a href="https://in.pinterest.com/themetechmount/_created/" rel="noopener" aria-label="pinterest"><i class="fa fa-pinterest-p"></i></a>
+                                            <li><a href="https://in.pinterest.com/mekarkeng/" target="_blank" rel="noopener" aria-label="pinterest"><i class="fa fa-pinterest-p"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -52,7 +52,7 @@
                                 <div class="site-navigation d-flex flex-row align-items-center justify-content-between">
                                     <!-- site-branding -->
                                     <div class="site-branding ">
-                                        <a class="home-link" href="index.php" title="Inoterior" rel="home">
+                                        <a class="home-link" href="https://www.mekarkprefab.com" title="Inoterior" rel="home">
                                             <img id="logo-img" width="150" height="55" class="img-fluid" src="images/logo-1.png" alt="logo-img">
                                         </a>
                                     </div><!-- site-branding end -->
@@ -67,17 +67,17 @@
                                         <nav class="main-menu menu-mobile" id="menu">
                                             <ul class="menu">
                                                 <li class="active">
-                                                    <a href="index.php">Home</a>
+                                                    <a href="https://www.mekarkprefab.com">Home</a>
                                                 </li>
                                                 <li>
                                                     <a href="about-us">About Us</a>
                                                 </li>
                                                 <li class="mega-menu-item">
-                                                    <a href="products.php" class="mega-menu-link">Product</a>
+                                                    <a href="products" class="mega-menu-link">Product</a>
                                                     <ul class="mega-submenu">
                                                         <!-- -------- PREFABRICATED STRUCTURES ------->
                                                         <li class="mega-menu-item">
-                                                            <a href="prefabricated- structures-manufacturer" class="mega-menu-link">Prefabricated Structures</a>
+                                                            <a href="prefabricated-structures-manufacturer" class="mega-menu-link">Prefabricated Structures</a>
                                                             <ul class="mega-submenu">
                                                                 <li><a href="prefabricated-site-infrastructure-manufacturer">Prefabricated Site Infrastructure</a></li>
                                                                 <li><a href="prefab-site-office-manufacturer">Prefab Site Office</a></li>
@@ -139,12 +139,12 @@
                                                 <li class="mega-menu-item">
                                                     <a href="javascript:;" class="mega-menu-link">Our Projects</a>
                                                         <ul class="mega-submenu">
-                                                            <li><a href="gallery.php">Gallery</a></li>
-                                                            <li><a href="videos.php">Videos</a></li>
+                                                            <li><a href="gallery">Gallery</a></li>
+                                                            <li><a href="videos">Videos</a></li>
                                                         </ul>
                                                 </li>
                                                 <li>
-                                                    <a href="blog.php">Blog</a>
+                                                    <a href="blog">Blog</a>
                                                 </li>
                                                 <li class="mega-menu-item">
                                                     <a href="contact-us">Contact Us</a>
@@ -200,7 +200,7 @@
                         </div>
                         
                         <div class="md-form" style="display:flex;justify-content: space-between;">
-                            <div class="g-recaptcha mb-3 mt-3" data-sitekey="6Lej5TQlAAAAANxlnYvxQvGbRk_6hdF75VZfDW25"></div>
+                            <div class="g-recaptcha mb-3 mt-3" data-sitekey="6LejJPklAAAAAOYtij_6wy9dAtlZf4wBxNXooYO4"></div>
                             <button type="submit" name="submit" class="btn btn-unique">Send <i class="fa fa-paper-plane-o ml-1"></i></button>
                         </div>
                         <div class="md-form">

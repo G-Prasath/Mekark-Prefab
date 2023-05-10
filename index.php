@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<link rel="canonical" href="https://www.mekark.com "/>
+<link rel="canonical" href="https://www.mekarkprefab.com"/>
 <title> Prefabricated Building Manufacturer | Mekark </title> 
 <meta name="description" content="Mekark is the leading manufacturer and supplier of pre-engineered and prefabricated buildings. Contact us -97909 24754."/>
-<meta name="keywords" content=" Prefabricated Building Manufacturer, Prefabricated Building Supplier, Prefabricated Buildings "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="Prefabricated Building Manufacturer, Prefabricated Building Supplier, Prefabricated Buildings"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
 <link rel="shortcut icon" href="images/favicon.png" >
 
 <link rel="shortcut icon" href="images/favicon.png" >
@@ -460,6 +460,7 @@
                             <div class="ttm-tabs ttm-tab-style-02 mb_15">
                                 <ul class="tabs portfolio-filter text-center">
                                     <li class="tab active"><a href="#" class="tab-a" data-filter="architecture">Prefabricated Structures</a></li>
+                                    <li class="tab"><a href="#" class="tab-a" data-filter="peb">Pre Engineered Building</a></li>
                                     <li class="tab"><a href="#" class="tab-a" data-filter="construction">Sandwich Panels</a></li>
                                     <li class="tab"><a href="#" class="tab-a" data-filter="flooring">LGSF</a></li>
                                     <li class="tab"><a href="#" class="tab-a" data-filter="interior-design">Standard Modular Soluation</a></li>
@@ -690,6 +691,125 @@
                             </div>
                         </div> 
                                                
+                    </div>
+                    <div class="row services-hide" id="peb">
+                        <!-- ------------- PEB ----------->     
+                        <div class="col-lg-3 col-md-6 project_item">
+                            <div class="featured-imagebox featured-imagebox-portfolio style3">
+                                
+                                <div class="featured-thumbnail"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichpufpanel.jpg" alt="image"> 
+                                </div>
+                               
+                                <div class="featured-content-inner">
+                                    <div class="featured-content">
+                                        <div class="featured-title alignment">
+                                            <h3><a href="puf-insulated-and-sandwich-panel-manufacturer">Warehouse</a></h3>
+                                        </div>
+                                       
+                                    </div>
+                                    <div class="ttm-footer">
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="puf-insulated-and-sandwich-panel-manufacturer">Read More<i class="ti ti-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 project_item">
+                            <div class="featured-imagebox featured-imagebox-portfolio style3">
+                                
+                                <div class="featured-thumbnail"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichepspanel.jpg" alt="image"> 
+                                </div>
+                               
+                                <div class="featured-content-inner">
+                                    <div class="featured-content">
+                                        <div class="featured-title alignment">
+                                            <h3><a href="eps-insulated-sandwich-panel-manufacturer">Industrial Shed</a></h3>
+                                        </div>
+                                       
+                                    </div>
+                                    <div class="ttm-footer">
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="eps-insulated-sandwich-panel-manufacturer">Read More<i class="ti ti-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 project_item">
+                            <div class="featured-imagebox featured-imagebox-portfolio style3">
+                                
+                                <div class="featured-thumbnail"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichrockwoolpanel.jpg" alt="image"> 
+                                </div>
+                               
+                                <div class="featured-content-inner">
+                                    <div class="featured-content">
+                                        <div class="featured-title alignment">
+                                            <h3><a href="rockwool-sandwich-panel-manufacturer">Factory Buildings</a></h3>
+                                        </div>
+                                    </div>
+                                    <div class="ttm-footer">
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="rockwool-sandwich-panel-manufacturer">Read More<i class="ti ti-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 project_item">
+                            <div class="featured-imagebox featured-imagebox-portfolio style3">
+                                
+                                <div class="featured-thumbnail"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichglasswoolpanel.jpg" alt="image"> 
+                                </div>
+                               
+                                <div class="featured-content-inner">
+                                    <div class="featured-content">
+                                        <div class="featured-title alignment">
+                                            <h3><a href="glass-wool-sandwich-panel-manufacturer">Multi Storey Steel Building</a></h3>
+                                        </div>
+                                    </div>
+                                    <div class="ttm-footer">
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="glass-wool-sandwich-panel-manufacturer">Read More<i class="ti ti-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 project_item">
+                            <div class="featured-imagebox featured-imagebox-portfolio style3">
+                                
+                                <div class="featured-thumbnail"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichglasswoolpanel.jpg" alt="image"> 
+                                </div>
+                               
+                                <div class="featured-content-inner">
+                                    <div class="featured-content">
+                                        <div class="featured-title alignment">
+                                            <h3><a href="glass-wool-sandwich-panel-manufacturer">Industrial Enclosures</a></h3>
+                                        </div>
+                                    </div>
+                                    <div class="ttm-footer">
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="glass-wool-sandwich-panel-manufacturer">Read More<i class="ti ti-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 project_item">
+                            <div class="featured-imagebox featured-imagebox-portfolio style3">
+                                
+                                <div class="featured-thumbnail"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichglasswoolpanel.jpg" alt="image"> 
+                                </div>
+                               
+                                <div class="featured-content-inner">
+                                    <div class="featured-content">
+                                        <div class="featured-title alignment">
+                                            <h3><a href="glass-wool-sandwich-panel-manufacturer">Cold Storage</a></h3>
+                                        </div>
+                                    </div>
+                                    <div class="ttm-footer">
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="glass-wool-sandwich-panel-manufacturer">Read More<i class="ti ti-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>   
                     </div>
                     <div class="row services-hide" id="construction">
                         <!-- ------------- LGSF ----------->
@@ -1294,7 +1414,7 @@
                             <div class="section-title">
                                 <div class="title-header">
                                     <h3>Blog & Updates</h3>
-                                    <h2 class="title">Get Our Every Single Update</h2>
+                                    <h2 class="h2-bold">Get Our Every Single Update</h2>
                                 </div>
                             </div><!--section title end-->
                         </div>
@@ -1438,6 +1558,9 @@
           if(value == "architecture"){
             document.getElementById("interior-design").classList.add("services-hide");
             document.getElementById("interior-design").classList.remove("services-show"); 
+
+            document.getElementById("peb").classList.add("services-hide");
+            document.getElementById("peb").classList.remove("services-show"); 
             
             document.getElementById("construction").classList.add("services-hide");
             document.getElementById("construction").classList.remove("services-show"); 
@@ -1448,12 +1571,31 @@
             document.getElementById("architecture").classList.remove("services-hide");             
             document.getElementById("architecture").classList.add("services-show");
           }
+          else if(value == "peb"){
+            document.getElementById("interior-design").classList.add("services-hide");
+            document.getElementById("interior-design").classList.remove("services-show"); 
+            
+            document.getElementById("architecture").classList.add("services-hide");             
+            document.getElementById("architecture").classList.remove("services-show");
+            
+            document.getElementById("construction").classList.add("services-hide");
+            document.getElementById("construction").classList.remove("services-show"); 
+
+            document.getElementById("flooring").classList.add("services-hide");
+            document.getElementById("flooring").classList.remove("services-show");
+
+            document.getElementById("peb").classList.remove("services-hide");
+            document.getElementById("peb").classList.add("services-show"); 
+          }
           else if(value == "construction"){
             document.getElementById("architecture").classList.add("services-hide");
             document.getElementById("architecture").classList.remove("services-show"); 
             
             document.getElementById("construction").classList.add("services-hide");
             document.getElementById("construction").classList.remove("services-show"); 
+
+            document.getElementById("peb").classList.add("services-hide");
+            document.getElementById("peb").classList.remove("services-show");
 
             document.getElementById("interior-design").classList.add("services-hide");
             document.getElementById("interior-design").classList.remove("services-show");
@@ -1472,6 +1614,9 @@
             document.getElementById("interior-design").classList.add("services-hide");
             document.getElementById("interior-design").classList.remove("services-show");
 
+            document.getElementById("peb").classList.add("services-hide");
+            document.getElementById("peb").classList.remove("services-show");
+
             document.getElementById("construction").classList.remove("services-hide");             
             document.getElementById("construction").classList.add("services-show");
           }
@@ -1484,6 +1629,9 @@
 
             document.getElementById("flooring").classList.add("services-hide");
             document.getElementById("flooring").classList.remove("services-show");
+
+            document.getElementById("peb").classList.add("services-hide");
+            document.getElementById("peb").classList.remove("services-show");
 
             document.getElementById("interior-design").classList.remove("services-hide");             
             document.getElementById("interior-design").classList.add("services-show");

@@ -4,10 +4,10 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<link rel="canonical" href="https://www.mekark.com/light-gauge-steel-framing-manufacturer" />
+<link rel="canonical" href="https://www.mekarkprefab.com/light-gauge-steel-framing-manufacturer" />
 <title> Light Gauge Steel Framing LGSF Manufacturer | Mekark</title> 
 <meta name="description" content="Mekark is leading Light Gauge Steel Framing LGSF Manufacturer Company in India provides best solution at budget rates."/>
-<meta name="keywords" content=" Light Gauge Steel Framing Manufacturer, LGSF Manufacturer, Light Gauge Steel Framing, LGSF "/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<meta name="keywords" content="Light Gauge Steel Framing Manufacturer, LGSF Manufacturer, Light Gauge Steel Framing, LGSF"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
 <link rel="shortcut icon" href="images/favicon.png" >
 
 
@@ -37,7 +37,7 @@
                                     <div class="container">
                                         <div class="breadcrumb-wrapper-inner">
                                             <span>
-                                                <a title="Go to Delmont." href="index.php" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
+                                                <a title="Go to Delmont." href="https://www.mekarkprefab.com" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                             </span>
                                             <span>LGSF</span>
                                         </div>

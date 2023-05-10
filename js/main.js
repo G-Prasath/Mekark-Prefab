@@ -281,6 +281,17 @@ var themetechmount_coverimgbox = function() {
     });
 
 
+    // $(document).ready(function() {
+    //     $(function() {
+    //         $("#menus li").click(function() {
+    //           $("#menus li").removeClass("menu-active");
+    //           $(this).addClass("menu-active");
+    //         });
+          
+    //       });
+    // });
+
+
 /*------------------------------------------------------------------------------*/
 /* Accordion
 /*------------------------------------------------------------------------------*/
@@ -408,7 +419,7 @@ var themetechmount_coverimgbox = function() {
                             </div>
                             
                             <div class="md-form" style="display:flex;justify-content: space-between;">
-                                <div class="g-recaptcha mb-3 mt-3" data-sitekey="6Lej5TQlAAAAANxlnYvxQvGbRk_6hdF75VZfDW25"></div>
+                                <div class="g-recaptcha mb-3 mt-3" data-sitekey="6LejJPklAAAAAOYtij_6wy9dAtlZf4wBxNXooYO4"></div>
                                 <button type="submit" name="submit" class="btn btn-unique">Send <i class="fa fa-paper-plane-o ml-1"></i></button>
                             </div>
                             <div class="md-form">
@@ -565,7 +576,7 @@ if ($("#enquiry").length) {
                 url: "PHP_Mail/submit.php",
                 data: $('#enquiry').serialize(),
                 success: function () {
-                    window.location = "index.php";
+                    window.location = "https://www.mekarkprefab.com";
                     window.location.reload(true);
                 }
             });
@@ -608,7 +619,7 @@ if ($("#blog").length) {
                 url: "PHP_Mail/submit.php",
                 data: $('#enquiry').serialize(),
                 success: function () {
-                    window.location = "index.php";
+                    window.location = "https://www.mekarkprefab.com";
                     window.location.reload(true);
                 }
             });
@@ -664,7 +675,7 @@ if ($("#contact_form").length) {
                 url: "PHP-Mail/submit.php",
                 data: $(form).serialize(),
                 success: function () {
-                    window.location = "index.php";
+                    window.location = "https://www.mekarkprefab.com";
                     window.location.reload(true);
                 },
             });
@@ -702,7 +713,7 @@ if ($("#page_form").length) {
                 url: "PHP-Mail/submit.php",
                 data: $(form).serialize(),
                 success: function () {
-                    window.location = "index.php";
+                    window.location = "https://www.mekarkprefab.com";
                     window.location.reload(true);
                 },
             });

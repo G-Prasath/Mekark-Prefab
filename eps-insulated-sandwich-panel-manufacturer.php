@@ -3,9 +3,9 @@
 
 <head>
 <meta charset="utf-8">
-<link rel="canonical" href="https://www.mekark.com/eps-insulated-sandwich-panel-manufacturer" />
+<link rel="canonical" href="https://www.mekarkprefab.com/eps-insulated-sandwich-panel-manufacturer" />
 <title> EPS Sandwich Panels Manufacturer | Mekark EPS Insulated Panels </title> 
-<meta name="description" content=" Get complete solution high quality EPS Insulated Panel from Mekark Prefab premium company in India."/>
+<meta name="description" content="Get complete solution high quality EPS Insulated Panel from Mekark Prefab premium company in India."/>
 <meta name="keywords" content="EPS Sandwich Panels Manufacturer, EPS Insulated Panels, EPS Sandwich Panels Supplier"/><meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
 <link rel="shortcut icon" href="images/favicon.png" >
 
@@ -36,7 +36,7 @@
                                     <div class="container">
                                         <div class="breadcrumb-wrapper-inner">
                                             <span>
-                                                <a title="Go to Delmont." href="index.php" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
+                                                <a title="Go to Delmont." href="https://www.mekarkprefab.com" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                             </span>
                                             <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
                                             <span><a href="products.php">Products</a></span>
@@ -202,7 +202,7 @@
                     <!-- row -->
                     <div class="row">
                         <div class="col-lg-6">
-                            <iframe width="424" height="538" src="https://www.youtube.com/embed/Vvh51EPUtfs" title="Roofing Price| Cost of Roofing Sheets| Dhanam Roofings| Ph- 9384833383 | Roofing Contractors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                            <iframe width="424" height="500" src="https://www.youtube.com/embed/ychdAPBGvQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             <!-- col-img-bg-img-eight end-->
                         </div>
                         <div class="col-lg-6">
@@ -242,7 +242,7 @@
                                                 </div>
                                                 
                                                 <div class="col-lg-12">
-                                                    <div class="g-recaptcha mb-3" data-sitekey="6LcTHColAAAAAIBASPM5TRAOFTor9TOYYaCDQsPp"></div>
+                                                    <div class="g-recaptcha mb-3" data-sitekey="6LejJPklAAAAAOYtij_6wy9dAtlZf4wBxNXooYO4"></div>
 
                                                 </div>
                                                 <button type="submit" class="btn ttm-btn ttm-btn-style-border" name="submit">Submit</button>

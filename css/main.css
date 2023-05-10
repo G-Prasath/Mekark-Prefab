@@ -1895,7 +1895,7 @@ ul.social-icons{
     display: block;
     padding: 0 0 11px 0;
     position: relative;
-    width: calc(50% - 2px);
+    /*width: calc(50% - 2px);*/
     float: none;
 }
 .widget ul#menu-footer-service-link li:nth-last-child(-n+1){ padding-bottom: 15px; }
@@ -2553,6 +2553,7 @@ ul.footer-nav-menu li:last-child:after{
   .portlet .tabbable-line > .tab-content {
     padding-bottom: 0;
   }
+
 
 
 /* ------------ Tab Menu Grid Cards ---------------  */
