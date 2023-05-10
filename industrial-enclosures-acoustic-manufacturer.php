@@ -111,7 +111,8 @@
                             <div class="title-header">
                                 <h2 class="h2-blod">Applications</h2>
                             </div>
-                        </div><!-- section title end -->
+                        </div>
+                        <!-- section title end -->
                     </div>
                 </div>
               <main class="grid">
@@ -167,7 +168,8 @@
                             <div class="text-center">
                                 <h2 class="h2-bold">Industrial Enclosures Projects</h2>
                             </div>
-                        </div><!-- section title end -->
+                        </div>
+                        <!-- section title end -->
                     </div>
                 </div>
                 <div class="row">

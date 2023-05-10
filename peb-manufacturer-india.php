@@ -24,7 +24,7 @@
         <?php include_once 'templates/header.php'?>
         <!--header end-->
 
-          <div class="ttm-page-title-row railway">
+          <div class="ttm-page-title-row peb-cover">
                 <div class="ttm-page-title-row-inner">
                     <div class="container">
                         <div class="row align-items-center">
@@ -94,7 +94,7 @@
             <div class="row mb-5">
                 <div class="col-md-4">
                     <div class="card">
-                      <img src="images/projects/peb/prefabricatedsiteinfra.jpg" class="card-img-top" alt="...">
+                      <img src="images/projects/peb/warehouse.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Warehouse</h5>
                         <p class="card-text">Mekark Warehouse buildings provide for your commercial storage, distribution, and manufacturers, importers, exporters purposes for a variety of goods and materials.</p>
@@ -104,7 +104,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                      <img src="images/projects/peb/pefabsite-office.jpg" class="card-img-top" alt="...">
+                      <img src="images/projects/peb/industrial-shed.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Industrial Sheds</h5>
                         <p class="card-text">Mekark Industrial sheds provide for manufacturing, assembly, warehousing, and storage purposes in commercial and residential application. Quickly install and cost-effective structure.</p>
@@ -114,7 +114,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                      <img src="images/projects/peb/labourhutment.jpg" class="card-img-top" alt="...">
+                      <img src="images/projects/peb/factory-buildings.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Factory Buildings</h5>
                         <p class="card-text">Mekark provide manufacturing a wide range of applications like high quality storing raw materials buildings, heavy manufacturing buildings for Industrial purposes.</p>
@@ -126,9 +126,9 @@
             <div class="row mb-5">
                 <div class="col-md-4">
                     <div class="card">
-                      <img src="images/projects/peb/prefab-control-room.jpg" class="card-img-top" alt="...">
+                      <img src="images/projects/peb/multistorey-steel-building.png" class="card-img-top" alt="...">
                       <div class="card-body">
-                        <h5 class="card-title">Multi Storey Building</h5>
+                        <h5 class="card-title">Multi Storey Steel Building</h5>
                         <p class="card-text">Mekark Multi Storey Building provide a wide range of modular multi-story buildings with PUF/ EPS protected panels and light scale steel framing (LGSF) building in construction.</p>
                         <a href="mssb" class="btn btn-primary">Read More</a>
                       </div>
@@ -136,7 +136,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                      <img src="images/projects/peb/ripening-chambers.jpg" class="card-img-top" alt="...">
+                      <img src="images/projects/peb/industrial-enclosure.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Industrial Enclosures</h5>
                         <p class="card-text">Mekark offers a full range of best Industrial Enclosure services in India. We provide first-class quality enclosures and customer specific modern solution for residential and commercial application.</p>
@@ -146,7 +146,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                      <img src="images/projects/peb/acoustic-nclosure.jpg" class="card-img-top" alt="...">
+                      <img src="images/projects/peb/cold-storage.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Cold Storage</h5>
                         <p class="card-text">Mekark Cold storage solutions for the food processing industry, including fridge and freezer spaces designed for dairy and ice cream plants.</p>

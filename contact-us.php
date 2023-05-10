@@ -72,8 +72,7 @@
                                             <h3>Phone Number</h3>
                                         </div>
                                         <div class="featured-desc">
-                                            <p>+123 456 7890</p>
-                                            <p>+123 998 4567</p>
+                                            <p>+91 97909 24754</p>
                                         </div>
                                     </div>
                                 </div>
@@ -93,8 +92,7 @@
                                             <h3>Email Address</h3>
                                         </div>
                                         <div class="featured-desc">
-                                            <p>info@abcmail.com</p>
-                                            <p>info@domainname.com</p>
+                                            <p>admin@mekark.com</p>
                                         </div>
                                     </div>
                                 </div>
@@ -114,8 +112,7 @@
                                             <h3>Visit Us On</h3>
                                         </div>
                                         <div class="featured-desc">
-                                            <p>Brooklyn, Apt</p>
-                                            <p>14/A, Miranda City, NYC</p>
+                                            <p>15,62nd street, Ashok Nagar, Chennai-600083</p>
                                         </div>
                                     </div>
                                 </div>

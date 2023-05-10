@@ -50,7 +50,7 @@
                             >01 
                             </rs-layer>
 
-                            <rs-layer
+                            <!-- <rs-layer
                                 id="slider-1-slide-1-layer-1" 
                                 data-type="text"
                                 data-color="rgba(255, 255, 255, 0.7)"
@@ -64,7 +64,7 @@
                                 style="z-index:12;font-family:Saira Semi Condensed;"
                             >Inoterior design consultancy firm that brings sensitivity to the design top restaurants,<br />
                             hotels, offices & homes around the world 
-                            </rs-layer>
+                            </rs-layer> -->
 
                             <rs-layer
                                 id="slider-1-slide-1-layer-2" 
@@ -88,7 +88,7 @@
                                 data-frame_1="st:120;sp:900;sR:120;"
                                 data-frame_999="o:0;st:w;sR:7980;"
                                 style="z-index:9;font-family:Saira Semi Condensed;"
-                            >The Interior <span class="ttm-textcolor-skincolor">Design</span> 
+                            >Faster and Smarter  
                             </rs-layer>
 
                             <rs-layer
@@ -115,7 +115,7 @@
                                 data-frame_1="st:300;sp:900;sR:300;"
                                 data-frame_999="o:0;st:w;sR:7800;"
                                 style="z-index:10;font-family:Saira Semi Condensed;"
-                            > Is Over The Top! 
+                            > <span class="ttm-textcolor-skincolor">PEB Construction</span>
                             </rs-layer>
 
                             <rs-layer
@@ -136,11 +136,11 @@
                             <a
                                 id="slider-1-slide-1-layer-7" 
                                 class="rs-layer"
-                                href="#" target="_self" rel="nofollow"
+                                href="products" target="_self" rel="nofollow"
                                 data-type="text"
                                 data-color="#07332f"
                                 data-rsp_ch="on"
-                                data-xy="x:l,l,c,c;xo:80px,63px,0,0;y:m;yo:130px,132px,100px,57px;"
+                                data-xy="x:l,l,c,c;xo:80px,63px,0,0;y:m;yo:80px,132px,100px,57px;"
                                 data-text="w:normal;s:18,14,14,14;l:18,14,14,14;fw:600;a:center;"
                                 data-padding="t:15,12,12,12;r:30,24,25,20;b:15,12,12,12;l:30,24,25,20;"
                                 data-border="bos:solid;boc:#ffffff;bow:1px,1px,1px,1px;bor:50px,50px,50px,50px;"
@@ -213,7 +213,7 @@
                             >01 
                             </rs-layer>
 
-                            <rs-layer
+                            <!-- <rs-layer
                                 id="slider-1-slide-4-layer-1" 
                                 data-type="text"
                                 data-color="rgba(255, 255, 255, 0.7)"
@@ -227,7 +227,7 @@
                                 style="z-index:12;font-family:Saira Semi Condensed;"
                             >Inoterior design consultancy firm that brings sensitivity to the design top restaurants,<br />
                             hotels, offices & homes around the world 
-                            </rs-layer>
+                            </rs-layer> -->
 
                             <rs-layer
                                 id="slider-1-slide-4-layer-2" 
@@ -239,8 +239,7 @@
                                 data-frame_1="st:120;sp:900;sR:120;"
                                 data-frame_999="o:0;st:w;sR:7980;"
                                 style="z-index:9;font-family:Saira Semi Condensed;"
-                            >Take Your Dream <span class="ttm-textcolor-skincolor">World</span>
- 
+                            >Modern <span class="ttm-textcolor-skincolor">Innovative</span>
                             </rs-layer>
 
                             <rs-layer
@@ -267,7 +266,7 @@
                                 data-frame_1="st:300;sp:900;sR:300;"
                                 data-frame_999="o:0;st:w;sR:7800;"
                                 style="z-index:10;font-family:Saira Semi Condensed;"
-                            >Interior Designer 
+                            >Construction Challenges
                             </rs-layer>
 
                             <rs-layer
@@ -286,11 +285,11 @@
                             <a
                                 id="slider-1-slide-4-layer-6" 
                                 class="rs-layer"
-                                href="#" target="_self" rel="nofollow"
+                                href="products" target="_self" rel="nofollow"
                                 data-type="text"
                                 data-color="#07332f"
                                 data-rsp_ch="on"
-                                data-xy="x:l,l,c,c;xo:80px,63px,0,0;y:m;yo:130px,132px,100px,57px;"
+                                data-xy="x:l,l,c,c;xo:80px,63px,0,0;y:m;yo:80px,132px,100px,57px;"
                                 data-text="w:normal;s:18,14,14,14;l:18,14,14,14;fw:600;a:center;"
                                 data-padding="t:15,12,12,12;r:30,24,25,20;b:15,12,12,12;l:30,24,25,20;"
                                 data-border="bos:solid;boc:#ffffff;bow:1px,1px,1px,1px;bor:50px,50px,50px,50px;"
@@ -373,43 +372,30 @@
 
 
             <!--welcome-section-->
-            <section class="ttm-row welcome-section pb-90 res-991-mb-0 clearfix">
+            <section class="pt-5 pb-3 welcome-section pb-90 res-991-mb-0 clearfix">
                 <div class="container">
                     <div class="row">
+                        <div class="col-md-12">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Dream your constructions a Reality with Mekark Prefab</h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->
+                        </div>
+                    </div>
+                    <div class="row">
                         <div class="col-xl-6 col-lg-6 col-md-12">
-                            <div class="pt-45 res-991-pt-0 res-991-pb-40">
-                                <!-- section title -->
-                                <div class="section-title">
-                                    <div class="title-header">
-                                        <h3>About Us</h3>
-                                        <h2 class="title">Simple Minimalist For Your Home Interior</h2>
-                                    </div>
-                                </div><!-- section title end -->
-                                <div class="mt-45 res-991-mt-0">
-                                    <div class="featured-icon-box icon-align-before-content icon-ver_align-top style8">
-                                        <div class="featured-icon">
-                                            <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                                <i class="flaticon flaticon-decorating"></i>
-                                            </div>
-                                        </div>
-                                        <div class="featured-content">
-                                            <div class="featured-title">
-                                                <h3>We're in this business since <u><a href="#" class="ttm-textcolor-skincolor">1987</a></u> and We<br>Provide the  best services</h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="ttm-horizontal_sep width-100 mt-35 mb-35 res-991-mt-15"></div>
-                                <div class="pb-25 res-991-pb-20">
-                                    <p>Inoterior design consultancy firm that brings sensitivity to the design top restaurants, hotels, offices & homes around the world. We stand for quality, safety and credibility, so you could be sure about our work.</p>
-                                </div>
-                                <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-round ttm-btn-style-fill ttm-icon-btn-right ttm-btn-color-skincolor" href="#" tabindex="0">Read More</a>
+                            <div class="res-991-pt-0 res-991-pb-40">
+                                <p class="service-para">Are you looking for prefab buildings Manufacturer and Pre-Engineered Building Supplier services for your Business? Mekark Prefab is the only best choice in the marketing Industry. We can provide you dependable solutions that satisfy your particular needs owing to our company's knowledge and experience. Over 100 highly qualified individuals who are experts in engineering, fabrication, and project management work for our company, which has been in the business for 15 years. In addition to continuing to provide our clients with great service and outcomes, we take satisfaction in having successfully completed over 3500 projects. Our outstanding team members are committed, well-trained, and have years of expertise in the pre-fab building sector. As a result, they can guarantee that every project completes to the best possible standard and compelete the project as per your requested quotes.</p>
+                                <p class="service-para">At Mekark Prefab, we are devoted to offering high-quality, reasonably priced solutions that meet and beyond the needs of our clients.</p>
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-6 col-md-12">
                             <!-- ttm_single_image-wrapper -->
-                            <div class="ttm_single_image-wrapper text-left spacing-20">
-                                <img width="559" height="610" class="img-fluid" src="images/home/mainscrollbarimage.jpg" alt="single_13">
+                           <div class="ttm_single_image-wrapper">
+                                <img width="570" height="471" class="img-fluid" src="images/products/sandwich-panal/eps-panel/sandwich-eps-panel.jpg" alt="single_02">
                             </div>
                             <!--ttm-fid-->
                             <div class="ttm-fid inside ttm-fid-view-lefticon ttm-highlight-fid-style1">
@@ -431,6 +417,21 @@
                             </div><!-- ttm-fid end-->
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="service-para">We are aware of the particular issues that various sectors encounter. We have the production capabilities and know-how to satisfy your needs, whether you need a pre-engineered steel building, cold roll-formed sections, or ERW steel tubes in complicated designs and varied diameters. Airport terminals, logistics organizations, construction companies, automakers, railroads, material handling companies, power production companies, hospitals, schools, and many more are just a few of our clients.</p>
+                            <h2 class="h2-bold">Choose Mekark Prefab for high-quality Projects</h2>
+                            <p class="service-para">At Mekark Prefab, we believe what makes us stand out as the finest option for your pre-engineered construction needs is our passion for our clients, our emphasis on outcomes, and our care for our employees.</p>
+                            <p class="service-para">Our "customer first" philosophy implies that we put our clients needs first and work to establish enduring bonds of trust and trustworthiness. We know that the success of our clients directly affects our own, thus we keep our promises to produce high-quality goods quickly and on schedule.</p>
+                            <p class="service-para">For the betterment of both our stockholders and ourselves, we are also dedicated to ongoing development and expansion. This entails improving our production processes, infrastructure, and technology on a continuous basis to match our clients' changing demands and cut costs so that we can provide more affordable business models. Our team-oriented strategy, which promotes positive contact and a sense of camaraderie among all of our employees, is the key to our success. We value our employees and treat everyone with respect, building a culture that values creativity and results-driven behavior.</p>
+
+                            <p class="service-para">Mekark Prefab is the finest option for your pre-engineered construction requirements because of our customer-first philosophy, attention to outcomes, commitment to our employees, and emphasis on continual progress and expansion. Mekark Prefab is dedicated to provide pre-engineered construction solutions that are affordable without compromising the caliber of the materials utilized. Our top-notch team of experts works hard to meet and surpass customer expectations with outcomes that are proven and to develop enduring, reliable relationships with them. As market leaders, we adopt a strategic strategy to guarantee that all of our manufacturing operations from production to real shipment are completed in-house. This enables us to retain process openness and provide solutions that are of the highest caliber possible.</p>
+                            <p class="service-para">In our Steel Structure and Fabrication business, our qualified engineers and technicians are outfitted with the most cutting-edge, high-tech equipment, allowing us to tackle even the most complex assignments successfully. We never outsource our work because we believe in operating in a safe and secure manner, which guarantees total responsibility and transparency for all of our clients. Our robust infrastructure, which enables us to provide committed employees and top-notch customer service, is the reason for our success. Our goal at Mekark Prefab is to deliver high-quality products at reasonable costs with a dedication to excellence in every project we take on.</p>
+                            <h2 class="h2-bold">Customer Satisfaction Guaranteed:</h2>
+                            <p class="service-para">At Mekark Prefab, we consider the happiness of our customers to be essential to our business. We assume complete accountability for our work and go above and beyond to see that the demands of our clients are addressed. From the first consultation until the project's completion, our team of devoted specialists is committed to provide the greatest level of client support and service. Because we are aware that every project is different, we collaborate closely with our customers to make sure that all of their needs are met. We have established a reputation as a dependable and trustworthy partner for all pre-engineered building solutions thanks to our emphasis on client satisfaction. </p>
+                            <p class="service-para">Mekark Prefab is a reputable brand in pre-engineered construction solutions and has been offering clients top-notch services for many years. We are the market leader because of our dedication to quality, client happiness, and ongoing progress. Every project is successfully executed effectively, on schedule, and under budget thanks to the hard work of our team of knowledgeable engineers, technicians, and customer support personnel. Every project is different, and we pride ourselves on customizing our services to match the demands of each individual customer. Mekark Prefab should be your first choice if you're seeking for a dependable and trustworthy partner for your demands related to pre-engineered buildings. Make contact with us right away,. You can Contact us on +91 97909 24754 or at sales@mekark.com for assistance. We'll assist you for your completed projects</p>
+                        </div>
+                    </div>
                 </div>
             </section>
             <!--welcome-section end-->
@@ -439,17 +440,20 @@
             <!--Services Start-->
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-10 col-md-8">
+                    <div class="col-md-12">
                         <div class="section-title">
-                            <div class="title-header">
-                                <h3>Services</h3>
-                                <h2 class="title">Get Our Services</h2>
+                             <!--section-title-->
+                             <div class="section-title title-style-center_text">
+                                <div class="title-header">
+                                    <h2 class="h2-bold">Get Our Services</h2>
+                                </div>
                             </div>
+                            <!--section-title end-->
                         </div>
                     </div>
                 </div>
             </div>
-            <section class="py-5 pf-section clearfix">
+            <section class="pf-section clearfix">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
@@ -475,11 +479,8 @@
 
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="prefabricated-site-infrastructure-manufacturer">Prefabricated Site Infrastructure</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -497,11 +498,8 @@
 
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="prefab-site-office-manufacturer">Prefabricated Site Office</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -520,12 +518,10 @@
 
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="prefab-site-office-manufacturer">Labour Hutment</a></h3>
                                         </div>
-                                        <div class="featured-desc">
-                                            <p>Prestige villa exterior design thought and decided that in such a case it would be wise to use porcelain stoneware.</p>
-                                        </div>
+
                                     </div>
                                     <div class="ttm-footer">
                                         <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="prefab-site-office-manufacturer">Read More<i class="ti ti-plus"></i></a>
@@ -543,11 +539,8 @@
 
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="railway-telecom-shelter-manufacturer">Railway Shelters</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>They greatly expanded the space, helped straighten the geometry and added light to the interior in Upscale sales office.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -566,11 +559,8 @@
 
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="prefabricated-control-pulpits-manufacturer">Control Room</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>Theater and concert hall design is both artistically and functionally complex. As in all architectural design.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -589,11 +579,8 @@
 
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="ripening-chambers-manufacturer">Ripening Chambers</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>An apartment, or flat is a self-contained housing unit type of residential that occupies only part of a building.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -612,11 +599,8 @@
 
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="prefabricated-acoustic-enclosure-manufacturer">Acoustic Enclosure</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -635,11 +619,8 @@
 
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="security-cabin-manufacturer">Security Cabin</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -658,11 +639,8 @@
 
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="prefabricated-toilet-manufacturer">Prefabricated Toilet</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -681,11 +659,8 @@
 
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="prefabricated-modular-clean-room-manufacturer">Clean Room</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -704,11 +679,8 @@
 
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="prefabricated-poultry-shed-manufacturer">Poultry Shed</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -730,11 +702,8 @@
                                
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="prefab-school-manufacturer">Prefab School</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -752,11 +721,8 @@
                                
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="prefab-homes-manufacturer">Prefab Homes</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -774,11 +740,8 @@
                                
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="prefab-sample-flat-manufacturer">Sample Flat</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -800,12 +763,10 @@
                                
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="puf-insulated-and-sandwich-panel-manufacturer">PUF Panel</a></h3>
                                         </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
-                                        </div>
+                                       
                                     </div>
                                     <div class="ttm-footer">
                                         <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="puf-insulated-and-sandwich-panel-manufacturer">Read More<i class="ti ti-plus"></i></a>
@@ -822,12 +783,10 @@
                                
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="eps-insulated-sandwich-panel-manufacturer">EPS Panel</a></h3>
                                         </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
-                                        </div>
+                                       
                                     </div>
                                     <div class="ttm-footer">
                                         <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="eps-insulated-sandwich-panel-manufacturer">Read More<i class="ti ti-plus"></i></a>
@@ -844,11 +803,8 @@
                                
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="rockwool-sandwich-panel-manufacturer">Rockwool Panel</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -866,11 +822,8 @@
                                
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="glass-wool-sandwich-panel-manufacturer">Glasswool Panel</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -891,11 +844,8 @@
                                
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="portable-cabin-manufacturer">Porta Cabin</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -913,11 +863,8 @@
                                
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="liftable-portable-cabin-manufacturer">Liftable Cabin</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -935,11 +882,8 @@
                                
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="mi-homes-manufacturer">Mi Homes</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -957,11 +901,8 @@
                                
                                 <div class="featured-content-inner">
                                     <div class="featured-content">
-                                        <div class="featured-title">
+                                        <div class="featured-title alignment">
                                             <h3><a href="prefab-k-houses-manufacturer">K-House</a></h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>The style of the interior was defined as modern in light colors. Main materials used in project are wallpaper etc.</p>
                                         </div>
                                     </div>
                                     <div class="ttm-footer">
@@ -969,8 +910,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                           
+                        </div>  
                     </div>
                                              
                        
@@ -988,9 +928,9 @@
                 <div class="row">
                         <div class="col-lg-6 col-md-7 col-sm-10 m-auto">
                             <!--section-title-->
-                            <div class="section-title title-style-center_text">
+                            <div class="section-title title-style-center_text pt-5 mb-0">
                                 <div class="title-header">
-                                    <h2 class="title">Testimonial</h2>
+                                    <h2 class="h2-bold mb-0">Testimonial</h2>
                                 </div>
                             </div>
                             <!--section-title end-->
@@ -1010,11 +950,11 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <blockquote>“Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis at porro perspiciatis quisquam quam fuga maxime saepe, labore enim tempore, pariatur provident corporis voluptates quo, reprehenderit id alias molestiae necessitatibus?”</blockquote>
+                                    <blockquote>“12.04.20222 Mekark prefab started process of building. It has incredible team helped us for rebuild our office from beginning to end. Our office is comfortable, cost-effective fantastic. We were completely satisfaction and more happy of their work. Definitely we recommend this company. Thank you very much.”</blockquote>
                                     <div class="testimonial-avatar text-right">
                                         <div class="testimonial-caption">
-                                            <h3>Jessica</h3>
-                                            <label>- Archietect</label>
+                                            <h3>Sibi</h3>
+                                            <label>- Software Archietect</label>
                                         </div>
                                     </div>
                                 </div>
@@ -1034,11 +974,11 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <blockquote>“Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias doloribus fugit recusandae nesciunt vitae perspiciatis provident possimus ab necessitatibus nobis illum alias, ut ipsa nostrum earum quis illo quisquam porro?”</blockquote>
+                                    <blockquote>“Mekark prefab offered us Multi Storey Building with high quality materials for our Office. It is big projects. We are thinking about how to completely the projects executed on time. But Mekark team provided the quality of construction work and the speed of delivery. We were impressed by their entire team work.During my 10 years experience,  Mekarkprefab is one of the best contractors in India. ”</blockquote>
                                     <div class="testimonial-avatar text-right">
                                         <div class="testimonial-caption">
-                                            <h3>Pearl</h3>
-                                            <label>- Engineer </label>
+                                            <h3>ShivaKumar</h3>
+                                            <label>- Civil Engineer </label>
                                         </div>
                                     </div>
                                 </div>
@@ -1058,7 +998,7 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star-o"></i>
                                     </div>
-                                    <blockquote>“ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam nesciunt provident expedita quod dolor dolore nihil sed quas rerum reiciendis. Similique quasi ipsam ducimus explicabo exercitationem quibusdam voluptas eum sint! ”</blockquote>
+                                    <blockquote>“ We choose the Mekark PEB Company after search in Google. First time we had decided and given one lakh square feet Industrial Shed building projects. During this construction Mekark faced a lot of challenges. Team had easily managed and executed on time. Our projects far exceeded my expectation.  They provided high building structure. We had happier and achieved my goal with mekark professional team. Everything is good Thanks Team ”</blockquote>
                                     <div class="testimonial-avatar text-right">
                                         <div class="testimonial-caption">
                                             <h3>Peter Daniels</h3>
@@ -1088,9 +1028,8 @@
                             <div class="section-title title-style-center_text">
                                 <div class="title-header">
                                     <h3>Have any Questions</h3>
-                                    <h2 class="title">Recently Asked Questions</h2>
+                                    <h2 class="h2-bold mb-0">Recently Asked Questions</h2>
                                 </div>
-                                <p class="fontweight-Medium">Lorem ipsum dolor sit amet, consectetur adipiscing dolor elit. Pellentesque diam sem, hendrerit ut faucibus sit amet, bibendum vel lacus. Nunc magna sed </p>
                             </div><!--section-title end-->
                         </div>
                     </div>
@@ -1115,30 +1054,35 @@
                                         <div class="accordion">
                                             <!-- toggle -->
                                             <div class="toggle ttm-toggle_style_classic ttm-toggle-title-bgcolor-grey">
-                                                <div class="toggle-title"><a href="#" class="active">What is the Hipcouch Interior Design Service?</a></div>
+                                                <div class="toggle-title"><a href="#" class="active">What is Prefabricated Construction?</a></div>
                                                 <div class="toggle-content show">
-                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices suspendisse ultrices gravida.</p>
+                                                    <p>Prefabrication, commonly referred to as modular construction, is a building method in which individual building components are produced in a factory and then put together on-site to form a full structure. Numerous advantages come with this building technique, including higher effectiveness, decreased waste, quicker construction durations, and improved quality control. Prefabricated parts can be created and built to match certain architectural specifications, providing more flexibility and personalization. Because it generates less waste and uses fewer resources on site, prefab building is often more ecologically friendly than traditional construction. In general, prefabrication offers a practical and affordable alternative for many building projects.</p>
                                                 </div>
                                             </div><!-- toggle end -->
                                             <!-- toggle -->
                                             <div class="toggle ttm-toggle_style_classic ttm-toggle-title-bgcolor-grey">
-                                                <div class="toggle-title"><a href="#">So, how exactly does this work?</a></div>
+                                                <div class="toggle-title"><a href="#">. What are the Benefits of Prefabricated system?</a></div>
                                                 <div class="toggle-content">
-                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices suspendisse ultrices gravida.</p>
+                                                    <ul>
+                                                        <li>Prefabrication enables greater quality control since the building components are created in a controlled industrial setting where they can be carefully inspected for quality.</li>
+                                                        <li>Due to the simpler and fast production process, prefab building can be more affordable than conventional construction techniques.</li>
+                                                        <li>Prefabricated construction has the potential to be a more environmentally friendly building technique since it generates less waste, consumes fewer resources, and can be made to be more environmentally friendly.</li>
+                                                        <li>A broad spectrum of building sizes and kinds, including residential houses, office buildings, and factories, may be built using prefabrication.</li>
+                                                    </ul>
                                                 </div>
                                             </div><!-- toggle end -->
                                             <!-- toggle -->
                                             <div class="toggle ttm-toggle_style_classic ttm-toggle-title-bgcolor-grey">
-                                                <div class="toggle-title"><a href="#">What cities do you currently operate in?</a></div>
+                                                <div class="toggle-title"><a href="#">What is an examples of prefabricated products?</a></div>
                                                 <div class="toggle-content">
-                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices suspendisse ultrices gravida.</p>
+                                                    <p>Modular Homes, Prefabricated Bathrooms, Wall Panels, Roof Trusses, Steel Framing, Prefabricated Stairs, Prefabricated Bridge Structures, Prefabricated Commercial Building.</p>
                                                 </div>
                                             </div><!-- toggle end -->
                                             <!-- toggle -->
                                             <div class="toggle ttm-toggle_style_classic ttm-toggle-title-bgcolor-grey">
-                                                <div class="toggle-title"><a href="#">Why should I use the Hipcouch Interior Design Service?</a></div>
+                                                <div class="toggle-title"><a href="#">Where is PEB building used?</a></div>
                                                 <div class="toggle-content">
-                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices suspendisse ultrices gravida.</p>
+                                                    <p>PEB buildings is used for many industrial and commercial sector providing a high-quality, cost-effective, and sustainable alternative to traditional construction methods.</p>
                                                 </div>
                                             </div><!-- toggle end -->
                                             <!-- toggle -->
@@ -1193,14 +1137,14 @@
                                             <h4 class="ttm-fid-inner">
                                                 <span   data-appear-animation="animateDigits" 
                                                         data-from="0" 
-                                                        data-to="863" 
+                                                        data-to="3500" 
                                                         data-interval="100" 
                                                         data-before="" 
                                                         data-before-style="sup" 
                                                         data-after="" 
                                                         data-after-style="sub" 
                                                         class="numinate">
-                                                    863
+                                                    3500
                                                 </span>
                                                 <span>+</span>
                                             </h4>
@@ -1218,14 +1162,14 @@
                                             <h4 class="ttm-fid-inner">
                                                 <span   data-appear-animation="animateDigits" 
                                                         data-from="0" 
-                                                        data-to="4272" 
+                                                        data-to="3000" 
                                                         data-interval="100" 
                                                         data-before="" 
                                                         data-before-style="sup" 
                                                         data-after="" 
                                                         data-after-style="sub" 
                                                         class="numinate">
-                                                    4272
+                                                    3000
                                                 </span>
                                                 <span>+</span>
                                             </h4>
@@ -1243,14 +1187,14 @@
                                             <h4 class="ttm-fid-inner">
                                                 <span   data-appear-animation="animateDigits" 
                                                         data-from="0" 
-                                                        data-to="416" 
+                                                        data-to="25" 
                                                         data-interval="100" 
                                                         data-before="" 
                                                         data-before-style="sup" 
                                                         data-after="" 
                                                         data-after-style="sub" 
                                                         class="numinate">
-                                                    416
+                                                    25
                                                 </span>
                                                 <span>+</span>
                                             </h4>
@@ -1268,14 +1212,14 @@
                                             <h4 class="ttm-fid-inner">
                                                 <span   data-appear-animation="animateDigits" 
                                                         data-from="0" 
-                                                        data-to="16" 
+                                                        data-to="10" 
                                                         data-interval="5" 
                                                         data-before="" 
                                                         data-before-style="sup" 
                                                         data-after="" 
                                                         data-after-style="sub" 
                                                         class="numinate">
-                                                    16
+                                                    10
                                                 </span>
                                                 <span>+</span>
                                             </h4>
@@ -1331,7 +1275,6 @@
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            
                             
                             <iframe width="100" height="500" style="border-left:5px solid #fff" src="https://www.youtube.com/embed/ychdAPBGvQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>

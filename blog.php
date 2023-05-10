@@ -278,7 +278,7 @@
                                     </li>
                                 </ul>
                             </aside>
-                            <aside class="widget tagcloud-widget">
+                            <!-- <aside class="widget tagcloud-widget">
                                 <h3 class="widget-title">Tags</h3>
                                 <div class="tagcloud">
                                     <a href="#" class="tag-cloud-link">Architecture</a>
@@ -329,7 +329,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </aside>
+                            </aside> -->
                            
                         </div>
                     </div><!-- row end -->

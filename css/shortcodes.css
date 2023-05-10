@@ -223,7 +223,7 @@
     background-repeat: no-repeat;
 }
 .col-bg-img-eight.ttm-col-bgimage-yes > .ttm-col-wrapper-bg-layer{
-    background-image: url(../images/contactus/contactusscroll.jpg);
+    background-image: url(../images/contactus/contactusscroll.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -2137,7 +2137,7 @@ div:hover > .ttm-box-view-overlay:before, div:hover > .ttm-box-view-content-inne
 .featured-imagebox-portfolio.style3:hover .featured-content{
     opacity: 1;
 }
-.featured-imagebox-portfolio.style3:hover .ttm-footer{opacity: 1;}
+.featured-imagebox-portfolio.style3:hover .ttm-footer{opacity: 1; margin-left: 30%;}
 
 
 /* portfolio-4 */
@@ -2871,7 +2871,7 @@ div:hover > .ttm-box-view-overlay:before, div:hover > .ttm-box-view-content-inne
     transition: all 0.5s ease 0s;
 }
 .testimonials.style1 .testimonials-inner-item {
-    margin-top: 30px;
+    /* margin-top: 30px;  TODO */
     margin-bottom: 5px;
 }
 .testimonials.style1 .testimonial-content {

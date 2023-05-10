@@ -74,7 +74,7 @@
                                     <div class="featured-content">
                                         <div class="featured-title">
                                             <h3>Call Us Now</h3>
-                                            <p>+001 (123) 456 7890</p>
+                                            <p>+91 97909 24754</p>
                                         </div>
                                     </div>
                                 </div><!-- featured-icon-box end-->
@@ -92,7 +92,7 @@
                                     <div class="featured-content">
                                         <div class="featured-title">
                                             <h3>Office Location</h3>
-                                            <p>78 St. Road, NJ USA</p>
+                                            <p>15,62nd street, Ashok Nagar, <br/>Chennai-600083</p>
                                         </div>
                                     </div>
                                 </div><!-- featured-icon-box end-->
@@ -110,7 +110,7 @@
                                     <div class="featured-content">
                                         <div class="featured-title">
                                             <h3>Email Address</h3>
-                                            <p>info@example.com</p>
+                                            <p>admin@mekark.com</p>
                                         </div>
                                     </div>
                                 </div><!-- featured-icon-box end-->
@@ -128,9 +128,9 @@
                     </div>
                     <div class="col-md-12">
                         <ul id="menu-footer-menu" class="footer-nav-menu">
-                            <li><a href="#">Terms & Condition</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Sitemap</a></li>
+                            <li><a href="javascript:;">Terms & Condition</a></li>
+                            <li><a href="javascript:;">Privacy Policy</a></li>
+                            <li><a href="javascript:;">Sitemap</a></li>
                         </ul>
                     </div>
                 </div>
