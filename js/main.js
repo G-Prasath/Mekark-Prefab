@@ -710,12 +710,9 @@ if ($("#page_form").length) {
         submitHandler: function (form) {
             $.ajax({
                 type: "POST",
-                url: "PHP-Mail/submit.php",
-                data: $(form).serialize(),
-                success: function () {
-                    window.location = "https://www.mekarkprefab.com";
-                    window.location.reload(true);
-                },
+                url: "PHP_Mail/submit.php",
+                data: $('#page_form').serialize()
+                
             });
             return false; 
         }

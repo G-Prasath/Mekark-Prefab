@@ -23,7 +23,7 @@
         <!--header end-->
 
         <!-- ---- body-cnt ----- -->
-        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="4000">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
           <div class="carousel-inner">
             <div class="carousel-item active">
                 <div class="container-fluid">

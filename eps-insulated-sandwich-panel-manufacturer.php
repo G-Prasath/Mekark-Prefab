@@ -222,7 +222,9 @@
                                             <div class="row ttm-boxes-spacing-20px">
                                                 <div class="col-md-6">
                                                     <label>
-                                                        <span class="text-input"><input name="name" type="text" placeholder="Name" required></span>
+                                                        <span class="text-input">
+                                                            <input  type="text" name="name" placeholder="Name" required>
+                                                        </span>
                                                     </label>
                                                 </div>
                                                 <div class="col-md-6">
@@ -242,7 +244,7 @@
                                                 </div>
                                                 
                                                 <div class="col-lg-12">
-                                                    <div class="g-recaptcha mb-3" data-sitekey="6LejJPklAAAAAOYtij_6wy9dAtlZf4wBxNXooYO4"></div>
+                                                    <!-- <div class="g-recaptcha mb-3" data-sitekey="6LejJPklAAAAAOYtij_6wy9dAtlZf4wBxNXooYO4"></div> -->
 
                                                 </div>
                                                 <button type="submit" class="btn ttm-btn ttm-btn-style-border" name="submit">Submit</button>

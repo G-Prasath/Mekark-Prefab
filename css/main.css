@@ -2308,17 +2308,20 @@ ul.footer-nav-menu li:last-child:after{
 }
 
 /* ---------- Products ----------------  */
+.prefab-struct{
+    background: url(../images/products/prefab-struct/cover-img/prefabiricate-structures.png);
+}
 .psi{
-    background: url(../images/products/prefab-struct/prefab-site-infra/prefabsite-structures.jpg);
+    background: url(../images/products/prefab-struct/prefabiricate-struct.png);
 }
 .pso{
-    background: url(../images/products/prefab-struct/prefab-site/prefabsite-office.jpg);
+    background: url(../images/products/prefab-struct/cover-img/prefabricate-site-office.png);
 }
 .lh{
     background: url(../images/products/prefab-struct/labour-hument/labourhutment.jpg);
 }
 .railway{
-    background: url(../images/products/prefab-struct/railways/railwayshelter.jpg);
+    background: url(../images/products/prefab-struct/prefab-structure.png);
 }
 .control-room{
     background: url(../images/products/prefab-struct/control-room/controlroom.jpg);

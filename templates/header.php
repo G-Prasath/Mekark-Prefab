@@ -34,7 +34,7 @@
                                 </div>
                                 <div class="top_bar_contact_item">
                                     <div class="top_bar_icon widget-icon"><i class="fa fa-phone"></i>
-                                    </div>+91 97909 24754
+                                    </div><a href="tel:9790924754">+91 97909 24754</a>
                                 </div><!-- widget-info end -->
                             </div>
                         </div>
@@ -55,7 +55,7 @@
                             
                             <div class="th-number">
                                 <div class="top_bar_icon widget-icon"><i class="fa fa-phone"></i></div>
-                                +91 97909 24754
+                                <a href="tel:9790924754">+91 97909 24754</a>
                             </div>
                             
                             <div class="th-icons">
