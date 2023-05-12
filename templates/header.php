@@ -40,7 +40,47 @@
                         </div>
                     </div>
                 </div>
-            </div><!-- top_bar end-->
+            </div>
+            <!-- top_bar end-->
+
+            <!-- Mobile top_bar -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 p-0">
+                        <div class="mobile-top-header">
+                            <div class="th-mail">
+                                <div class="top_bar_icon"><i class="fa fa-envelope-o"></i></div>
+                                <a href="mailto:admin@mekark.com"><span>admin@mekark.com</span></a>
+                            </div>
+                            
+                            <div class="th-number">
+                                <div class="top_bar_icon widget-icon"><i class="fa fa-phone"></i></div>
+                                +91 97909 24754
+                            </div>
+                            
+                            <div class="th-icons">
+                                <ul class="list-inline">
+                                    <li><a href="https://www.facebook.com/Mekark-Industrial-100915716256258" target="_blank" rel="noopener" aria-label="facebook"><i class="fa fa-facebook"></i></a>
+                                    </li>
+                                    <li><a href="https://twitter.com/MekarkPEB" target="_blank" rel="noopener" aria-label="twitter"><i class="fa fa-twitter"></i></a>
+                                    </li>
+                                    <li><a href="https://www.linkedin.com/in/mekark-engineering-856448264/" target="_blank" rel="noopener" aria-label="linkedin"><i class="fa fa-linkedin"></i></a>
+                                    </li>
+                                    <li><a href="https://www.youtube.com/channel/UCsCdBcilS4Ib5l1C7l2u3bg" target="_blank" rel="noopener" aria-label="pinterest"><i class="fa fa-youtube-play"></i></a>
+                                    </li>
+                                    <li><a href="https://www.instagram.com/mekarkeng/" target="_blank" rel="noopener" aria-label="pinterest"><i class="fa fa-instagram"></i></a>
+                                    </li>
+                                    <li><a href="https://in.pinterest.com/mekarkeng/" target="_blank" rel="noopener" aria-label="pinterest"><i class="fa fa-pinterest-p"></i></a>
+                                    </li>
+                                </ul>                           
+                            </div>
+                            
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Mobile top_bar end-->
 
             <!-- site-header-menu -->
             <div id="site-header-menu" class="site-header-menu">
@@ -94,15 +134,7 @@
                                                         </li>
                                                         <!-- -------- PRE ENGINEERED BUILDING ------->
                                                         <li class="mega-menu-item">
-                                                            <a href="peb-manufacturer-india" class="mega-menu-link">Pre Engineered Building</a>
-                                                            <ul class="mega-submenu">
-                                                                <li><a href="peb-warehouse-shed-manufacturer">Warehouse</a></li>
-                                                                <li><a href="peb-industrial-shed-supplier">Industrial Shed</a></li>
-                                                                <li><a href="prefabricated-factory-building-manufacturer">Factory Buildings</a></li>
-                                                                <li><a href="multi-storey-building-manufacturer">Multi Storey Steel Building</a></li>
-                                                                <li><a href="industrial-enclosures-acoustic-manufacturer">Industrial Enclosures</a></li>
-                                                                <li><a href="cold-storage-panel-manufacturer">Cold Storage</a></li>                                                                
-                                                            </ul>
+                                                            <a href="cold-storage-panel-manufacturer">Cold Storage</a>
                                                         </li>
                                                         <!-- -------- SANDWICH PANELS ------------>
                                                         <li class="mega-menu-item">
@@ -199,9 +231,9 @@
                           <textarea type="text" id="msg" name="msg" class="md-textarea form-control" rows="3" autocomplete="off" required></textarea>
                         </div>
                         
-                        <div class="md-form" style="display:flex;justify-content: space-between;">
+                        <div class="md-form" style="display:flex; flex-direction: column;">
                             <div class="g-recaptcha mb-3 mt-3" data-sitekey="6LejJPklAAAAAOYtij_6wy9dAtlZf4wBxNXooYO4"></div>
-                            <button type="submit" name="submit" class="btn btn-unique">Send <i class="fa fa-paper-plane-o ml-1"></i></button>
+                            <button type="submit" name="submit" class="btn btn-unique btn-outline-success">Send <i class="fa fa-paper-plane-o ml-1"></i></button>
                         </div>
                         <div class="md-form">
                         </div>

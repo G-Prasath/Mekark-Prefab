@@ -7,6 +7,7 @@
 <title>Prefabricated Modular Solutions Manufacturer | Mekark Prefab</title> 
 <meta name="description" content="Mekark is the top level of manufacturing technology offers the prefabricated standard modular solution. Contact us today."/>
 <meta name="keywords" content="Prefabricated Modular Solutions Manufacturer, Prefabricated Modular Solutions, Prefabricated Modular Solutions India"/>
+<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
 
 <?php include_once 'templates/head.php'?>
 

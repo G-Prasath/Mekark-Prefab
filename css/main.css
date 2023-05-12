@@ -224,6 +224,287 @@ body {
     color: #252525;
 }
 
+/* --------------- Start Body Slide -----------  */
+
+.first-slide {
+    background-image: url("../images/home/slides/main-1.png");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    margin-top: 0vh;
+  }
+  .first-slide > .f-cnt{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 11% 5%;
+
+  }
+  .first-slide > .f-cnt > h1{
+    font-size: 90px;
+    color: #fff;
+    line-height: 100px;
+  }
+  .first-slide > .f-cnt > h1 > span{
+    color: #e89963;
+  }
+  .first-slide > .f-cnt > a{
+    margin-top: 3%;
+   color: #2d5765;
+   width: 140px;
+   padding: 12px 18px;
+   background-color: #fff;
+   border-radius: 50px;
+   font-weight: bold;
+   text-align: center;
+   
+  }
+  .first-slide > .f-cnt > a:hover{
+    background-color: #e89963;
+    color: #fff;
+  }
+
+  @media only screen and (max-width: 360px){
+    .first-slide > .f-cnt{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    
+      }
+    .first-slide > .f-cnt > h1{
+        font-size: 29px;
+        color: #fff;
+        line-height: 70px;
+        text-align: center;
+      }
+
+      .second-slide > .s-cnt{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    
+      }
+    .second-slide > .s-cnt > h1{
+        font-size: 29px;
+        color: #fff;
+        line-height: 70px;
+        text-align: center;
+      }
+  }
+
+  @media only screen and (min-width: 360px) and (max-width: 768px){
+    .first-slide > .f-cnt{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+    .first-slide > .f-cnt > h1{
+        font-size: 42px;
+        color: #fff;
+        line-height: 70px;
+        text-align: center;
+      }
+      
+      .second-slide > .s-cnt{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+    .second-slide > .s-cnt > h1{
+        font-size: 42px;
+        color: #fff;
+        line-height: 70px;
+        text-align: center;
+      }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 992px){
+    .first-slide > .f-cnt{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+    .first-slide > .f-cnt > h1{
+        font-size: 60px;
+        color: #fff;
+        line-height: 70px;
+      }
+    .second-slide > .s-cnt{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+    .second-slide > .s-cnt > h1{
+        font-size: 60px;
+        color: #fff;
+        line-height: 70px;
+      }
+  }
+
+
+  /* -------- Second Slid --------  */
+  .second-slide {
+    background-image: url("../images/home/slides/main-2.png");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    margin-top: 0vh;
+  }
+  .second-slide > .s-cnt{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 11% 5%;
+
+  }
+  .second-slide > .s-cnt > h1{
+    font-size: 90px;
+    color: #fff;
+    line-height: 100px;
+  }
+  .second-slide > .s-cnt > h1 > span{
+    color: #e89963;
+  }
+  .second-slide > .s-cnt > a{
+    margin-top: 3%;
+   color: #2d5765;
+   width: 140px;
+   padding: 12px 18px;
+   background-color: #fff;
+   border-radius: 50px;
+   font-weight: bold;
+   text-align: center;
+   
+  }
+  .second-slide > .f-cnt > a:hover{
+    background-color: #e89963;
+    color: #fff;
+  }
+  @media only screen and (max-width: 360px){
+      .second-slide > .s-cnt{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    
+      }
+    .second-slide > .s-cnt > h1{
+        font-size: 29px;
+        color: #fff;
+        line-height: 70px;
+        text-align: center;
+      }
+  }
+
+  @media only screen and (min-width: 360px) and (max-width: 768px){
+      .second-slide > .s-cnt{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+    .second-slide > .s-cnt > h1{
+        font-size: 42px;
+        color: #fff;
+        line-height: 70px;
+        text-align: center;
+      }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 992px){
+    .second-slide > .s-cnt{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+    .second-slide > .s-cnt > h1{
+        font-size: 60px;
+        color: #fff;
+        line-height: 70px;
+      }
+  }
+
+/* ---------------- End Body Slide -------------- */
+
+/* ----------------- Start Top Header -----------  */
+.mobile-top-header{
+    background-color: #ccc;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+    font-weight: bold;
+    display: none;
+}
+.th-number, .th-mail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.th-icons > ul{
+    display: flex;
+    margin: 0px;
+}
+.th-icons > ul > li{
+    padding: 0px 10px;
+}
+@media only screen and (max-width: 1200px){
+    .mobile-top-header{
+        display: flex;
+    }
+}
+@media only screen and (max-width: 576px){
+    .mobile-top-header{
+        display: block;
+    }
+    .th-number, .th-mail{
+        display: block;
+    }
+    .th-icons > ul > li{
+        padding-left: 0px;
+        padding-right: 20px;
+    }
+}
+
+
+
+/* ----------------- End Top Header -----------  */
+
+
+
+
+
+
+
+
 h1, h2, h3, h4, h5, h6{ font-family: "Saira Semi Condensed", Arial, Helvetica, sans-serif; margin-bottom: 15px; font-weight: 600; color :#2f2f2f;}
 h1 { font-size: 60px; line-height: 72px; }
 h2 { font-size: 30px; line-height: 40px; }

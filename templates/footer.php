@@ -30,7 +30,6 @@
                            <h3 class="widget-title">Usefull Links</h3>
                             <ul id="menu-footer-service-link" class="menu">
                                 <li><a href="prefabricated-structures-manufacturer">Prefabricated Structures</a></li>
-                                <li><a href="peb-manufacturer-india">Pre Engineered Building</a></li>
                                 <li><a href="sandwich-panel-roofing-manufacturer">Sandwich Panels</a></li>
                                 <li><a href="light-gauge-steel-framing-manufacturer">LGSF</a></li>
                                 <li><a href="prefabricated-modular-solution-manufacturer">Standard Modular Soluation</a></li>

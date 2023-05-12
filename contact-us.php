@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
+    
 <head>
 <meta charset="utf-8">
 <link rel="canonical" href="https://www.mekarkprefab.com/contact-us"/>
@@ -155,7 +154,7 @@
                                 <div class="layer-content">
                                         <h3 class="mb-5">Chat With A Live</h3>
                                         <p>Let's chat with our live experts to get answer your questions.</p>
-                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-round ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-white mt-15" href="architecture.html" tabindex="0">Live chat</a>
+                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-round ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-white mt-15" href="https://wa.me/9790924754" tabindex="0">Live chat</a>
                                 </div>
                             </div>
                             <!-- col-img-bg-img-eight end-->

@@ -1,0 +1,17 @@
+RewriteEngine on
+
+# --------- HTTP to HTTPS ----------- 
+#RewriteCond %{HTTPS} !on
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+# ---------- URL Rewriting ------------ 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L] 
+
+# ----------- .php Extension add to Redirect without .php ---- 
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+RewriteRule ^ %1 [R=302,L,NE]
+
+# ------ Page Not Found ---------- 
+#ErrorDocument 404 /404.html

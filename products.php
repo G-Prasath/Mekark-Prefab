@@ -6,6 +6,8 @@
 <link rel="canonical" href="https://www.mekarkprefab.com/products"/>
 <link rel="shortcut icon" href="images/favicon.png" >
 <title>Services</title>
+<meta name="viewport" content=" width=device-width, initial-scale=1, maximum-scale=2" >
+<link rel="shortcut icon" href="images/favicon.png" >
 
 <?php include_once 'templates/head.php'?>
  
@@ -87,7 +89,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/prefabsitestructure.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/prefabiricate-structure/site-infrostructure.png" alt="image"> 
                                 </div>
 
                                 <div class="featured-content-inner">
@@ -106,7 +108,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/prefabsiteoffice.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/prefabiricate-structure/site-office.png" alt="image"> 
                                 </div>
 
                                 <div class="featured-content-inner">
@@ -126,7 +128,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/labourhutment.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/prefabiricate-structure/labour-hutment.png" alt="image"> 
                                 </div>
 
                                 <div class="featured-content-inner">
@@ -147,7 +149,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/railwayshelter.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/prefabiricate-structure/railway-shulter.png" alt="image"> 
                                 </div>
 
                                 <div class="featured-content-inner">
@@ -167,7 +169,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/prefabcontrolroom.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/prefabiricate-structure/control-room.png" alt="image"> 
                                 </div>
 
                                 <div class="featured-content-inner">
@@ -187,7 +189,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/prefabripening-chambers.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/prefabiricate-structure/ripening-chamber.png" alt="image"> 
                                 </div>
 
                                 <div class="featured-content-inner">
@@ -207,7 +209,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/prefabacousticenclosure.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/prefabiricate-structure/acoustic-enclosure.png" alt="image"> 
                                 </div>
 
                                 <div class="featured-content-inner">
@@ -227,7 +229,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/prefabsecuritycabin.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/prefabiricate-structure/security-cabin.png" alt="image"> 
                                 </div>
 
                                 <div class="featured-content-inner">
@@ -247,7 +249,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/prefabtoilet.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/prefabiricate-structure/prefabricate-toilet.png" alt="image"> 
                                 </div>
 
                                 <div class="featured-content-inner">
@@ -267,7 +269,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/prefabcleanroom.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/prefabiricate-structure/clean-room.png" alt="image"> 
                                 </div>
 
                                 <div class="featured-content-inner">
@@ -287,7 +289,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/prefabpoultryshed.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/prefabiricate-structure/poultry-shed.png" alt="image"> 
                                 </div>
 
                                 <div class="featured-content-inner">
@@ -310,7 +312,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichpufpanel.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/peb/warehouse.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -330,7 +332,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichepspanel.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/peb/industrial-shed.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -350,7 +352,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichrockwoolpanel.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/peb/factory-buildings.jpg" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -369,7 +371,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichglasswoolpanel.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/peb/multi-storey-steel-building.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -388,7 +390,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichglasswoolpanel.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/peb/industrial-enclosure.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -407,7 +409,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichglasswoolpanel.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/peb/cold-storage.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -429,7 +431,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/LGSF/lgsfprefabschol.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/LGSF/prefab-school.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -448,7 +450,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/LGSF/lgsfprefabhomes.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/LGSF/prefab-homes.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -467,7 +469,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/LGSF/lgsfprefabsampleflat.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/LGSF/sample-flats.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -490,7 +492,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichpufpanel.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/sandwich-panal/Puf-panel.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -510,7 +512,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichepspanel.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/sandwich-panal/eps-panel.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -530,7 +532,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichrockwoolpanel.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/sandwich-panal/rockwool-panel.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -549,7 +551,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/sandwich-panal/sandwichglasswoolpanel.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/sandwich-panal/glasswool-panel.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -571,7 +573,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/standred-modular-solution/portacabin.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/standred-modular-solution/porta-cabin.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -590,7 +592,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/standred-modular-solution/liftableportacabin.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/standred-modular-solution/liftable-cabin.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -609,7 +611,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/standred-modular-solution/mi-homes.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/standred-modular-solution/mi-homes.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
@@ -628,7 +630,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
                                 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/standred-modular-solution/k-house.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/products/hole-services/standred-modular-solution/k-house.png" alt="image"> 
                                 </div>
                                
                                 <div class="featured-content-inner">
