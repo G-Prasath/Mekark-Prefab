@@ -76,7 +76,7 @@
                                 </tr>
                                 <tr>
                                   <td>Our CEO</td>
-                                  <td>Janvel</td>
+                                  <td>D Aquin Janvel</td>
                                 </tr>
                                 <tr>
                                   <td>Our Team Size</td>
@@ -436,7 +436,7 @@
                                 
                                 <img src="images/about/persons/person-4.png" class="img-fluid" alt="">
                                 <div class="img-overlay">
-                                    <p class="service-para">Mr Kumaresan <span>(Production Head)</span></p>
+                                    <p class="service-para">Mr Chitravel <span>(Production Head)</span></p>
                                 </div>
                             </div>
                         </div>
@@ -470,7 +470,7 @@
                             <div class="staf-img">
                                 <img src="images/about/persons/person-6.png" class="img-fluid" alt="">
                                 <div class="img-overlay">
-                                    <p class="service-para">Mr Harihara Sudhan <span>(Civil Head)</span></p>
+                                    <p class="service-para">Mr Sagayam <span>(Civil Head)</span></p>
                                 </div>
                             </div>
                         </div>

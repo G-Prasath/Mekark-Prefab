@@ -39,7 +39,7 @@ $mail->Username   = "demosmda@gmail.com";
 $mail->Password   = "cxhkyjnewtigqrxw";
 
 // To mail address
-$mail->AddAddress("sikkandar@smartroofings.in", "Guru Prasath");
+$mail->AddAddress("guruprasathmsc@gmail.com", "Guru Prasath");
 
 
 $mail->isHTML(true);
@@ -94,7 +94,7 @@ if (!$mail->Send()) {
   header("Location:../thank-you.php");
 }
 ?>
-
+<!-- 
 
 
 <!DOCTYPE html>
@@ -115,7 +115,7 @@ if (!$mail->Send()) {
       <input class="sub" href="../index.php" type="submit" value="Return" />
     </form>
   </body>
-</html>
+</html> -->
 
 
 

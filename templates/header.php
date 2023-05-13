@@ -106,7 +106,7 @@
                                         <!-- menu -->
                                         <nav class="main-menu menu-mobile" id="menu">
                                             <ul class="menu">
-                                                <li class="active">
+                                                <li>
                                                     <a href="https://www.mekarkprefab.com">Home</a>
                                                 </li>
                                                 <li>

@@ -8,10 +8,6 @@ require 'PHPMailer-master/src/SMTP.php';
 
 date_default_timezone_set('Asia/Kolkata');
 
-echo "Hello";
-print_r($_POST);
-exit;
-
 if(isset($_POST['submit'])) {
 
  	$name = $_POST['name']; // required

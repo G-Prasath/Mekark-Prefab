@@ -171,7 +171,7 @@
                                         </div>
                                     </div><!-- section title end -->
                                     <div class="padding_top30">
-                                        <form id="contact_form" class="page_form wrap-form clearfix">
+                                        <form action="career-mail" method="post" id="contact_form" class="page_form wrap-form clearfix">
                                             <div class="row ttm-boxes-spacing-20px">
                                                 <div class="col-md-6">
                                                     <label>
@@ -211,7 +211,7 @@
                                                 </div>
                                                 <div class="col-md-12">
                                                     <label>
-                                                        <span class="text-input"><input name="role crole" id="others" class="others" type="text" placeholder="Enter Designination" required="required"></span>
+                                                        <span class="text-input"><input name="crole" id="others" class="others" type="text" placeholder="Enter Designination" required="required"></span>
                                                     </label>
                                                 </div>
                                                 <div class="col-md-12">
@@ -221,12 +221,12 @@
                                                 </div>
                                                 <div class="col-md-12">
                                                     <label>
-                                                        <span class="text-input"><input name="resume" type="file" accept=".doc,.docx,.pdf" required="required"></span>
+                                                        <span class="text-input"><input type="file" name="resume" accept=".doc,.docx,.pdf" required="required"></span>
                                                     </label>
                                                 </div>
-                                                <div class="col-md-8">
+                                                <!-- <div class="col-md-8">
                                                     <div class="g-recaptcha mb-3 mt-3" data-sitekey="6LejJPklAAAAAOYtij_6wy9dAtlZf4wBxNXooYO4"></div>
-                                                </div>
+                                                </div> -->
                                                 <div class="col-lg-4">
                                                     <button type="submit" name="submit" class="ttm-btn ttm-btn-size-md ttm-btn-shape-round ttm-btn-style-border ttm-icon-btn-right ttm-btn-color-darkgrey" style="border:2px solid #ccc;background-color:#e89963;color:#fff">Submit</button>
                                                 </div>

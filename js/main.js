@@ -669,18 +669,9 @@ if ($("#contact_form").length) {
             crole: "Please enter Your Designation",
             resume: "Upload Your Resume"
         },
-        submitHandler: function (form) {
-            $.ajax({
-                type: "POST",
-                url: "PHP-Mail/submit.php",
-                data: $(form).serialize(),
-                success: function () {
-                    window.location = "https://www.mekarkprefab.com";
-                    window.location.reload(true);
-                },
-            });
-            return false; 
-        }
+        submitHandler: function(form) {
+            form.submit();
+          }
     });
 }
 
@@ -707,14 +698,8 @@ if ($("#page_form").length) {
             email: "Please enter your email address",
             msg: "Please Enter Your Message",
         },
-        submitHandler: function (form) {
-            $.ajax({
-                type: "POST",
-                url: "PHP_Mail/submit.php",
-                data: $('#page_form').serialize()
-                
-            });
-            return false; 
-        }
+        submitHandler: function(form) {
+            form.submit();
+          }
     });
 }
