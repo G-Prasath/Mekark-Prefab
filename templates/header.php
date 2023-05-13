@@ -132,7 +132,7 @@
                                                                 <li><a href="prefabricated-poultry-shed-manufacturer">Poultry Shed</a></li> 
                                                             </ul>
                                                         </li>
-                                                        <!-- -------- PRE ENGINEERED BUILDING ------->
+                                                        <!-- -------- Cold Storage ------->
                                                         <li class="mega-menu-item">
                                                             <a href="cold-storage-panel-manufacturer">Cold Storage</a>
                                                         </li>

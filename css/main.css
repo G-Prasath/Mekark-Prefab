@@ -2312,76 +2312,85 @@ ul.footer-nav-menu li:last-child:after{
     background: url(../images/products/prefab-struct/cover-img/prefabiricate-structures.png);
 }
 .psi{
-    background: url(../images/products/prefab-struct/prefabiricate-struct.png);
+    background: url(../images/products/prefab-struct/prefab-site-infra/prefabsite-structures.jpg);
 }
 .pso{
-    background: url(../images/products/prefab-struct/cover-img/prefabricate-site-office.png);
+    background: url(../images/products/prefab-struct/prefab-site/prefabricate-site-office.png);
 }
 .lh{
-    background: url(../images/products/prefab-struct/labour-hument/labourhutment.jpg);
+    background: url(../images/products/prefab-struct/labour-hument/Labour-hutment.png);
 }
 .railway{
-    background: url(../images/products/prefab-struct/prefab-structure.png);
+    background: url(../images/products/prefab-struct/railways/railway-dhelter.png);
 }
 .control-room{
-    background: url(../images/products/prefab-struct/control-room/controlroom.jpg);
+    background: url(../images/products/prefab-struct/control-room/prefabsite-control-room.jpg);
 }
 .reping{
-    background: url(../images/products/prefab-struct/riping/ripeningchambers.jpg);
+    background: url(../images/products/prefab-struct/riping/rippining-chamber.png);
 }
 .acoustic{
-    background: url(../images/products/prefab-struct/acoustic/acousticenclosure.jpg);
+    background: url(../images/products/prefab-struct/acoustic/acoustic-enclosure.png);
 }
 .security{
-    background: url(../images/products/prefab-struct/security/security-cabin.jpg);
+    background: url(../images/products/prefab-struct/security/prefab-security-cabin.png);
 }
 .toilet{
-    background: url(../images/products/prefab-struct/prefab-toilet/prefab-toilet.jpg);
+    background: url(../images/products/prefab-struct/prefab-toilet/prefab-toilet.png);
 }
 .clean-room{
-    background: url(../images/products/prefab-struct/clean-room/prefab-cleanroom.jpg);
+    background: url(../images/products/prefab-struct/clean-room/clean-room.png);
 }
 .poultry{
-    background: url(../images/products/prefab-struct/poultry/prefab-poultryshed.jpg);
+    background: url(../images/products/prefab-struct/poultry/poultry-shed.png);
 }
 
 /* ------------------ Sandwich panal -----------------  */
+.sandwich-panal-cover{
+    background: url(../images/products/hole-services/sandwich-panal/sandwich-panel.png);
+}
 .puf-panal{
-    background: url(../images/products/sandwich-panal/puf-panel/sandwich-pufpanel.jpg);
+    background: url(../images/products/sandwich-panal/puf-panel/puf-panel.png);
 }
 .eps-panal{
-    background: url(../images/products/sandwich-panal/puf-panel/sandwich-pufpanel.jpg);
+    background: url(../images/products/sandwich-panal/eps-panel/eps-panel.png);
 }
 .rockwool-bg{
-    background: url(../images/products/sandwich-panal/puf-panel/sandwich-pufpanel.jpg);
+    background: url(../images/products/sandwich-panal/rockwool/Rockwool-panel.png);
 }
 .glasswool-bg{
-    background: url(../images/products/sandwich-panal/puf-panel/sandwich-pufpanel.jpg);
+    background: url(../images/products/sandwich-panal/glasswool/Glaswool-panel.png);
 }
 
 /* -------------------- LGSF ----------------------  */
+.LGSF-cover{
+    background: url(../images/products/hole-services/LGSF/lgsf.png);
+}
 .prefab-school{
-    background: url(../images/products/LGSF/prefab-school/lgsfprefab-school.jpg);
+    background: url(../images/products/LGSF/prefab-school/prefab-school.png);
 }
 .prefab-homes{
-    background: url(../images/products/LGSF/prefab-homes/lgsfprefab-homes.jpg);
+    background: url(../images/products/LGSF/prefab-homes/prefab-homes.png);
 }
 .sample-flat{
-    background: url(../images/products/LGSF/sample-flat/lgsfprefab-sampleflat.jpg);
+    background: url(../images/products/LGSF/sample-flat/sample-flats.png);
 }
 
 /* ------------------- Sandtred modular ------------  */
+.modular-soluation-cover{
+    background: url(../images/products/hole-services/standred-modular-solution/standard-modular-sollution.png);
+}
 .porta-cabin{
-    background: url(../images/products/standred-modular/porta-cabin/portacabin.jpg);
+    background: url(../images/products/standred-modular/porta-cabin/prefab-porta-cabin.png);
 }
 .liftable-cabin{
-    background: url(../images/products/standred-modular/porta-cabin/portacabin.jpg);
+    background: url(../images/products/standred-modular/liftable/liftable-cabin.png);
 }
 .mi-homes{
-    background: url(../images/products/standred-modular/porta-cabin/portacabin.jpg);
+    background: url(../images/products/standred-modular/mi-homes/mi-homes.png);
 }
 .k-house{
-    background: url(../images/products/standred-modular/porta-cabin/portacabin.jpg);
+    background: url(../images/products/standred-modular/k-house/k-house.png);
 }
 
 /* ------------------- PEB ------------  */

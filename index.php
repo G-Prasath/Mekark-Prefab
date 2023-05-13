@@ -86,7 +86,7 @@
                         <div class="col-xl-6 col-lg-6 col-md-12">
                             <!-- ttm_single_image-wrapper -->
                            <div class="ttm_single_image-wrapper">
-                                <img width="570" height="471" class="img-fluid" src="images/home/homes-scroll.jpg" alt="single_02">
+                                <img width="570" height="471" class="img-fluid" src="images/home/homes-scroll.png" alt="single_02">
                             </div>
                             
                         </div>
@@ -208,7 +208,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/railwayshelter.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/railwayshelter.png" alt="image"> 
                                 </div>
 
                                 <div class="featured-content-inner">
@@ -719,7 +719,7 @@
                                     </div>
                                 </div>
                                 <!-- col-img-bg-img-six end-->
-                                <img src="images/home/faq.jpg" class="ttm-equal-height-image" alt="bg-image">
+                                <img src="images/home/faq.png" class="ttm-equal-height-image" alt="bg-image">
                             </div>
                             <div class="col-lg-6 col-md-12">
                                 <div class="ttm-bg ttm-col-bgcolor-yes spacing-10 z-index-2">

@@ -133,52 +133,25 @@
                     <div class="row">
                         <div class="col-md-4">
                             <ul style="list-style-type:none; margin:0px;">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Prefabricated Site Infrastucture</a></li>
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Prefab Site Office</a></li>
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Labor Hutment</a></li>
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Railway Shelters</a></li>
+                                <li><a href="prefabricated-site-infrastructure-manufacturer"><i class="ti-control-forward pr-2"></i>Prefabricated Site Infrastucture</a></li>
+                                <li><a href="prefab-site-office-manufacturer"><i class="ti-control-forward pr-2"></i>Prefab Site Office</a></li>
+                                <li><a href="prefabricated-labour-hutment-manufacturer"><i class="ti-control-forward pr-2"></i>Labor Hutment</a></li>
+                                <li><a href="railway-telecom-shelter-manufacturer"><i class="ti-control-forward pr-2"></i>Railway Shelters</a></li>
                             </ul>
                         </div>
                         <div class="col-md-4">
                             <ul style="list-style-type:none">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Control Room</a></li>
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Ripening Chambers</a></li>
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Acoustic Enclosure</a></li>
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Security Cabin</a></li>
+                                <li><a href="prefabricated-control-pulpits-manufacturer"><i class="ti-control-forward pr-2"></i>Control Room</a></li>
+                                <li><a href="ripening-chambers-manufacturer"><i class="ti-control-forward pr-2"></i>Ripening Chambers</a></li>
+                                <li><a href="prefabricated-acoustic-enclosure-manufacturer"><i class="ti-control-forward pr-2"></i>Acoustic Enclosure</a></li>
+                                <li><a href="security-cabin-manufacturer"><i class="ti-control-forward pr-2"></i>Security Cabin</a></li>
                             </ul>
                         </div>
                         <div class="col-md-4">
                         <ul style="list-style-type:none">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Prefabricated Toilet</a></li>
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Clean Room</a></li>
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Poultry Shed</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                        <p><b>PRE ENGINEERED BUILDING</b></p>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-4">
-                            <ul style="list-style-type:none; margin:0px">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Warehouse</a></li>
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Industrial Shed</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4">
-                            <ul style="list-style-type:none">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Factory Building</a></li>
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Multi Storey Building</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4">
-                            <ul style="list-style-type:none">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Industrial Enclosures</a></li>
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Cold Storage</a></li>
+                                <li><a href="prefabricated-toilet-manufacturer"><i class="ti-control-forward pr-2"></i>Prefabricated Toilet</a></li>
+                                <li><a href="prefabricated-modular-clean-room-manufacturer"><i class="ti-control-forward pr-2"></i>Clean Room</a></li>
+                                <li><a href="prefabricated-poultry-shed-manufacturer"><i class="ti-control-forward pr-2"></i>Poultry Shed</a></li>
                             </ul>
                         </div>
                     </div>
@@ -192,18 +165,18 @@
                     <div class="row">
                         <div class="col-md-4">
                             <ul style="list-style-type:none; margin:0px">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>PUF Panel</a></li>
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>EPS Panel</a></li>
+                                <li><a href="puf-insulated-and-sandwich-panel-manufacturer"><i class="ti-control-forward pr-2"></i>PUF Panel</a></li>
+                                <li><a href="eps-insulated-sandwich-panel-manufacture"><i class="ti-control-forward pr-2"></i>EPS Panel</a></li>
                             </ul>
                         </div>
                         <div class="col-md-4">
                             <ul style="list-style-type:none">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Rockwool Panel</a></li>
+                                <li><a href="rockwool-sandwich-panel-manufacturer"><i class="ti-control-forward pr-2"></i>Rockwool Panel</a></li>
                             </ul>
                         </div>
                         <div class="col-md-4">
                             <ul style="list-style-type:none">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Glasswool Panel</a></li>
+                                <li><a href="glass-wool-sandwich-panel-manufacturer"><i class="ti-control-forward pr-2"></i>Glasswool Panel</a></li>
                             </ul>
                         </div>
                     </div>
@@ -217,17 +190,17 @@
                     <div class="row">
                         <div class="col-md-4">
                             <ul style="list-style-type:none; margin:0px">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Prefab School</a></li>
+                                <li><a href="prefab-school-manufacturer"><i class="ti-control-forward pr-2"></i>Prefab School</a></li>
                             </ul>
                         </div>
                         <div class="col-md-4">
                             <ul style="list-style-type:none">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Prefab Homes</a></li>
+                                <li><a href="prefab-homes-manufacturer"><i class="ti-control-forward pr-2"></i>Prefab Homes</a></li>
                             </ul>
                         </div>
                         <div class="col-md-4">
                             <ul style="list-style-type:none">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Sample Flat</a></li>
+                                <li><a href="prefab-sample-flat-manufacturer"><i class="ti-control-forward pr-2"></i>Sample Flat</a></li>
                             </ul>
                         </div>
                     </div>
@@ -241,18 +214,18 @@
                     <div class="row">
                         <div class="col-md-4">
                             <ul style="list-style-type:none; margin:0px">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Porta Cabin</a></li>
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Liftable Cabin</a></li>
+                                <li><a href="portable-cabin-manufacturer"><i class="ti-control-forward pr-2"></i>Porta Cabin</a></li>
+                                <li><a href="liftable-portable-cabin-manufacturer"><i class="ti-control-forward pr-2"></i>Liftable Cabin</a></li>
                             </ul>
                         </div>
                         <div class="col-md-4">
                             <ul style="list-style-type:none">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>Mi Homes</a></li>
+                                <li><a href="mi-homes-manufacturer"><i class="ti-control-forward pr-2"></i>Mi Homes</a></li>
                             </ul>
                         </div>
                         <div class="col-md-4">
                             <ul style="list-style-type:none">
-                                <li><a href="#"><i class="ti-control-forward pr-2"></i>K-House</a></li>
+                                <li><a href="prefab-k-houses-manufacturer"><i class="ti-control-forward pr-2"></i>K-House</a></li>
                             </ul>
                         </div>
                     </div>
