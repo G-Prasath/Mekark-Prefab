@@ -148,7 +148,7 @@
                             <div class="featured-imagebox featured-imagebox-portfolio style3">
 
                                 <div class="featured-thumbnail"> 
-                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/prefabsitestructure.jpg" alt="image"> 
+                                    <img width="610" height="750" class="img-fluid" src="images/home/services/prefabiricate-structure/prefabsitestructure.png" alt="image"> 
                                 </div>
 
                                 <div class="featured-content-inner">
