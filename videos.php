@@ -27,7 +27,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-12">
                                 <div class="seprate-service-page">
-                                    <h1 class="title">@ Videos</h1>
+                                    <h1 class="title">Videos</h1>
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <div class="container">

@@ -84,7 +84,7 @@
                                 </tr>
                                 <tr>
                                   <td>Our Clients</td>
-                                  <td>Pothys, Larsen & Toubro Infotech, CavinKare</td>
+                                  <td>Pothys, Larsen & Toubro Infotech, CavinKare, Naidu Hall</td>
                                 </tr>
                                 <tr>
                                   <td>Our Services</td>

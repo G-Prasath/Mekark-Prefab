@@ -141,9 +141,9 @@
                                                             <a href="sandwich-panel-roofing-manufacturer" class="mega-menu-link">Sandwich Panels</a>
                                                             <ul class="mega-submenu">
                                                                 <li><a href="puf-insulated-and-sandwich-panel-manufacturer">PUF Panel</a></li>
-                                                                <li><a href="eps-insulated-sandwich-panel-manufacturer">EPS Panel</a></li>
                                                                 <li><a href="rockwool-sandwich-panel-manufacturer">Rockwool Panel</a></li>
                                                                 <li><a href="glass-wool-sandwich-panel-manufacturer">Glasswool Panel</a></li>
+                                                                <li><a href="eps-insulated-sandwich-panel-manufacturer">EPS Panel</a></li>
                                                             </ul>
                                                         </li>
                                                         <!-- -------- LGSF ------------>
